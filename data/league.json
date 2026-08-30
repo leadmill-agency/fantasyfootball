@@ -5,13 +5,30 @@
   "scoring": "Half PPR",
   "passingTouchdown": 4,
   "interception": -2,
-  "starters": { "QB": 1, "RB": 2, "WR": 2, "TE": 1, "FLEX": 1, "DST": 1, "K": 1 },
+  "starters": {
+    "QB": 1,
+    "RB": 2,
+    "WR": 2,
+    "TE": 1,
+    "FLEX": 1,
+    "DST": 1,
+    "K": 1
+  },
   "bench": 7,
   "ir": 1,
   "regularSeasonGames": 14,
-  "playoffs": { "teams": 8, "rounds": 3, "format": "single_elimination", "matchupLength": 1 },
+  "playoffs": {
+    "teams": 8,
+    "rounds": 3,
+    "format": "single_elimination",
+    "matchupLength": 1
+  },
   "buyIn": 367,
-  "payouts": { "first": 2000, "second": 1000, "weeklyHigh": 100 },
-  "commissioner": "Kashir Sheikh",
+  "payouts": {
+    "first": 2000,
+    "second": 1000,
+    "weeklyHigh": 100
+  },
+  "commissioner": "Rameel Sheikh",
   "draftDate": "2026-08-29"
 }

@@ -86,7 +86,8 @@
       "manager": "Rameel Sheikh",
       "managerNameOnESPN": "Rameel Sheikh",
       "referenceFolder": "Player references/Rameel",
-      "draftSlot": 9
+      "draftSlot": 9,
+      "role": "Commissioner"
     },
     {
       "teamId": "chief-sheikh",
@@ -98,7 +99,8 @@
       "runnerUp": [
         2023,
         2024
-      ]
+      ],
+      "note": "Was commissioner for the 2025 season; Rameel Sheikh is the 2026 commissioner."
     },
     {
       "teamId": "gang-green",

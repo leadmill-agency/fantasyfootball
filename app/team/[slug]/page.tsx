@@ -52,7 +52,14 @@ export default async function TeamPage({
             {team.teamName}
           </h1>
           <p className="font-data text-sm text-ink-soft mt-3">
-            Managed by {team.manager} · Drafted from slot {team.draftSlot}
+            Managed by {team.manager}
+            {team.role && (
+              <>
+                {" · "}
+                <span className="text-accent font-medium">{team.role}</span>
+              </>
+            )}
+            {" · "}Drafted from slot {team.draftSlot}
           </p>
           {(team.championships || team.runnerUp) && (
             <p className="font-condensed font-bold uppercase tracking-[0.08em] text-sm mt-2">
