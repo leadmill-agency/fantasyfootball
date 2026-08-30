@@ -1,0 +1,38 @@
+{
+  "season": 2026,
+  "source": "ESPN League Schedule screenshot, 2026-08-29. Only Week 1 transcribed at verifiable resolution; weeks 2-14 pending a higher-resolution export. Playoffs: 3 one-week rounds at NFL weeks 15-17.",
+  "regularSeasonWeeks": 14,
+  "playoffWeeks": [
+    15,
+    16,
+    17
+  ],
+  "weeks": {
+    "1": [
+      {
+        "away": "bizzy",
+        "home": "deddybaba"
+      },
+      {
+        "away": "team-noor",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "bazan",
+        "home": "ivaafay"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "team-mbk"
+      },
+      {
+        "away": "gang-green",
+        "home": "chief-sheikh"
+      },
+      {
+        "away": "rambam",
+        "home": "mustafas-magnificent-team"
+      }
+    ]
+  }
+}

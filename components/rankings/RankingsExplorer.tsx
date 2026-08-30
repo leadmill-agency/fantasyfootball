@@ -102,15 +102,26 @@ export default function RankingsExplorer({
                   <div className="font-data text-[13px] text-ink-soft mt-2 flex flex-wrap gap-x-4">
                     <span>{formatRecord(t.record)}</span>
                     {t.pointsFor !== undefined && <span>{t.pointsFor} PF</span>}
-                    <span>
-                      PWR <strong className="text-ink">{t.powerScore}</strong>
-                    </span>
-                    <span className="sm:hidden">
+                    <Link
+                      href="/methodology#power-score"
+                      title="What is a power score?"
+                      className="hover:text-accent transition-colors underline decoration-dotted decoration-ink-faint underline-offset-4"
+                    >
+                      POWER SCORE{" "}
+                      <strong className="text-ink">{t.powerScore}</strong>
+                    </Link>
+                    <Link
+                      href="/odds"
+                      className="sm:hidden hover:text-accent transition-colors underline decoration-dotted decoration-ink-faint underline-offset-4"
+                    >
                       TITLE <strong className="text-ink">{t.titleOdds}%</strong>
-                    </span>
-                    <span>
+                    </Link>
+                    <Link
+                      href="/draft-grades"
+                      className="hover:text-accent transition-colors underline decoration-dotted decoration-ink-faint underline-offset-4"
+                    >
                       DRAFT <strong className="text-ink">{t.draftGrade}</strong>
-                    </span>
+                    </Link>
                   </div>
                   <p className="verdict mt-2.5 text-ink">{t.verdict}</p>
                   {!expanded && (

@@ -1,0 +1,227 @@
+{
+  "source": "ESPN League History screenshot (final standings), transcribed 2026-08-29. Final-standings order reflects playoff finish, not record.",
+  "seasons": [
+    {
+      "year": 2025,
+      "champion": {
+        "teamId": "team-noor"
+      },
+      "second": {
+        "name": "Zofrizzy"
+      },
+      "third": {
+        "teamId": "rambam"
+      },
+      "finalStandings": [
+        {
+          "place": 1,
+          "teamId": "team-noor",
+          "record": "8-6"
+        },
+        {
+          "place": 2,
+          "name": "Zofrizzy",
+          "record": "7-7"
+        },
+        {
+          "place": 3,
+          "teamId": "rambam",
+          "record": "8-6"
+        },
+        {
+          "place": 4,
+          "teamId": "deddybaba",
+          "record": "11-3"
+        },
+        {
+          "place": 5,
+          "teamId": "gang-green",
+          "record": "6-8"
+        },
+        {
+          "place": 6,
+          "teamId": "bizzy",
+          "record": "8-6"
+        },
+        {
+          "place": 7,
+          "teamId": "team-mbk",
+          "record": "7-7"
+        },
+        {
+          "place": 8,
+          "teamId": "ivaafay",
+          "record": "10-4"
+        },
+        {
+          "place": 9,
+          "name": "Young Moose",
+          "record": "5-9"
+        },
+        {
+          "place": 10,
+          "teamId": "chief-sheikh",
+          "record": "6-8"
+        },
+        {
+          "place": 11,
+          "teamId": "i-eat-ass",
+          "record": "4-10"
+        },
+        {
+          "place": 12,
+          "teamId": "hnfnr-aint-busy",
+          "record": "4-10"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "champion": {
+        "teamId": "i-eat-ass"
+      },
+      "second": {
+        "teamId": "chief-sheikh"
+      },
+      "third": {
+        "teamId": "bizzy"
+      },
+      "finalStandings": [
+        {
+          "place": 1,
+          "teamId": "i-eat-ass",
+          "record": "9-5"
+        },
+        {
+          "place": 2,
+          "teamId": "chief-sheikh",
+          "record": "8-6"
+        },
+        {
+          "place": 3,
+          "teamId": "bizzy",
+          "record": "11-3"
+        },
+        {
+          "place": 4,
+          "teamId": "deddybaba",
+          "record": "11-3"
+        },
+        {
+          "place": 5,
+          "teamId": "gang-green",
+          "record": "7-7"
+        },
+        {
+          "place": 6,
+          "teamId": "rambam",
+          "record": "9-5"
+        },
+        {
+          "place": 7,
+          "teamId": "team-noor",
+          "record": "7-7"
+        },
+        {
+          "place": 8,
+          "teamId": "hnfnr-aint-busy",
+          "record": "6-8"
+        },
+        {
+          "place": 9,
+          "teamId": "team-mbk",
+          "record": "5-9"
+        },
+        {
+          "place": 10,
+          "name": "Zohaib's Honorable Team",
+          "record": "1-13"
+        },
+        {
+          "place": 11,
+          "name": "Wolfy",
+          "record": "5-9"
+        },
+        {
+          "place": 12,
+          "name": "IM HIM",
+          "record": "5-9"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "champion": {
+        "teamId": "team-mbk"
+      },
+      "second": {
+        "teamId": "chief-sheikh"
+      },
+      "third": {
+        "teamId": "i-eat-ass"
+      },
+      "finalStandings": [
+        {
+          "place": 1,
+          "teamId": "team-mbk",
+          "record": "7-7"
+        },
+        {
+          "place": 2,
+          "teamId": "chief-sheikh",
+          "record": "7-7"
+        },
+        {
+          "place": 3,
+          "teamId": "i-eat-ass",
+          "record": "7-7"
+        },
+        {
+          "place": 4,
+          "name": "IM HIM",
+          "record": "13-1"
+        },
+        {
+          "place": 5,
+          "name": "Khadir",
+          "record": "7-7"
+        },
+        {
+          "place": 6,
+          "name": "Team Fresh",
+          "record": "10-4"
+        },
+        {
+          "place": 7,
+          "teamId": "team-noor",
+          "record": "8-6"
+        },
+        {
+          "place": 8,
+          "name": "Wolfy",
+          "record": "8-6"
+        },
+        {
+          "place": 9,
+          "teamId": "gang-green",
+          "record": "6-8"
+        },
+        {
+          "place": 10,
+          "teamId": "bizzy",
+          "record": "6-8"
+        },
+        {
+          "place": 11,
+          "teamId": "rambam",
+          "record": "2-12"
+        },
+        {
+          "place": 12,
+          "teamId": "deddybaba",
+          "record": "3-11"
+        }
+      ]
+    }
+  ]
+}

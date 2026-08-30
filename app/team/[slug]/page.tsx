@@ -53,6 +53,23 @@ export default async function TeamPage({
           <p className="font-data text-sm text-ink-soft mt-3">
             Managed by {team.manager} · Drafted from slot {team.draftSlot}
           </p>
+          {(team.championships || team.runnerUp) && (
+            <p className="font-condensed font-bold uppercase tracking-[0.08em] text-sm mt-2">
+              {team.championships && (
+                <span className="text-accent">
+                  League champion {team.championships.join(", ")}
+                </span>
+              )}
+              {team.championships && team.runnerUp && (
+                <span className="text-ink-faint"> · </span>
+              )}
+              {team.runnerUp && (
+                <span className="text-ink-soft">
+                  Runner-up {team.runnerUp.join(", ")}
+                </span>
+              )}
+            </p>
+          )}
         </div>
         <div className="flex sm:flex-col gap-6 sm:gap-3 sm:text-right">
           <div>

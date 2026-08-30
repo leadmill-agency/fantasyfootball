@@ -21,6 +21,14 @@ grades = json.load(open(f"{ROOT}/data/draft-grades.json"))
 editorial = json.load(open(f"{ROOT}/scripts/editorial.json"))
 
 grade_of = {t["teamId"]: t["grade"] for t in grades["teams"]}
+schedule = json.load(open(f"{ROOT}/data/schedule.json"))
+teams_meta = {t["teamId"]: t for t in json.load(open(f"{ROOT}/data/teams.json"))["teams"]}
+
+next_matchup = {}
+for m in schedule["weeks"].get("1", []):
+    away, home = m["away"], m["home"]
+    next_matchup[away] = f'at {teams_meta[home]["teamName"]}'
+    next_matchup[home] = f'vs {teams_meta[away]["teamName"]}'
 drafted = {}
 for p in draft["picks"]:
     drafted.setdefault(p["teamId"], []).append(p)
@@ -100,6 +108,7 @@ for rank, tid, score, tier, archetype, ceiling in BOARD:
         "tier": tier,
         "archetype": archetype,
         **({"ceilingRank": ceiling} if ceiling else {}),
+        **({"nextMatchup": next_matchup[tid]} if tid in next_matchup else {}),
         "headline": e["headline"],
         "verdict": e["verdict"],
         "analysis": e["analysis"],

@@ -10,7 +10,10 @@
       "managerNameOnESPN": "Muhammad K.",
       "referenceFolder": "Player references/bilal",
       "draftSlot": 1,
-      "note": "ESPN name truncated ('Muhammad K...'); chat name 'Bilal Khan'; initials MBK. Confirmed by elimination - only unassigned manager."
+      "note": "ESPN name truncated ('Muhammad K...'); chat name 'Bilal Khan'; initials MBK. Confirmed by elimination - only unassigned manager.",
+      "championships": [
+        2023
+      ]
     },
     {
       "teamId": "ivaafay",
@@ -26,7 +29,10 @@
       "manager": "Haroon Noor",
       "managerNameOnESPN": "Haroon Noor",
       "referenceFolder": "Player references/Haroon",
-      "draftSlot": 3
+      "draftSlot": 3,
+      "championships": [
+        2025
+      ]
     },
     {
       "teamId": "bizzy",
@@ -51,7 +57,10 @@
       "manager": "Ivan Estipona",
       "managerNameOnESPN": "Ivan Estipona",
       "referenceFolder": "Player references/Ivan",
-      "draftSlot": 6
+      "draftSlot": 6,
+      "championships": [
+        2024
+      ]
     },
     {
       "teamId": "hnfnr-aint-busy",
@@ -85,7 +94,11 @@
       "manager": "Kashir Sheikh",
       "managerNameOnESPN": "kashir sheikh",
       "referenceFolder": "Player references/Kashir",
-      "draftSlot": 10
+      "draftSlot": 10,
+      "runnerUp": [
+        2023,
+        2024
+      ]
     },
     {
       "teamId": "gang-green",
