@@ -105,6 +105,39 @@ export function getDraft() {
   return DraftFileSchema.parse(readJson("draft.json"));
 }
 
+type ScheduleFile = {
+  regularSeasonWeeks: number;
+  playoffWeeks: number[];
+  weeks: Record<string, { away: string; home: string }[]>;
+};
+
+let scheduleCache: ScheduleFile | undefined;
+
+export function getSchedule(): ScheduleFile {
+  if (!scheduleCache) {
+    scheduleCache = JSON.parse(
+      fs.readFileSync(path.join(DATA_DIR, "schedule.json"), "utf8")
+    ) as ScheduleFile;
+  }
+  return scheduleCache;
+}
+
+export function getTeamSchedule(
+  teamId: string
+): { week: number; opponentId: string; site: "home" | "away" }[] {
+  const schedule = getSchedule();
+  const rows: { week: number; opponentId: string; site: "home" | "away" }[] = [];
+  for (const [week, games] of Object.entries(schedule.weeks)) {
+    for (const g of games) {
+      if (g.home === teamId)
+        rows.push({ week: Number(week), opponentId: g.away, site: "home" });
+      else if (g.away === teamId)
+        rows.push({ week: Number(week), opponentId: g.home, site: "away" });
+    }
+  }
+  return rows.sort((a, b) => a.week - b.week);
+}
+
 export function parseWeekParam(param: string | undefined): WeekId {
   if (!param) return getLatestWeek();
   if (param === "preseason") return "preseason";

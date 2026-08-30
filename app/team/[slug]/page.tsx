@@ -7,6 +7,7 @@ import {
   getTeamGrade,
   getTeamHistory,
   getTeams,
+  getTeamSchedule,
   getTeamSnapshot,
 } from "@/lib/data";
 import { formatRecord, weekLabel } from "@/lib/format";
@@ -183,6 +184,34 @@ export default async function TeamPage({
           >
             Compare this team →
           </Link>
+
+          <h2 className="eyebrow text-ink-soft border-b border-rule pb-2 mb-4 mt-10">
+            2026 Schedule
+          </h2>
+          <ul>
+            {getTeamSchedule(slug).map((g) => {
+              const opp = getTeam(g.opponentId);
+              return (
+                <li
+                  key={g.week}
+                  className="flex items-baseline gap-3 py-1.5 border-b border-rule/50 font-data text-sm"
+                >
+                  <span className="text-ink-faint text-xs w-10 shrink-0">
+                    W{g.week}
+                  </span>
+                  <span className="text-ink-faint text-xs w-5 shrink-0">
+                    {g.site === "home" ? "vs" : "at"}
+                  </span>
+                  <Link
+                    href={`/team/${g.opponentId}`}
+                    className="hover:text-accent transition-colors"
+                  >
+                    {opp?.teamName ?? g.opponentId}
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
         </aside>
       </div>
     </div>

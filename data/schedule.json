@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "source": "ESPN League Schedule screenshot, 2026-08-29. Only Week 1 transcribed at verifiable resolution; weeks 2-14 pending a higher-resolution export. Playoffs: 3 one-week rounds at NFL weeks 15-17.",
+  "source": "ESPN League Schedule screenshots (full resolution), transcribed 2026-08-29. All 14 regular-season weeks verified. Playoffs: 3 one-week rounds at NFL weeks 15-17, matchups TBD.",
   "regularSeasonWeeks": 14,
   "playoffWeeks": [
     15,
@@ -32,6 +32,344 @@
       {
         "away": "rambam",
         "home": "mustafas-magnificent-team"
+      }
+    ],
+    "2": [
+      {
+        "away": "team-noor",
+        "home": "bizzy"
+      },
+      {
+        "away": "deddybaba",
+        "home": "bazan"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "i-eat-ass"
+      },
+      {
+        "away": "ivaafay",
+        "home": "gang-green"
+      },
+      {
+        "away": "team-mbk",
+        "home": "rambam"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "mustafas-magnificent-team"
+      }
+    ],
+    "3": [
+      {
+        "away": "bizzy",
+        "home": "bazan"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "team-noor"
+      },
+      {
+        "away": "gang-green",
+        "home": "deddybaba"
+      },
+      {
+        "away": "rambam",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "ivaafay"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "team-mbk"
+      }
+    ],
+    "4": [
+      {
+        "away": "i-eat-ass",
+        "home": "bizzy"
+      },
+      {
+        "away": "bazan",
+        "home": "gang-green"
+      },
+      {
+        "away": "team-noor",
+        "home": "rambam"
+      },
+      {
+        "away": "deddybaba",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "chief-sheikh"
+      },
+      {
+        "away": "ivaafay",
+        "home": "team-mbk"
+      }
+    ],
+    "5": [
+      {
+        "away": "bizzy",
+        "home": "gang-green"
+      },
+      {
+        "away": "rambam",
+        "home": "i-eat-ass"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "bazan"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "team-noor"
+      },
+      {
+        "away": "team-mbk",
+        "home": "deddybaba"
+      },
+      {
+        "away": "ivaafay",
+        "home": "hnfnr-aint-busy"
+      }
+    ],
+    "6": [
+      {
+        "away": "rambam",
+        "home": "bizzy"
+      },
+      {
+        "away": "gang-green",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "chief-sheikh"
+      },
+      {
+        "away": "bazan",
+        "home": "team-mbk"
+      },
+      {
+        "away": "team-noor",
+        "home": "ivaafay"
+      },
+      {
+        "away": "deddybaba",
+        "home": "hnfnr-aint-busy"
+      }
+    ],
+    "7": [
+      {
+        "away": "bizzy",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "rambam"
+      },
+      {
+        "away": "team-mbk",
+        "home": "gang-green"
+      },
+      {
+        "away": "ivaafay",
+        "home": "i-eat-ass"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "bazan"
+      },
+      {
+        "away": "deddybaba",
+        "home": "team-noor"
+      }
+    ],
+    "8": [
+      {
+        "away": "chief-sheikh",
+        "home": "bizzy"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "team-mbk"
+      },
+      {
+        "away": "rambam",
+        "home": "ivaafay"
+      },
+      {
+        "away": "gang-green",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "deddybaba"
+      },
+      {
+        "away": "bazan",
+        "home": "team-noor"
+      }
+    ],
+    "9": [
+      {
+        "away": "bizzy",
+        "home": "team-mbk"
+      },
+      {
+        "away": "ivaafay",
+        "home": "chief-sheikh"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "deddybaba",
+        "home": "rambam"
+      },
+      {
+        "away": "team-noor",
+        "home": "gang-green"
+      },
+      {
+        "away": "bazan",
+        "home": "i-eat-ass"
+      }
+    ],
+    "10": [
+      {
+        "away": "ivaafay",
+        "home": "bizzy"
+      },
+      {
+        "away": "team-mbk",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "deddybaba"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "team-noor"
+      },
+      {
+        "away": "rambam",
+        "home": "bazan"
+      },
+      {
+        "away": "gang-green",
+        "home": "i-eat-ass"
+      }
+    ],
+    "11": [
+      {
+        "away": "bizzy",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "deddybaba",
+        "home": "ivaafay"
+      },
+      {
+        "away": "team-noor",
+        "home": "team-mbk"
+      },
+      {
+        "away": "bazan",
+        "home": "chief-sheikh"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "gang-green",
+        "home": "rambam"
+      }
+    ],
+    "12": [
+      {
+        "away": "deddybaba",
+        "home": "bizzy"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "team-noor"
+      },
+      {
+        "away": "ivaafay",
+        "home": "bazan"
+      },
+      {
+        "away": "team-mbk",
+        "home": "i-eat-ass"
+      },
+      {
+        "away": "chief-sheikh",
+        "home": "gang-green"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "rambam"
+      }
+    ],
+    "13": [
+      {
+        "away": "bizzy",
+        "home": "team-noor"
+      },
+      {
+        "away": "bazan",
+        "home": "deddybaba"
+      },
+      {
+        "away": "i-eat-ass",
+        "home": "hnfnr-aint-busy"
+      },
+      {
+        "away": "gang-green",
+        "home": "ivaafay"
+      },
+      {
+        "away": "rambam",
+        "home": "team-mbk"
+      },
+      {
+        "away": "mustafas-magnificent-team",
+        "home": "chief-sheikh"
+      }
+    ],
+    "14": [
+      {
+        "away": "bazan",
+        "home": "bizzy"
+      },
+      {
+        "away": "team-noor",
+        "home": "i-eat-ass"
+      },
+      {
+        "away": "deddybaba",
+        "home": "gang-green"
+      },
+      {
+        "away": "hnfnr-aint-busy",
+        "home": "rambam"
+      },
+      {
+        "away": "ivaafay",
+        "home": "mustafas-magnificent-team"
+      },
+      {
+        "away": "team-mbk",
+        "home": "chief-sheikh"
       }
     ]
   }
