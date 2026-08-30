@@ -44,6 +44,7 @@ export const WeeklySnapshotSchema = z.object({
   week: z.union([z.number(), z.literal("preseason")]),
   publishedAt: z.string(),
   deck: z.string(),
+  corrections: z.string().optional(),
   teams: z.array(WeeklyTeamSnapshotSchema),
 });
 

@@ -23,9 +23,10 @@ export default function DraftGradesPage() {
         frozen. If your C+ team wins the title, the C+ stays.
       </p>
       <p className="font-data text-xs text-ink-faint mt-4 mb-8">
-        ADP: Fantasy Football Calculator, 12-team half-PPR, 3,302 drafts through{" "}
-        {gradedAsOf}. Players outside the source are shown without ADP, never
-        invented.
+        Pick prices: ESPN Live Draft Results, retrieved {gradedAsOf} — the
+        platform this league drafts on. Team grades were computed before the
+        ADP-source correction and stay frozen. Unranked players are shown
+        without ADP, never invented.
       </p>
 
       <DraftExplorer

@@ -58,10 +58,16 @@ export default function MethodologyPage() {
           construction (15%), and bench optionality (10%).
         </p>
         <p>
-          ADP comes from a real recorded source: Fantasy Football Calculator's
-          12-team half-PPR data, 3,302 live drafts sampled August 24–29, 2026.
-          Players outside that source are shown without ADP — an unknown stays
-          unknown.
+          Two recorded ADP sources exist, and they are used for different
+          things. The per-pick prices shown across the site come from ESPN
+          Live Draft Results (retrieved August 29, 2026) — the platform this
+          league drafts on, which makes it the market the room actually faced.
+          The frozen team grades were computed before that correction, against
+          Fantasy Football Calculator's 12-team half-PPR data (3,302 drafts,
+          August 24–29). Per the immutability rule, the grades stay as
+          computed; the Corrections Dept. on the rankings page tells the full
+          story. Players outside a source are shown without ADP — an unknown
+          stays unknown.
         </p>
         <p>
           The grades and the power board are allowed to disagree, and they do.

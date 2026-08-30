@@ -84,6 +84,8 @@ def american(prob):
     return f"+{round((1 - p) / p * 100 / 5) * 5}"
 
 out = {"week": "preseason", "publishedAt": "2026-08-29", "deck": editorial["deck"], "teams": []}
+if editorial.get("corrections"):
+    out["corrections"] = editorial["corrections"]
 for rank, tid, score, tier, archetype, ceiling in BOARD:
     players = drafted[tid]
     by_name = {p["player"]: p for p in players}

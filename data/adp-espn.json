@@ -1,0 +1,1931 @@
+{
+  "source": {
+    "name": "ESPN Live Draft Results",
+    "url": "https://fantasy.espn.com/football/livedraftresults",
+    "api": "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/2026/segments/0/leaguedefaults/3?scoringPeriodId=0&view=kona_player_info",
+    "retrievedAt": "2026-08-29",
+    "note": "The league drafts in the ESPN app; this is the market the room drafted against. adpDiff = overall pick minus ADP: positive = drafted later than price (value), negative = earlier (reach)."
+  },
+  "players": [
+    {
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "nflTeam": "DET",
+      "overallPick": 1,
+      "teamId": "team-mbk",
+      "adp": 1.4,
+      "adpDiff": -0.4,
+      "espnName": "Jahmyr Gibbs"
+    },
+    {
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "nflTeam": "ATL",
+      "overallPick": 2,
+      "teamId": "ivaafay",
+      "adp": 2.4,
+      "adpDiff": -0.4,
+      "espnName": "Bijan Robinson"
+    },
+    {
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "nflTeam": "CIN",
+      "overallPick": 3,
+      "teamId": "team-noor",
+      "adp": 4.1,
+      "adpDiff": -1.1,
+      "espnName": "Ja'Marr Chase"
+    },
+    {
+      "player": "Jonathan Taylor",
+      "position": "RB",
+      "nflTeam": "IND",
+      "overallPick": 4,
+      "teamId": "bizzy",
+      "adp": 7.0,
+      "adpDiff": -3.0,
+      "espnName": "Jonathan Taylor"
+    },
+    {
+      "player": "Puka Nacua",
+      "position": "WR",
+      "nflTeam": "LAR",
+      "overallPick": 5,
+      "teamId": "deddybaba",
+      "adp": 5.3,
+      "adpDiff": -0.3,
+      "espnName": "Puka Nacua"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "nflTeam": "SF",
+      "overallPick": 6,
+      "teamId": "i-eat-ass",
+      "adp": 7.5,
+      "adpDiff": -1.5,
+      "espnName": "Christian McCaffrey"
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "nflTeam": "SEA",
+      "overallPick": 7,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 5.9,
+      "adpDiff": 1.1,
+      "espnName": "Jaxon Smith-Njigba"
+    },
+    {
+      "player": "James Cook III",
+      "position": "RB",
+      "nflTeam": "BUF",
+      "overallPick": 8,
+      "teamId": "bazan",
+      "adp": 11.4,
+      "adpDiff": -3.4,
+      "espnName": "James Cook III"
+    },
+    {
+      "player": "Chase Brown",
+      "position": "RB",
+      "nflTeam": "CIN",
+      "overallPick": 9,
+      "teamId": "rambam",
+      "adp": 19.7,
+      "adpDiff": -10.7,
+      "espnName": "Chase Brown"
+    },
+    {
+      "player": "Amon-Ra St. Brown",
+      "position": "WR",
+      "nflTeam": "DET",
+      "overallPick": 10,
+      "teamId": "chief-sheikh",
+      "adp": 8.3,
+      "adpDiff": 1.7,
+      "espnName": "Amon-Ra St. Brown"
+    },
+    {
+      "player": "De'Von Achane",
+      "position": "RB",
+      "nflTeam": "MIA",
+      "overallPick": 11,
+      "teamId": "gang-green",
+      "adp": 12.0,
+      "adpDiff": -1.0,
+      "espnName": "De'Von Achane"
+    },
+    {
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "nflTeam": "LAC",
+      "overallPick": 12,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 22.5,
+      "adpDiff": -10.5,
+      "espnName": "Omarion Hampton"
+    },
+    {
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "nflTeam": "PHI",
+      "overallPick": 13,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 14.8,
+      "adpDiff": -1.8,
+      "espnName": "Saquon Barkley"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "position": "RB",
+      "nflTeam": "LV",
+      "overallPick": 14,
+      "teamId": "gang-green",
+      "adp": 19.7,
+      "adpDiff": -5.7,
+      "espnName": "Ashton Jeanty"
+    },
+    {
+      "player": "Justin Jefferson",
+      "position": "WR",
+      "nflTeam": "MIN",
+      "overallPick": 15,
+      "teamId": "chief-sheikh",
+      "adp": 12.4,
+      "adpDiff": 2.6,
+      "espnName": "Justin Jefferson"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "position": "WR",
+      "nflTeam": "DAL",
+      "overallPick": 16,
+      "teamId": "rambam",
+      "adp": 11.2,
+      "adpDiff": 4.8,
+      "espnName": "CeeDee Lamb"
+    },
+    {
+      "player": "A.J. Brown",
+      "position": "WR",
+      "nflTeam": "NE",
+      "overallPick": 17,
+      "teamId": "bazan",
+      "adp": 24.2,
+      "adpDiff": -7.2,
+      "espnName": "A.J. Brown"
+    },
+    {
+      "player": "Derrick Henry",
+      "position": "RB",
+      "nflTeam": "BAL",
+      "overallPick": 18,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 17.8,
+      "adpDiff": 0.2,
+      "espnName": "Derrick Henry"
+    },
+    {
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "nflTeam": "ARI",
+      "overallPick": 19,
+      "teamId": "i-eat-ass",
+      "adp": 24.4,
+      "adpDiff": -5.4,
+      "espnName": "Jeremiyah Love"
+    },
+    {
+      "player": "Rashee Rice",
+      "position": "WR",
+      "nflTeam": "KC",
+      "overallPick": 20,
+      "teamId": "deddybaba",
+      "adp": 25.2,
+      "adpDiff": -5.2,
+      "espnName": "Rashee Rice"
+    },
+    {
+      "player": "Kenneth Walker III",
+      "position": "RB",
+      "nflTeam": "KC",
+      "overallPick": 21,
+      "teamId": "bizzy",
+      "adp": 23.6,
+      "adpDiff": -2.6,
+      "espnName": "Kenneth Walker III"
+    },
+    {
+      "player": "Breece Hall",
+      "position": "RB",
+      "nflTeam": "NYJ",
+      "overallPick": 22,
+      "teamId": "team-noor",
+      "adp": 34.8,
+      "adpDiff": -12.8,
+      "espnName": "Breece Hall"
+    },
+    {
+      "player": "George Pickens",
+      "position": "WR",
+      "nflTeam": "DAL",
+      "overallPick": 23,
+      "teamId": "ivaafay",
+      "adp": 29.6,
+      "adpDiff": -6.6,
+      "espnName": "George Pickens"
+    },
+    {
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "nflTeam": "GB",
+      "overallPick": 24,
+      "teamId": "team-mbk",
+      "adp": 38.5,
+      "adpDiff": -14.5,
+      "espnName": "Josh Jacobs"
+    },
+    {
+      "player": "Drake London",
+      "position": "WR",
+      "nflTeam": "ATL",
+      "overallPick": 25,
+      "teamId": "team-mbk",
+      "adp": 19.2,
+      "adpDiff": 5.8,
+      "espnName": "Drake London"
+    },
+    {
+      "player": "Javonte Williams",
+      "position": "RB",
+      "nflTeam": "DAL",
+      "overallPick": 26,
+      "teamId": "ivaafay",
+      "adp": 34.6,
+      "adpDiff": -8.6,
+      "espnName": "Javonte Williams"
+    },
+    {
+      "player": "Kyren Williams",
+      "position": "RB",
+      "nflTeam": "LAR",
+      "overallPick": 27,
+      "teamId": "team-noor",
+      "adp": 39.3,
+      "adpDiff": -12.3,
+      "espnName": "Kyren Williams"
+    },
+    {
+      "player": "Nico Collins",
+      "position": "WR",
+      "nflTeam": "HOU",
+      "overallPick": 28,
+      "teamId": "bizzy",
+      "adp": 26.4,
+      "adpDiff": 1.6,
+      "espnName": "Nico Collins"
+    },
+    {
+      "player": "Josh Allen",
+      "position": "QB",
+      "nflTeam": "BUF",
+      "overallPick": 29,
+      "teamId": "deddybaba",
+      "adp": 20.8,
+      "adpDiff": 8.2,
+      "espnName": "Josh Allen"
+    },
+    {
+      "player": "Chris Olave",
+      "position": "WR",
+      "nflTeam": "NO",
+      "overallPick": 30,
+      "teamId": "i-eat-ass",
+      "adp": 30.4,
+      "adpDiff": -0.4,
+      "espnName": "Chris Olave"
+    },
+    {
+      "player": "Brock Bowers",
+      "position": "TE",
+      "nflTeam": "LV",
+      "overallPick": 31,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 24.2,
+      "adpDiff": 6.8,
+      "espnName": "Brock Bowers"
+    },
+    {
+      "player": "Malik Nabers",
+      "position": "WR",
+      "nflTeam": "NYG",
+      "overallPick": 32,
+      "teamId": "bazan",
+      "adp": 34.3,
+      "adpDiff": -2.3,
+      "espnName": "Malik Nabers"
+    },
+    {
+      "player": "Travis Etienne Jr.",
+      "position": "RB",
+      "nflTeam": "NO",
+      "overallPick": 33,
+      "teamId": "rambam",
+      "adp": 43.3,
+      "adpDiff": -10.3,
+      "espnName": "Travis Etienne Jr."
+    },
+    {
+      "player": "Trey McBride",
+      "position": "TE",
+      "nflTeam": "ARI",
+      "overallPick": 34,
+      "teamId": "chief-sheikh",
+      "adp": 21.5,
+      "adpDiff": 12.5,
+      "espnName": "Trey McBride"
+    },
+    {
+      "player": "Garrett Wilson",
+      "position": "WR",
+      "nflTeam": "NYJ",
+      "overallPick": 35,
+      "teamId": "gang-green",
+      "adp": 36.7,
+      "adpDiff": -1.7,
+      "espnName": "Garrett Wilson"
+    },
+    {
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "nflTeam": "PHI",
+      "overallPick": 36,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 39.0,
+      "adpDiff": -3.0,
+      "espnName": "DeVonta Smith"
+    },
+    {
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "nflTeam": "LAC",
+      "overallPick": 37,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 48.5,
+      "adpDiff": -11.5,
+      "espnName": "Ladd McConkey"
+    },
+    {
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "nflTeam": "CAR",
+      "overallPick": 38,
+      "teamId": "gang-green",
+      "adp": 41.6,
+      "adpDiff": -3.6,
+      "espnName": "Tetairoa McMillan"
+    },
+    {
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "nflTeam": "NYG",
+      "overallPick": 39,
+      "teamId": "chief-sheikh",
+      "adp": 45.1,
+      "adpDiff": -6.1,
+      "espnName": "Cam Skattebo"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "position": "WR",
+      "nflTeam": "TB",
+      "overallPick": 40,
+      "teamId": "rambam",
+      "adp": 46.8,
+      "adpDiff": -6.8,
+      "espnName": "Emeka Egbuka"
+    },
+    {
+      "player": "D'Andre Swift",
+      "position": "RB",
+      "nflTeam": "CHI",
+      "overallPick": 41,
+      "teamId": "bazan",
+      "adp": 59.3,
+      "adpDiff": -18.3,
+      "espnName": "D'Andre Swift"
+    },
+    {
+      "player": "Zay Flowers",
+      "position": "WR",
+      "nflTeam": "BAL",
+      "overallPick": 42,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 42.6,
+      "adpDiff": -0.6,
+      "espnName": "Zay Flowers"
+    },
+    {
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "nflTeam": "CLE",
+      "overallPick": 43,
+      "teamId": "i-eat-ass",
+      "adp": 52.6,
+      "adpDiff": -9.6,
+      "espnName": "Quinshon Judkins"
+    },
+    {
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "nflTeam": "JAX",
+      "overallPick": 44,
+      "teamId": "deddybaba",
+      "adp": 68.1,
+      "adpDiff": -24.1,
+      "espnName": "Bhayshul Tuten"
+    },
+    {
+      "player": "Colston Loveland",
+      "position": "TE",
+      "nflTeam": "CHI",
+      "overallPick": 45,
+      "teamId": "bizzy",
+      "adp": 44.0,
+      "adpDiff": 1.0,
+      "espnName": "Colston Loveland"
+    },
+    {
+      "player": "Bucky Irving",
+      "position": "RB",
+      "nflTeam": "TB",
+      "overallPick": 46,
+      "teamId": "team-noor",
+      "adp": 55.5,
+      "adpDiff": -9.5,
+      "espnName": "Bucky Irving"
+    },
+    {
+      "player": "Jadarian Price",
+      "position": "RB",
+      "nflTeam": "SEA",
+      "overallPick": 47,
+      "teamId": "ivaafay",
+      "adp": 72.8,
+      "adpDiff": -25.8,
+      "espnName": "Jadarian Price"
+    },
+    {
+      "player": "David Montgomery",
+      "position": "RB",
+      "nflTeam": "HOU",
+      "overallPick": 48,
+      "teamId": "team-mbk",
+      "adp": 66.7,
+      "adpDiff": -18.7,
+      "espnName": "David Montgomery"
+    },
+    {
+      "player": "Tee Higgins",
+      "position": "WR",
+      "nflTeam": "CIN",
+      "overallPick": 49,
+      "teamId": "team-mbk",
+      "adp": 53.3,
+      "adpDiff": -4.3,
+      "espnName": "Tee Higgins"
+    },
+    {
+      "player": "Davante Adams",
+      "position": "WR",
+      "nflTeam": "LAR",
+      "overallPick": 50,
+      "teamId": "ivaafay",
+      "adp": 46.3,
+      "adpDiff": 3.7,
+      "espnName": "Davante Adams"
+    },
+    {
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "nflTeam": "DEN",
+      "overallPick": 51,
+      "teamId": "team-noor",
+      "adp": 54.4,
+      "adpDiff": -3.4,
+      "espnName": "Jaylen Waddle"
+    },
+    {
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "nflTeam": "NE",
+      "overallPick": 52,
+      "teamId": "bizzy",
+      "adp": 78.9,
+      "adpDiff": -26.9,
+      "espnName": "TreVeyon Henderson"
+    },
+    {
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "nflTeam": "WSH",
+      "overallPick": 53,
+      "teamId": "deddybaba",
+      "adp": 60.5,
+      "adpDiff": -7.5,
+      "espnName": "Terry McLaurin"
+    },
+    {
+      "player": "Jameson Williams",
+      "position": "WR",
+      "nflTeam": "DET",
+      "overallPick": 54,
+      "teamId": "i-eat-ass",
+      "adp": 65.8,
+      "adpDiff": -11.8,
+      "espnName": "Jameson Williams"
+    },
+    {
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "nflTeam": "NE",
+      "overallPick": 55,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 82.2,
+      "adpDiff": -27.2,
+      "espnName": "Rhamondre Stevenson"
+    },
+    {
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "nflTeam": "BAL",
+      "overallPick": 56,
+      "teamId": "bazan",
+      "adp": 37.1,
+      "adpDiff": 18.9,
+      "espnName": "Lamar Jackson"
+    },
+    {
+      "player": "Tyler Warren",
+      "position": "TE",
+      "nflTeam": "IND",
+      "overallPick": 57,
+      "teamId": "rambam",
+      "adp": 51.3,
+      "adpDiff": 5.7,
+      "espnName": "Tyler Warren"
+    },
+    {
+      "player": "Parker Washington",
+      "position": "WR",
+      "nflTeam": "JAX",
+      "overallPick": 58,
+      "teamId": "chief-sheikh",
+      "adp": 92.3,
+      "adpDiff": -34.3,
+      "espnName": "Parker Washington"
+    },
+    {
+      "player": "Luther Burden III",
+      "position": "WR",
+      "nflTeam": "CHI",
+      "overallPick": 59,
+      "teamId": "gang-green",
+      "adp": 76.5,
+      "adpDiff": -17.5,
+      "espnName": "Luther Burden III"
+    },
+    {
+      "player": "DJ Moore",
+      "position": "WR",
+      "nflTeam": "BUF",
+      "overallPick": 60,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 62.5,
+      "adpDiff": -2.5,
+      "espnName": "DJ Moore"
+    },
+    {
+      "player": "Marvin Harrison Jr.",
+      "position": "WR",
+      "nflTeam": "ARI",
+      "overallPick": 61,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 82.4,
+      "adpDiff": -21.4,
+      "espnName": "Marvin Harrison Jr."
+    },
+    {
+      "player": "Harold Fannin Jr.",
+      "position": "TE",
+      "nflTeam": "CLE",
+      "overallPick": 62,
+      "teamId": "gang-green",
+      "adp": 73.2,
+      "adpDiff": -11.2,
+      "espnName": "Harold Fannin Jr."
+    },
+    {
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "nflTeam": "PIT",
+      "overallPick": 63,
+      "teamId": "chief-sheikh",
+      "adp": 93.8,
+      "adpDiff": -30.8,
+      "espnName": "Jaylen Warren"
+    },
+    {
+      "player": "Rome Odunze",
+      "position": "WR",
+      "nflTeam": "CHI",
+      "overallPick": 64,
+      "teamId": "rambam",
+      "adp": 64.6,
+      "adpDiff": -0.6,
+      "espnName": "Rome Odunze"
+    },
+    {
+      "player": "Michael Pittman Jr.",
+      "position": "WR",
+      "nflTeam": "PIT",
+      "overallPick": 65,
+      "teamId": "bazan",
+      "adp": 90.4,
+      "adpDiff": -25.4,
+      "espnName": "Michael Pittman Jr."
+    },
+    {
+      "player": "Tony Pollard",
+      "position": "RB",
+      "nflTeam": "TEN",
+      "overallPick": 66,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 98.9,
+      "adpDiff": -32.9,
+      "espnName": "Tony Pollard"
+    },
+    {
+      "player": "MarShawn Lloyd",
+      "position": "RB",
+      "nflTeam": "GB",
+      "overallPick": 67,
+      "teamId": "i-eat-ass",
+      "adp": 165.9,
+      "adpDiff": -98.9,
+      "espnName": "MarShawn Lloyd"
+    },
+    {
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "nflTeam": "GB",
+      "overallPick": 68,
+      "teamId": "deddybaba",
+      "adp": 89.9,
+      "adpDiff": -21.9,
+      "espnName": "Tucker Kraft"
+    },
+    {
+      "player": "Drake Maye",
+      "position": "QB",
+      "nflTeam": "NE",
+      "overallPick": 69,
+      "teamId": "bizzy",
+      "adp": 47.5,
+      "adpDiff": 21.5,
+      "espnName": "Drake Maye"
+    },
+    {
+      "player": "Christian Watson",
+      "position": "WR",
+      "nflTeam": "GB",
+      "overallPick": 70,
+      "teamId": "team-noor",
+      "adp": 92.9,
+      "adpDiff": -22.9,
+      "espnName": "Christian Watson"
+    },
+    {
+      "player": "Kyle Pitts Sr.",
+      "position": "TE",
+      "nflTeam": "ATL",
+      "overallPick": 71,
+      "teamId": "ivaafay",
+      "adp": 66.5,
+      "adpDiff": 4.5,
+      "espnName": "Kyle Pitts Sr."
+    },
+    {
+      "player": "Mike Evans",
+      "position": "WR",
+      "nflTeam": "SF",
+      "overallPick": 72,
+      "teamId": "team-mbk",
+      "adp": 90.0,
+      "adpDiff": -18.0,
+      "espnName": "Mike Evans"
+    },
+    {
+      "player": "Sam LaPorta",
+      "position": "TE",
+      "nflTeam": "DET",
+      "overallPick": 73,
+      "teamId": "team-mbk",
+      "adp": 72.2,
+      "adpDiff": 0.8,
+      "espnName": "Sam LaPorta"
+    },
+    {
+      "player": "DK Metcalf",
+      "position": "WR",
+      "nflTeam": "PIT",
+      "overallPick": 74,
+      "teamId": "ivaafay",
+      "adp": 85.9,
+      "adpDiff": -11.9,
+      "espnName": "DK Metcalf"
+    },
+    {
+      "player": "Aaron Jones Sr.",
+      "position": "RB",
+      "nflTeam": "MIN",
+      "overallPick": 75,
+      "teamId": "team-noor",
+      "adp": 123.8,
+      "adpDiff": -48.8,
+      "espnName": "Aaron Jones Sr."
+    },
+    {
+      "player": "Carnell Tate",
+      "position": "WR",
+      "nflTeam": "TEN",
+      "overallPick": 76,
+      "teamId": "bizzy",
+      "adp": 77.3,
+      "adpDiff": -1.3,
+      "espnName": "Carnell Tate"
+    },
+    {
+      "player": "RJ Harvey",
+      "position": "RB",
+      "nflTeam": "DEN",
+      "overallPick": 77,
+      "teamId": "deddybaba",
+      "adp": 132.1,
+      "adpDiff": -55.1,
+      "espnName": "RJ Harvey"
+    },
+    {
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "nflTeam": "PHI",
+      "overallPick": 78,
+      "teamId": "i-eat-ass",
+      "adp": 52.7,
+      "adpDiff": 25.3,
+      "espnName": "Jalen Hurts"
+    },
+    {
+      "player": "Joe Burrow",
+      "position": "QB",
+      "nflTeam": "CIN",
+      "overallPick": 79,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 56.5,
+      "adpDiff": 22.5,
+      "espnName": "Joe Burrow"
+    },
+    {
+      "player": "Courtland Sutton",
+      "position": "WR",
+      "nflTeam": "DEN",
+      "overallPick": 80,
+      "teamId": "bazan",
+      "adp": 80.5,
+      "adpDiff": -0.5,
+      "espnName": "Courtland Sutton"
+    },
+    {
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "nflTeam": "CAR",
+      "overallPick": 81,
+      "teamId": "rambam",
+      "adp": 110.8,
+      "adpDiff": -29.8,
+      "espnName": "Jonathon Brooks"
+    },
+    {
+      "player": "Justin Herbert",
+      "position": "QB",
+      "nflTeam": "LAC",
+      "overallPick": 82,
+      "teamId": "chief-sheikh",
+      "adp": 97.7,
+      "adpDiff": -15.7,
+      "espnName": "Justin Herbert"
+    },
+    {
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "nflTeam": "CAR",
+      "overallPick": 83,
+      "teamId": "gang-green",
+      "adp": 115.2,
+      "adpDiff": -32.2,
+      "espnName": "Chuba Hubbard"
+    },
+    {
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "nflTeam": "KC",
+      "overallPick": 84,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 106.9,
+      "adpDiff": -22.9,
+      "espnName": "Patrick Mahomes"
+    },
+    {
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "nflTeam": "NYG",
+      "overallPick": 85,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 125.5,
+      "adpDiff": -40.5,
+      "espnName": "Isaiah Likely"
+    },
+    {
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "nflTeam": "WSH",
+      "overallPick": 86,
+      "teamId": "gang-green",
+      "adp": 116.0,
+      "adpDiff": -30.0,
+      "espnName": "Stefon Diggs"
+    },
+    {
+      "player": "Blake Corum",
+      "position": "RB",
+      "nflTeam": "LAR",
+      "overallPick": 87,
+      "teamId": "chief-sheikh",
+      "adp": 131.2,
+      "adpDiff": -44.2,
+      "espnName": "Blake Corum"
+    },
+    {
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "nflTeam": "WSH",
+      "overallPick": 88,
+      "teamId": "rambam",
+      "adp": 51.8,
+      "adpDiff": 36.2,
+      "espnName": "Jayden Daniels"
+    },
+    {
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "nflTeam": "CHI",
+      "overallPick": 89,
+      "teamId": "bazan",
+      "adp": 125.7,
+      "adpDiff": -36.7,
+      "espnName": "Kyle Monangai"
+    },
+    {
+      "player": "Brian Thomas Jr.",
+      "position": "WR",
+      "nflTeam": "JAX",
+      "overallPick": 90,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 107.7,
+      "adpDiff": -17.7,
+      "espnName": "Brian Thomas Jr."
+    },
+    {
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "nflTeam": "PHI",
+      "overallPick": 91,
+      "teamId": "i-eat-ass",
+      "adp": 101.4,
+      "adpDiff": -10.4,
+      "espnName": "Dallas Goedert"
+    },
+    {
+      "player": "Kenny Gainwell",
+      "position": "RB",
+      "nflTeam": "TB",
+      "overallPick": 92,
+      "teamId": "deddybaba",
+      "adp": 110.3,
+      "adpDiff": -18.3,
+      "espnName": "Kenny Gainwell"
+    },
+    {
+      "player": "Rachaad White",
+      "position": "RB",
+      "nflTeam": "WSH",
+      "overallPick": 93,
+      "teamId": "bizzy",
+      "adp": 130.4,
+      "adpDiff": -37.4,
+      "espnName": "Rachaad White"
+    },
+    {
+      "player": "George Kittle",
+      "position": "TE",
+      "nflTeam": "SF",
+      "overallPick": 94,
+      "teamId": "team-noor",
+      "adp": 85.0,
+      "adpDiff": 9.0,
+      "espnName": "George Kittle"
+    },
+    {
+      "player": "Caleb Williams",
+      "position": "QB",
+      "nflTeam": "CHI",
+      "overallPick": 95,
+      "teamId": "ivaafay",
+      "adp": 92.6,
+      "adpDiff": 2.4,
+      "espnName": "Caleb Williams"
+    },
+    {
+      "player": "Dak Prescott",
+      "position": "QB",
+      "nflTeam": "DAL",
+      "overallPick": 96,
+      "teamId": "team-mbk",
+      "adp": 79.2,
+      "adpDiff": 16.8,
+      "espnName": "Dak Prescott"
+    },
+    {
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "nflTeam": "PIT",
+      "overallPick": 97,
+      "teamId": "team-mbk",
+      "adp": 99.7,
+      "adpDiff": -2.7,
+      "espnName": "Rico Dowdle"
+    },
+    {
+      "player": "Jordan Mason",
+      "position": "RB",
+      "nflTeam": "MIN",
+      "overallPick": 98,
+      "teamId": "ivaafay",
+      "adp": 139.1,
+      "adpDiff": -41.1,
+      "espnName": "Jordan Mason"
+    },
+    {
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "nflTeam": "DEN",
+      "overallPick": 99,
+      "teamId": "team-noor",
+      "adp": 114.2,
+      "adpDiff": -15.2,
+      "espnName": "J.K. Dobbins"
+    },
+    {
+      "player": "Alec Pierce",
+      "position": "WR",
+      "nflTeam": "IND",
+      "overallPick": 100,
+      "teamId": "bizzy",
+      "adp": 104.8,
+      "adpDiff": -4.8,
+      "espnName": "Alec Pierce"
+    },
+    {
+      "player": "Josh Downs",
+      "position": "WR",
+      "nflTeam": "IND",
+      "overallPick": 101,
+      "teamId": "deddybaba",
+      "adp": 136.6,
+      "adpDiff": -35.6,
+      "espnName": "Josh Downs"
+    },
+    {
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "nflTeam": "LAC",
+      "overallPick": 102,
+      "teamId": "i-eat-ass",
+      "adp": 133.8,
+      "adpDiff": -31.8,
+      "espnName": "Quentin Johnston"
+    },
+    {
+      "player": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "nflTeam": "WSH",
+      "overallPick": 103,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 133.8,
+      "adpDiff": -30.8,
+      "espnName": "Jacory Croskey-Merritt"
+    },
+    {
+      "player": "Bo Nix",
+      "position": "QB",
+      "nflTeam": "DEN",
+      "overallPick": 104,
+      "teamId": "bazan",
+      "adp": 93.0,
+      "adpDiff": 11.0,
+      "espnName": "Bo Nix"
+    },
+    {
+      "player": "Matthew Golden",
+      "position": "WR",
+      "nflTeam": "GB",
+      "overallPick": 105,
+      "teamId": "rambam",
+      "adp": 106.5,
+      "adpDiff": -1.5,
+      "espnName": "Matthew Golden"
+    },
+    {
+      "player": "Brandon Aubrey",
+      "position": "K",
+      "nflTeam": "DAL",
+      "overallPick": 106,
+      "teamId": "chief-sheikh",
+      "adp": 86.8,
+      "adpDiff": 19.2,
+      "espnName": "Brandon Aubrey"
+    },
+    {
+      "player": "Mike Washington Jr.",
+      "position": "RB",
+      "nflTeam": "LV",
+      "overallPick": 107,
+      "teamId": "gang-green",
+      "adp": 163.6,
+      "adpDiff": -56.6,
+      "espnName": "Mike Washington Jr."
+    },
+    {
+      "player": "Chris Godwin Jr.",
+      "position": "WR",
+      "nflTeam": "TB",
+      "overallPick": 108,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 133.6,
+      "adpDiff": -25.6,
+      "espnName": "Chris Godwin Jr."
+    },
+    {
+      "player": "Zach Charbonnet",
+      "position": "RB",
+      "nflTeam": "SEA",
+      "overallPick": 109,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 154.1,
+      "adpDiff": -45.1,
+      "espnName": "Zach Charbonnet"
+    },
+    {
+      "player": "De'Zhaun Stribling",
+      "position": "WR",
+      "nflTeam": "SF",
+      "overallPick": 110,
+      "teamId": "gang-green",
+      "adp": 145.6,
+      "adpDiff": -35.6,
+      "espnName": "De'Zhaun Stribling"
+    },
+    {
+      "player": "Texans D/ST",
+      "position": "D/ST",
+      "nflTeam": "HOU",
+      "overallPick": 111,
+      "teamId": "chief-sheikh",
+      "adp": 90.0,
+      "adpDiff": 21.0,
+      "espnName": "Texans D/ST"
+    },
+    {
+      "player": "Xavier Worthy",
+      "position": "WR",
+      "nflTeam": "KC",
+      "overallPick": 112,
+      "teamId": "rambam",
+      "adp": 126.5,
+      "adpDiff": -14.5,
+      "espnName": "Xavier Worthy"
+    },
+    {
+      "player": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "nflTeam": "JAX",
+      "overallPick": 113,
+      "teamId": "bazan",
+      "adp": 165.1,
+      "adpDiff": -52.1,
+      "espnName": "Chris Rodriguez Jr."
+    },
+    {
+      "player": "Michael Wilson",
+      "position": "WR",
+      "nflTeam": "ARI",
+      "overallPick": 114,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 102.4,
+      "adpDiff": 11.6,
+      "espnName": "Michael Wilson"
+    },
+    {
+      "player": "Woody Marks",
+      "position": "RB",
+      "nflTeam": "HOU",
+      "overallPick": 115,
+      "teamId": "i-eat-ass",
+      "adp": 149.7,
+      "adpDiff": -34.7,
+      "espnName": "Woody Marks"
+    },
+    {
+      "player": "Tyjae Spears",
+      "position": "RB",
+      "nflTeam": "TEN",
+      "overallPick": 116,
+      "teamId": "deddybaba",
+      "adp": 152.6,
+      "adpDiff": -36.6,
+      "espnName": "Tyjae Spears"
+    },
+    {
+      "player": "Deebo Samuel Sr.",
+      "position": "WR",
+      "nflTeam": "SF",
+      "overallPick": 117,
+      "teamId": "bizzy",
+      "adp": 135.6,
+      "adpDiff": -18.6,
+      "espnName": "Deebo Samuel Sr."
+    },
+    {
+      "player": "Brock Purdy",
+      "position": "QB",
+      "nflTeam": "SF",
+      "overallPick": 118,
+      "teamId": "team-noor",
+      "adp": 105.7,
+      "adpDiff": 12.3,
+      "espnName": "Brock Purdy"
+    },
+    {
+      "player": "Jordan Addison",
+      "position": "WR",
+      "nflTeam": "MIN",
+      "overallPick": 119,
+      "teamId": "ivaafay",
+      "adp": 117.1,
+      "adpDiff": 1.9,
+      "espnName": "Jordan Addison"
+    },
+    {
+      "player": "Seahawks D/ST",
+      "position": "D/ST",
+      "nflTeam": "SEA",
+      "overallPick": 120,
+      "teamId": "team-mbk",
+      "adp": 111.1,
+      "adpDiff": 8.9,
+      "espnName": "Seahawks D/ST"
+    },
+    {
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "nflTeam": "TEN",
+      "overallPick": 121,
+      "teamId": "team-mbk",
+      "adp": 114.3,
+      "adpDiff": 6.7,
+      "espnName": "Wan'Dale Robinson"
+    },
+    {
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "nflTeam": "NO",
+      "overallPick": 122,
+      "teamId": "ivaafay",
+      "adp": 160.0,
+      "adpDiff": -38.0,
+      "espnName": "Alvin Kamara"
+    },
+    {
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "nflTeam": "JAX",
+      "overallPick": 123,
+      "teamId": "team-noor",
+      "adp": 118.0,
+      "adpDiff": 5.0,
+      "espnName": "Jakobi Meyers"
+    },
+    {
+      "player": "Rams D/ST",
+      "position": "D/ST",
+      "nflTeam": "LAR",
+      "overallPick": 124,
+      "teamId": "bizzy",
+      "adp": 109.1,
+      "adpDiff": 14.9,
+      "espnName": "Rams D/ST"
+    },
+    {
+      "player": "Broncos D/ST",
+      "position": "D/ST",
+      "nflTeam": "DEN",
+      "overallPick": 125,
+      "teamId": "deddybaba",
+      "adp": 98.9,
+      "adpDiff": 26.1,
+      "espnName": "Broncos D/ST"
+    },
+    {
+      "player": "Romeo Doubs",
+      "position": "WR",
+      "nflTeam": "NE",
+      "overallPick": 126,
+      "teamId": "i-eat-ass",
+      "adp": 149.3,
+      "adpDiff": -23.3,
+      "espnName": "Romeo Doubs"
+    },
+    {
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "nflTeam": "ARI",
+      "overallPick": 127,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 163.1,
+      "adpDiff": -36.1,
+      "espnName": "Tyler Allgeier"
+    },
+    {
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "nflTeam": "DEN",
+      "overallPick": 128,
+      "teamId": "bazan",
+      "adp": 169.4,
+      "adpDiff": -41.4,
+      "espnName": "Jonah Coleman"
+    },
+    {
+      "player": "Cameron Dicker",
+      "position": "K",
+      "nflTeam": "LAC",
+      "overallPick": 129,
+      "teamId": "rambam",
+      "adp": 109.3,
+      "adpDiff": 19.7,
+      "espnName": "Cameron Dicker"
+    },
+    {
+      "player": "Braelon Allen",
+      "position": "RB",
+      "nflTeam": "NYJ",
+      "overallPick": 130,
+      "teamId": "chief-sheikh",
+      "adp": 170.9,
+      "adpDiff": -40.9,
+      "espnName": "Braelon Allen"
+    },
+    {
+      "player": "Keaton Mitchell",
+      "position": "RB",
+      "nflTeam": "LAC",
+      "overallPick": 131,
+      "teamId": "gang-green",
+      "adp": 169.1,
+      "adpDiff": -38.1,
+      "espnName": "Keaton Mitchell"
+    },
+    {
+      "player": "Ravens D/ST",
+      "position": "D/ST",
+      "nflTeam": "BAL",
+      "overallPick": 132,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 134.0,
+      "adpDiff": -2.0,
+      "espnName": "Ravens D/ST"
+    },
+    {
+      "player": "Jason Myers",
+      "position": "K",
+      "nflTeam": "SEA",
+      "overallPick": 133,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 117.9,
+      "adpDiff": 15.1,
+      "espnName": "Jason Myers"
+    },
+    {
+      "player": "Harrison Butker",
+      "position": "K",
+      "nflTeam": "KC",
+      "overallPick": 134,
+      "teamId": "gang-green",
+      "adp": 143.9,
+      "adpDiff": -9.9,
+      "espnName": "Harrison Butker"
+    },
+    {
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "nflTeam": "PHI",
+      "overallPick": 135,
+      "teamId": "chief-sheikh",
+      "adp": 169.5,
+      "adpDiff": -34.5,
+      "espnName": "Tank Bigsby"
+    },
+    {
+      "player": "KC Concepcion",
+      "position": "WR",
+      "nflTeam": "CLE",
+      "overallPick": 136,
+      "teamId": "rambam",
+      "adp": 145.4,
+      "adpDiff": -9.4,
+      "espnName": "KC Concepcion"
+    },
+    {
+      "player": "Jalen Coker",
+      "position": "WR",
+      "nflTeam": "CAR",
+      "overallPick": 137,
+      "teamId": "bazan",
+      "adp": 157.5,
+      "adpDiff": -20.5,
+      "espnName": "Jalen Coker"
+    },
+    {
+      "player": "Jayden Reed",
+      "position": "WR",
+      "nflTeam": "GB",
+      "overallPick": 138,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 131.3,
+      "adpDiff": 6.7,
+      "espnName": "Jayden Reed"
+    },
+    {
+      "player": "Makai Lemon",
+      "position": "WR",
+      "nflTeam": "PHI",
+      "overallPick": 139,
+      "teamId": "i-eat-ass",
+      "adp": 137.0,
+      "adpDiff": 2.0,
+      "espnName": "Makai Lemon"
+    },
+    {
+      "player": "Ka'imi Fairbairn",
+      "position": "K",
+      "nflTeam": "HOU",
+      "overallPick": 140,
+      "teamId": "deddybaba",
+      "adp": 129.7,
+      "adpDiff": 10.3,
+      "espnName": "Ka'imi Fairbairn"
+    },
+    {
+      "player": "Cam Little",
+      "position": "K",
+      "nflTeam": "JAX",
+      "overallPick": 141,
+      "teamId": "bizzy",
+      "adp": 140.9,
+      "adpDiff": 0.1,
+      "espnName": "Cam Little"
+    },
+    {
+      "player": "Mark Andrews",
+      "position": "TE",
+      "nflTeam": "BAL",
+      "overallPick": 142,
+      "teamId": "team-noor",
+      "adp": 123.3,
+      "adpDiff": 18.7,
+      "espnName": "Mark Andrews"
+    },
+    {
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "nflTeam": "BUF",
+      "overallPick": 143,
+      "teamId": "ivaafay",
+      "adp": 132.2,
+      "adpDiff": 10.8,
+      "espnName": "Khalil Shakir"
+    },
+    {
+      "player": "Jake Ferguson",
+      "position": "TE",
+      "nflTeam": "DAL",
+      "overallPick": 144,
+      "teamId": "team-mbk",
+      "adp": 110.0,
+      "adpDiff": 34.0,
+      "espnName": "Jake Ferguson"
+    },
+    {
+      "player": "Brian Robinson Jr.",
+      "position": "RB",
+      "nflTeam": "ATL",
+      "overallPick": 145,
+      "teamId": "team-mbk",
+      "adp": 166.0,
+      "adpDiff": -21.0,
+      "espnName": "Brian Robinson Jr."
+    },
+    {
+      "player": "Dylan Sampson",
+      "position": "RB",
+      "nflTeam": "CLE",
+      "overallPick": 146,
+      "teamId": "ivaafay",
+      "adp": 169.9,
+      "adpDiff": -23.9,
+      "espnName": "Dylan Sampson"
+    },
+    {
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "nflTeam": "NYG",
+      "overallPick": 147,
+      "teamId": "team-noor",
+      "adp": 79.3,
+      "adpDiff": 67.7,
+      "espnName": "Jaxson Dart"
+    },
+    {
+      "player": "Keenan Allen",
+      "position": "WR",
+      "nflTeam": "IND",
+      "overallPick": 148,
+      "teamId": "bizzy",
+      "adp": 165.8,
+      "adpDiff": -17.8,
+      "espnName": "Keenan Allen"
+    },
+    {
+      "player": "Terrance Ferguson",
+      "position": "TE",
+      "nflTeam": "LAR",
+      "overallPick": 149,
+      "teamId": "deddybaba",
+      "adp": 166.9,
+      "adpDiff": -17.9,
+      "espnName": "Terrance Ferguson"
+    },
+    {
+      "player": "Steelers D/ST",
+      "position": "D/ST",
+      "nflTeam": "PIT",
+      "overallPick": 150,
+      "teamId": "i-eat-ass",
+      "adp": 119.8,
+      "adpDiff": 30.2,
+      "espnName": "Steelers D/ST"
+    },
+    {
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "nflTeam": "BUF",
+      "overallPick": 151,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 131.2,
+      "adpDiff": 19.8,
+      "espnName": "Dalton Kincaid"
+    },
+    {
+      "player": "Ray Davis",
+      "position": "RB",
+      "nflTeam": "BUF",
+      "overallPick": 152,
+      "teamId": "bazan",
+      "adp": 171.0,
+      "adpDiff": -19.0,
+      "espnName": "Ray Davis"
+    },
+    {
+      "player": "Tank Dell",
+      "position": "WR",
+      "nflTeam": "HOU",
+      "overallPick": 153,
+      "teamId": "rambam",
+      "adp": 158.3,
+      "adpDiff": -5.3,
+      "espnName": "Tank Dell"
+    },
+    {
+      "player": "Jaydon Blue",
+      "position": "RB",
+      "nflTeam": "DAL",
+      "overallPick": 154,
+      "teamId": "chief-sheikh",
+      "adp": 170.5,
+      "adpDiff": -16.5,
+      "espnName": "Jaydon Blue"
+    },
+    {
+      "player": "Trevor Lawrence",
+      "position": "QB",
+      "nflTeam": "JAX",
+      "overallPick": 155,
+      "teamId": "gang-green",
+      "adp": 94.8,
+      "adpDiff": 60.2,
+      "espnName": "Trevor Lawrence"
+    },
+    {
+      "player": "Justice Hill",
+      "position": "RB",
+      "nflTeam": "BAL",
+      "overallPick": 156,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 169.6,
+      "adpDiff": -13.6,
+      "espnName": "Justice Hill"
+    },
+    {
+      "player": "Najee Harris",
+      "position": "RB",
+      "nflTeam": "NYG",
+      "overallPick": 157,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 170.1,
+      "adpDiff": -13.1,
+      "espnName": "Najee Harris"
+    },
+    {
+      "player": "Jets D/ST",
+      "position": "D/ST",
+      "nflTeam": "NYJ",
+      "overallPick": 158,
+      "teamId": "gang-green",
+      "adp": 170.1,
+      "adpDiff": -12.1,
+      "espnName": "Jets D/ST"
+    },
+    {
+      "player": "Isiah Pacheco",
+      "position": "RB",
+      "nflTeam": "DET",
+      "overallPick": 159,
+      "teamId": "chief-sheikh",
+      "adp": 160.6,
+      "adpDiff": -1.6,
+      "espnName": "Isiah Pacheco"
+    },
+    {
+      "player": "Lions D/ST",
+      "position": "D/ST",
+      "nflTeam": "DET",
+      "overallPick": 160,
+      "teamId": "rambam",
+      "adp": 153.9,
+      "adpDiff": 6.1,
+      "espnName": "Lions D/ST"
+    },
+    {
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "nflTeam": "NO",
+      "overallPick": 161,
+      "teamId": "bazan",
+      "adp": 161.1,
+      "adpDiff": -0.1,
+      "espnName": "Juwan Johnson"
+    },
+    {
+      "player": "Eagles D/ST",
+      "position": "D/ST",
+      "nflTeam": "PHI",
+      "overallPick": 162,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 137.2,
+      "adpDiff": 24.8,
+      "espnName": "Eagles D/ST"
+    },
+    {
+      "player": "Eddy Pineiro",
+      "position": "K",
+      "nflTeam": "SF",
+      "overallPick": 163,
+      "teamId": "i-eat-ass",
+      "adp": 145.1,
+      "adpDiff": 17.9,
+      "espnName": "Eddy Pineiro"
+    },
+    {
+      "player": "Kimani Vidal",
+      "position": "RB",
+      "nflTeam": "LAC",
+      "overallPick": 164,
+      "teamId": "deddybaba",
+      "adp": 170.9,
+      "adpDiff": -6.9,
+      "espnName": "Kimani Vidal"
+    },
+    {
+      "player": "Hunter Henry",
+      "position": "TE",
+      "nflTeam": "NE",
+      "overallPick": 165,
+      "teamId": "bizzy",
+      "adp": 147.5,
+      "adpDiff": 17.5,
+      "espnName": "Hunter Henry"
+    },
+    {
+      "player": "Patriots D/ST",
+      "position": "D/ST",
+      "nflTeam": "NE",
+      "overallPick": 166,
+      "teamId": "team-noor",
+      "adp": 152.1,
+      "adpDiff": 13.9,
+      "espnName": "Patriots D/ST"
+    },
+    {
+      "player": "Chargers D/ST",
+      "position": "D/ST",
+      "nflTeam": "LAC",
+      "overallPick": 167,
+      "teamId": "ivaafay",
+      "adp": 165.2,
+      "adpDiff": 1.8,
+      "espnName": "Chargers D/ST"
+    },
+    {
+      "player": "Matthew Stafford",
+      "position": "QB",
+      "nflTeam": "LAR",
+      "overallPick": 168,
+      "teamId": "team-mbk",
+      "adp": 85.9,
+      "adpDiff": 82.1,
+      "espnName": "Matthew Stafford"
+    },
+    {
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "nflTeam": "SEA",
+      "overallPick": 169,
+      "teamId": "team-mbk",
+      "adp": 157.4,
+      "adpDiff": 11.6,
+      "espnName": "Rashid Shaheed"
+    },
+    {
+      "player": "Jake Bates",
+      "position": "K",
+      "nflTeam": "DET",
+      "overallPick": 170,
+      "teamId": "ivaafay",
+      "adp": 157.1,
+      "adpDiff": 12.9,
+      "espnName": "Jake Bates"
+    },
+    {
+      "player": "Tyler Loop",
+      "position": "K",
+      "nflTeam": "BAL",
+      "overallPick": 171,
+      "teamId": "team-noor",
+      "adp": 165.0,
+      "adpDiff": 6.0,
+      "espnName": "Tyler Loop"
+    },
+    {
+      "player": "Jordan James",
+      "position": "RB",
+      "nflTeam": "SF",
+      "overallPick": 172,
+      "teamId": "bizzy",
+      "adp": 170.9,
+      "adpDiff": 1.1,
+      "espnName": "Jordan James"
+    },
+    {
+      "player": "Travis Hunter",
+      "position": "WR",
+      "nflTeam": "JAX",
+      "overallPick": 173,
+      "teamId": "deddybaba",
+      "adp": 119.7,
+      "adpDiff": 53.3,
+      "espnName": "Travis Hunter"
+    },
+    {
+      "player": "Jerry Jeudy",
+      "position": "WR",
+      "nflTeam": "CLE",
+      "overallPick": 174,
+      "teamId": "i-eat-ass",
+      "adp": 166.9,
+      "adpDiff": 7.1,
+      "espnName": "Jerry Jeudy"
+    },
+    {
+      "player": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "nflTeam": "NYG",
+      "overallPick": 175,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 170.2,
+      "adpDiff": 4.8,
+      "espnName": "Tyrone Tracy Jr."
+    },
+    {
+      "player": "Jaguars D/ST",
+      "position": "D/ST",
+      "nflTeam": "JAX",
+      "overallPick": 176,
+      "teamId": "bazan",
+      "adp": 168.0,
+      "adpDiff": 8.0,
+      "espnName": "Jaguars D/ST"
+    },
+    {
+      "player": "Kaelon Black",
+      "position": "RB",
+      "nflTeam": "SF",
+      "overallPick": 177,
+      "teamId": "rambam",
+      "adp": 170.4,
+      "adpDiff": 6.6,
+      "espnName": "Kaelon Black"
+    },
+    {
+      "player": "Dontayvion Wicks",
+      "position": "WR",
+      "nflTeam": "PHI",
+      "overallPick": 178,
+      "teamId": "chief-sheikh",
+      "adp": 170.9,
+      "adpDiff": 7.1,
+      "espnName": "Dontayvion Wicks"
+    },
+    {
+      "player": "Adonai Mitchell",
+      "position": "WR",
+      "nflTeam": "NYJ",
+      "overallPick": 179,
+      "teamId": "gang-green",
+      "adp": 170.5,
+      "adpDiff": 8.5,
+      "espnName": "Adonai Mitchell"
+    },
+    {
+      "player": "Travis Kelce",
+      "position": "TE",
+      "nflTeam": "KC",
+      "overallPick": 180,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 96.0,
+      "adpDiff": 84.0,
+      "espnName": "Travis Kelce"
+    },
+    {
+      "player": "Kyler Murray",
+      "position": "QB",
+      "nflTeam": "MIN",
+      "overallPick": 181,
+      "teamId": "mustafas-magnificent-team",
+      "adp": 142.7,
+      "adpDiff": 38.3,
+      "espnName": "Kyler Murray"
+    },
+    {
+      "player": "Geno Smith",
+      "position": "QB",
+      "nflTeam": "NYJ",
+      "overallPick": 182,
+      "teamId": "gang-green",
+      "adp": 170.1,
+      "adpDiff": 11.9,
+      "espnName": "Geno Smith"
+    },
+    {
+      "player": "Tyler Shough",
+      "position": "QB",
+      "nflTeam": "NO",
+      "overallPick": 183,
+      "teamId": "chief-sheikh",
+      "adp": 153.9,
+      "adpDiff": 29.1,
+      "espnName": "Tyler Shough"
+    },
+    {
+      "player": "Emmett Johnson",
+      "position": "RB",
+      "nflTeam": "KC",
+      "overallPick": 184,
+      "teamId": "rambam",
+      "adp": 170.0,
+      "adpDiff": 14.0,
+      "espnName": "Emmett Johnson"
+    },
+    {
+      "player": "Chase McLaughlin",
+      "position": "K",
+      "nflTeam": "TB",
+      "overallPick": 185,
+      "teamId": "bazan",
+      "adp": 170.1,
+      "adpDiff": 14.9,
+      "espnName": "Chase McLaughlin"
+    },
+    {
+      "player": "Evan McPherson",
+      "position": "K",
+      "nflTeam": "CIN",
+      "overallPick": 186,
+      "teamId": "hnfnr-aint-busy",
+      "adp": 169.3,
+      "adpDiff": 16.7,
+      "espnName": "Evan McPherson"
+    },
+    {
+      "player": "Calvin Ridley",
+      "position": "WR",
+      "nflTeam": "TEN",
+      "overallPick": 187,
+      "teamId": "i-eat-ass",
+      "adp": 168.2,
+      "adpDiff": 18.8,
+      "espnName": "Calvin Ridley"
+    },
+    {
+      "player": "Jared Goff",
+      "position": "QB",
+      "nflTeam": "DET",
+      "overallPick": 188,
+      "teamId": "deddybaba",
+      "adp": 136.2,
+      "adpDiff": 51.8,
+      "espnName": "Jared Goff"
+    },
+    {
+      "player": "Denzel Boston",
+      "position": "WR",
+      "nflTeam": "CLE",
+      "overallPick": 189,
+      "teamId": "bizzy",
+      "adp": 167.3,
+      "adpDiff": 21.7,
+      "espnName": "Denzel Boston"
+    },
+    {
+      "player": "Jalen McMillan",
+      "position": "WR",
+      "nflTeam": "TB",
+      "overallPick": 190,
+      "teamId": "team-noor",
+      "adp": 166.7,
+      "adpDiff": 23.3,
+      "espnName": "Jalen McMillan"
+    },
+    {
+      "player": "Jalen Nailor",
+      "position": "WR",
+      "nflTeam": "LV",
+      "overallPick": 191,
+      "teamId": "ivaafay",
+      "adp": 170.8,
+      "adpDiff": 20.2,
+      "espnName": "Jalen Nailor"
+    },
+    {
+      "player": "Harrison Mevis",
+      "position": "K",
+      "nflTeam": "LAR",
+      "overallPick": 192,
+      "teamId": "team-mbk",
+      "adp": 135.9,
+      "adpDiff": 56.1,
+      "espnName": "Harrison Mevis"
+    }
+  ]
+}

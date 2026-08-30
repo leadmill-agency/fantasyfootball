@@ -73,6 +73,13 @@ export default async function PowerRankingsPage({
         }))}
       />
 
+      {snapshot.corrections && (
+        <aside className="mt-10 border-2 border-rule-strong bg-surface px-5 py-4 max-w-[760px]">
+          <div className="eyebrow text-accent mb-2">Corrections Dept.</div>
+          <p className="text-[14px] leading-relaxed">{snapshot.corrections}</p>
+        </aside>
+      )}
+
       <div className="mt-10">
         <Link
           href="/compare"
