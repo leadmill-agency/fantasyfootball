@@ -1,26 +1,85 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-paper: #f2f1ec;
+  --color-surface: #ffffff;
+  --color-ink: #0d0d0c;
+  --color-ink-soft: #4a4944;
+  --color-ink-faint: #85837b;
+  --color-rule: #cfcdc4;
+  --color-rule-strong: #0d0d0c;
+  --color-accent: #e0250e;
+  --color-positive: #0d7a3f;
+  --color-negative: #c41f0b;
+
+  --font-display: var(--font-anton), "Arial Narrow", sans-serif;
+  --font-condensed: var(--font-barlow), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  --breakpoint-wide: 80rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Display type is always set caps, tight, and loud. */
+.font-display {
+  font-family: var(--font-anton), "Arial Narrow", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.005em;
+  font-weight: 400;
+}
+
+.font-condensed {
+  font-family: var(--font-barlow), "Arial Narrow", sans-serif;
+}
+
+.font-data {
+  font-family: var(--font-inter), system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Small utility label: condensed bold caps, wide-ish tracking. */
+.eyebrow {
+  font-family: var(--font-barlow), "Arial Narrow", sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+/* One-line verdicts: condensed, punchy, not italic-serif. */
+.verdict {
+  font-family: var(--font-barlow), "Arial Narrow", sans-serif;
+  font-weight: 600;
+  font-size: 1.0625rem;
+  line-height: 1.25;
+}
+
+.prose-editorial p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+  font-size: 0.9875rem;
+}
+.prose-editorial p:last-child {
+  margin-bottom: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }

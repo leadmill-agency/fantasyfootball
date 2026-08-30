@@ -1,0 +1,108 @@
+{
+  "season": 2026,
+  "league": "Kingwood Killaz",
+  "source": "ESPN Season Stats screenshot (manager names) + Draft recap.png (team names) + WhatsApp _chat.txt (full names), assembled 2026-08-29",
+  "teams": [
+    {
+      "teamId": "team-mbk",
+      "teamName": "Team MBK",
+      "manager": "Muhammad Bilal Khan",
+      "managerNameOnESPN": "Muhammad K.",
+      "referenceFolder": "Player references/bilal",
+      "draftSlot": 1,
+      "note": "ESPN name truncated ('Muhammad K...'); chat name 'Bilal Khan'; initials MBK. Confirmed by elimination - only unassigned manager."
+    },
+    {
+      "teamId": "ivaafay",
+      "teamName": "IVaafay",
+      "manager": "Naafay Nadim",
+      "managerNameOnESPN": "Naafay Nadim",
+      "referenceFolder": "Player references/naafay",
+      "draftSlot": 2
+    },
+    {
+      "teamId": "team-noor",
+      "teamName": "Team Noor",
+      "manager": "Haroon Noor",
+      "managerNameOnESPN": "Haroon Noor",
+      "referenceFolder": "Player references/Haroon",
+      "draftSlot": 3
+    },
+    {
+      "teamId": "bizzy",
+      "teamName": "Bizzy",
+      "manager": "Nabeel Amin",
+      "managerNameOnESPN": "Nabeel Amin",
+      "referenceFolder": "Player references/Nabil",
+      "draftSlot": 4,
+      "note": "Chat handle 'Nabil-LED Unlimited'."
+    },
+    {
+      "teamId": "deddybaba",
+      "teamName": "DEDDYBABA",
+      "manager": "Asim Dar",
+      "managerNameOnESPN": "Asim Dar",
+      "referenceFolder": "Player references/Asim",
+      "draftSlot": 5
+    },
+    {
+      "teamId": "i-eat-ass",
+      "teamName": "I Eat Ass",
+      "manager": "Ivan Estipona",
+      "managerNameOnESPN": "Ivan Estipona",
+      "referenceFolder": "Player references/Ivan",
+      "draftSlot": 6
+    },
+    {
+      "teamId": "hnfnr-aint-busy",
+      "teamName": "HNFNR AIN'T BUSY",
+      "manager": "Arfan Qureshi",
+      "managerNameOnESPN": "arfa...",
+      "referenceFolder": "Player references/Arfan",
+      "draftSlot": 7,
+      "note": "ESPN name truncated; full name from league chat."
+    },
+    {
+      "teamId": "bazan",
+      "teamName": "Bazan",
+      "manager": "Mohammad Bazan",
+      "managerNameOnESPN": "Mohammad Bazan",
+      "referenceFolder": "Player references/bazaan",
+      "draftSlot": 8,
+      "note": "Chat name 'Bazaan Shaikh'."
+    },
+    {
+      "teamId": "rambam",
+      "teamName": "RamBam",
+      "manager": "Rameel Sheikh",
+      "managerNameOnESPN": "Rameel Sheikh",
+      "referenceFolder": "Player references/Rameel",
+      "draftSlot": 9
+    },
+    {
+      "teamId": "chief-sheikh",
+      "teamName": "Chief sheikh",
+      "manager": "Kashir Sheikh",
+      "managerNameOnESPN": "kashir sheikh",
+      "referenceFolder": "Player references/Kashir",
+      "draftSlot": 10
+    },
+    {
+      "teamId": "gang-green",
+      "teamName": "Gang Green",
+      "manager": "Yaseen Noor",
+      "managerNameOnESPN": "Yaseen Noor",
+      "referenceFolder": "Player references/Yaseen",
+      "draftSlot": 11
+    },
+    {
+      "teamId": "mustafas-magnificent-team",
+      "teamName": "Mustafa's Magnificent Team",
+      "manager": "Mustafa Saleem",
+      "managerNameOnESPN": null,
+      "referenceFolder": "Player references/Mustafa",
+      "draftSlot": 12,
+      "note": "Manager name cut off in ESPN screenshot; from league chat (former commissioner)."
+    }
+  ]
+}

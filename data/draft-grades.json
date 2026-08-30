@@ -1,0 +1,2392 @@
+{
+  "season": 2026,
+  "gradedAsOf": "2026-08-29",
+  "methodology": {
+    "weights": {
+      "valueVsAdp": 0.3,
+      "starters": 0.25,
+      "ceiling": 0.2,
+      "construction": 0.15,
+      "bench": 0.1
+    },
+    "playerValueCurve": "v(adp) = 100 * exp(-0.028 * (adp - 1)); floor 1.0 when ADP unknown",
+    "adpSource": {
+      "name": "Fantasy Football Calculator",
+      "url": "https://fantasyfootballcalculator.com/adp/half-ppr",
+      "api": "https://fantasyfootballcalculator.com/api/v1/adp/half-ppr?teams=12&year=2026",
+      "format": "Half-PPR, 12 teams",
+      "totalDrafts": 3302,
+      "sampleWindow": "2026-08-24 to 2026-08-29",
+      "retrievedAt": "2026-08-29"
+    }
+  },
+  "teams": [
+    {
+      "teamId": "team-mbk",
+      "rank": 1,
+      "grade": "A",
+      "score": 96.8,
+      "components": {
+        "valueVsAdp": 98.0,
+        "starters": 98.0,
+        "ceiling": 98.0,
+        "construction": 90,
+        "bench": 98.0
+      },
+      "constructionNotes": [
+        "Seahawks D/ST (D/ST) drafted round 10",
+        "thin starting slot: TE (Sam LaPorta, ADP 124.6)"
+      ],
+      "verdict": "The cleanest board in the league: first in value captured, first in starting lineup, first in ceiling, first in bench. Stafford at 168 against a market price of 75 was the draft's best pure value; LaPorta four rounds early was the only real leak. When one team leads all four weighted categories, the letter writes itself.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 1,
+          "overall": 1,
+          "player": "Jahmyr Gibbs",
+          "position": "RB",
+          "nflTeam": "DET",
+          "adp": 1.5,
+          "adpDiff": -0.5,
+          "grade": "B",
+          "comment": "The consensus 1.01, and he made it."
+        },
+        {
+          "round": 2,
+          "pickInRound": 12,
+          "overall": 24,
+          "player": "Josh Jacobs",
+          "position": "RB",
+          "nflTeam": "GB",
+          "adp": 26.3,
+          "adpDiff": -2.3,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 1,
+          "overall": 25,
+          "player": "Drake London",
+          "position": "WR",
+          "nflTeam": "ATL",
+          "adp": 12.4,
+          "adpDiff": 12.6,
+          "grade": "B+"
+        },
+        {
+          "round": 4,
+          "pickInRound": 12,
+          "overall": 48,
+          "player": "David Montgomery",
+          "position": "RB",
+          "nflTeam": "HOU",
+          "adp": 56.3,
+          "adpDiff": -8.3,
+          "grade": "C+"
+        },
+        {
+          "round": 5,
+          "pickInRound": 1,
+          "overall": 49,
+          "player": "Tee Higgins",
+          "position": "WR",
+          "nflTeam": "CIN",
+          "adp": 36.1,
+          "adpDiff": 12.9,
+          "grade": "B+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 12,
+          "overall": 72,
+          "player": "Mike Evans",
+          "position": "WR",
+          "nflTeam": "SF",
+          "adp": 53.8,
+          "adpDiff": 18.2,
+          "grade": "B+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 1,
+          "overall": 73,
+          "player": "Sam LaPorta",
+          "position": "TE",
+          "nflTeam": "DET",
+          "adp": 124.6,
+          "adpDiff": -51.6,
+          "grade": "D",
+          "comment": "Four rounds ahead of price. The one pick in this draft the model would appeal."
+        },
+        {
+          "round": 8,
+          "pickInRound": 12,
+          "overall": 96,
+          "player": "Dak Prescott",
+          "position": "QB",
+          "nflTeam": "DAL",
+          "adp": 64.2,
+          "adpDiff": 31.8,
+          "grade": "A"
+        },
+        {
+          "round": 9,
+          "pickInRound": 1,
+          "overall": 97,
+          "player": "Rico Dowdle",
+          "position": "RB",
+          "nflTeam": "PIT",
+          "adp": 75.1,
+          "adpDiff": 21.9,
+          "grade": "B+"
+        },
+        {
+          "round": 10,
+          "pickInRound": 12,
+          "overall": 120,
+          "player": "Seahawks D/ST",
+          "position": "D/ST",
+          "nflTeam": "SEA",
+          "adp": 81.0,
+          "adpDiff": 39.0,
+          "grade": "A"
+        },
+        {
+          "round": 11,
+          "pickInRound": 1,
+          "overall": 121,
+          "player": "Wan'Dale Robinson",
+          "position": "WR",
+          "nflTeam": "TEN",
+          "adp": 93.0,
+          "adpDiff": 28.0,
+          "grade": "A"
+        },
+        {
+          "round": 12,
+          "pickInRound": 12,
+          "overall": 144,
+          "player": "Jake Ferguson",
+          "position": "TE",
+          "nflTeam": "DAL",
+          "adp": 139.2,
+          "adpDiff": 4.8,
+          "grade": "B"
+        },
+        {
+          "round": 13,
+          "pickInRound": 1,
+          "overall": 145,
+          "player": "Brian Robinson Jr.",
+          "position": "RB",
+          "nflTeam": "ATL",
+          "adp": 163.7,
+          "adpDiff": -18.7,
+          "grade": "C"
+        },
+        {
+          "round": 14,
+          "pickInRound": 12,
+          "overall": 168,
+          "player": "Matthew Stafford",
+          "position": "QB",
+          "nflTeam": "LAR",
+          "adp": 74.9,
+          "adpDiff": 93.1,
+          "grade": "A",
+          "comment": "Priced at 75, drafted at 168. The best value in the entire draft."
+        },
+        {
+          "round": 15,
+          "pickInRound": 1,
+          "overall": 169,
+          "player": "Rashid Shaheed",
+          "position": "WR",
+          "nflTeam": "SEA",
+          "adp": 119.7,
+          "adpDiff": 49.3,
+          "grade": "A"
+        },
+        {
+          "round": 16,
+          "pickInRound": 12,
+          "overall": 192,
+          "player": "Harrison Mevis",
+          "position": "K",
+          "nflTeam": "LAR",
+          "adp": 149.6,
+          "adpDiff": 42.4,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "teamId": "hnfnr-aint-busy",
+      "rank": 2,
+      "grade": "A-",
+      "score": 91.0,
+      "components": {
+        "valueVsAdp": 84.6,
+        "starters": 94.4,
+        "ceiling": 92.5,
+        "construction": 100,
+        "bench": 84.8
+      },
+      "constructionNotes": [],
+      "verdict": "A perfect construction score and no panicked picks. Henry at 18 against a price of 10 and Burrow at 7.07 anchored a draft that paid a small premium at tight end and let value come to it everywhere else. Docked to A- for the thin backfield behind Henry and the Allgeier reach. Otherwise this was textbook.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 7,
+          "overall": 7,
+          "player": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "nflTeam": "SEA",
+          "adp": 5.1,
+          "adpDiff": 1.9,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 6,
+          "overall": 18,
+          "player": "Derrick Henry",
+          "position": "RB",
+          "nflTeam": "BAL",
+          "adp": 9.8,
+          "adpDiff": 8.2,
+          "grade": "B",
+          "comment": "Priced at 10. The room let a top-ten pick fall to 18."
+        },
+        {
+          "round": 3,
+          "pickInRound": 7,
+          "overall": 31,
+          "player": "Brock Bowers",
+          "position": "TE",
+          "nflTeam": "LV",
+          "adp": 43.2,
+          "adpDiff": -12.2,
+          "grade": "C+",
+          "comment": "A 12-pick premium for the tight end edge. Defensible."
+        },
+        {
+          "round": 4,
+          "pickInRound": 6,
+          "overall": 42,
+          "player": "Zay Flowers",
+          "position": "WR",
+          "nflTeam": "BAL",
+          "adp": 24.6,
+          "adpDiff": 17.4,
+          "grade": "B+"
+        },
+        {
+          "round": 5,
+          "pickInRound": 7,
+          "overall": 55,
+          "player": "Rhamondre Stevenson",
+          "position": "RB",
+          "nflTeam": "NE",
+          "adp": 62.8,
+          "adpDiff": -7.8,
+          "grade": "C+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 6,
+          "overall": 66,
+          "player": "Tony Pollard",
+          "position": "RB",
+          "nflTeam": "TEN",
+          "adp": 67.3,
+          "adpDiff": -1.3,
+          "grade": "B"
+        },
+        {
+          "round": 7,
+          "pickInRound": 7,
+          "overall": 79,
+          "player": "Joe Burrow",
+          "position": "QB",
+          "nflTeam": "CIN",
+          "adp": 57.6,
+          "adpDiff": 21.4,
+          "grade": "B+"
+        },
+        {
+          "round": 8,
+          "pickInRound": 6,
+          "overall": 90,
+          "player": "Brian Thomas Jr.",
+          "position": "WR",
+          "nflTeam": "JAX",
+          "adp": 70.2,
+          "adpDiff": 19.8,
+          "grade": "B+"
+        },
+        {
+          "round": 9,
+          "pickInRound": 7,
+          "overall": 103,
+          "player": "Jacory Croskey-Merritt",
+          "position": "RB",
+          "nflTeam": "WSH",
+          "adp": 101.2,
+          "adpDiff": 1.8,
+          "grade": "B"
+        },
+        {
+          "round": 10,
+          "pickInRound": 6,
+          "overall": 114,
+          "player": "Michael Wilson",
+          "position": "WR",
+          "nflTeam": "ARI",
+          "adp": 75.2,
+          "adpDiff": 38.8,
+          "grade": "A"
+        },
+        {
+          "round": 11,
+          "pickInRound": 7,
+          "overall": 127,
+          "player": "Tyler Allgeier",
+          "position": "RB",
+          "nflTeam": "ARI",
+          "adp": 154.5,
+          "adpDiff": -27.5,
+          "grade": "C"
+        },
+        {
+          "round": 12,
+          "pickInRound": 6,
+          "overall": 138,
+          "player": "Jayden Reed",
+          "position": "WR",
+          "nflTeam": "GB",
+          "adp": 88.7,
+          "adpDiff": 49.3,
+          "grade": "A",
+          "comment": "49 picks past price. Half of the best late-receiver haul in the draft."
+        },
+        {
+          "round": 13,
+          "pickInRound": 7,
+          "overall": 151,
+          "player": "Dalton Kincaid",
+          "position": "TE",
+          "nflTeam": "BUF",
+          "adp": 149.5,
+          "adpDiff": 1.5,
+          "grade": "B"
+        },
+        {
+          "round": 14,
+          "pickInRound": 6,
+          "overall": 162,
+          "player": "Eagles D/ST",
+          "position": "D/ST",
+          "nflTeam": "PHI",
+          "adp": 139.1,
+          "adpDiff": 22.9,
+          "grade": "B+"
+        },
+        {
+          "round": 15,
+          "pickInRound": 7,
+          "overall": 175,
+          "player": "Tyrone Tracy Jr.",
+          "position": "RB",
+          "nflTeam": "NYG",
+          "adp": 159.4,
+          "adpDiff": 15.6,
+          "grade": "B+"
+        },
+        {
+          "round": 16,
+          "pickInRound": 6,
+          "overall": 186,
+          "player": "Evan McPherson",
+          "position": "K",
+          "nflTeam": "CIN",
+          "adp": 174.0,
+          "adpDiff": 12.0,
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "teamId": "bizzy",
+      "rank": 3,
+      "grade": "B+",
+      "score": 81.1,
+      "components": {
+        "valueVsAdp": 75.1,
+        "starters": 84.0,
+        "ceiling": 78.4,
+        "construction": 100,
+        "bench": 69.4
+      },
+      "constructionNotes": [],
+      "verdict": "Best backfield drafted, a real WR1, and a perfect construction score. The B+ instead of higher comes from a receiver room that thins out immediately after Nico Collins and a Rachaad White pick 26 ahead of price. Maye at 6.09 was strong quarterback timing. This roster is one trade from an A, and its manager said as much in the chat.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 4,
+          "overall": 4,
+          "player": "Jonathan Taylor",
+          "position": "RB",
+          "nflTeam": "IND",
+          "adp": 5.8,
+          "adpDiff": -1.8,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 9,
+          "overall": 21,
+          "player": "Kenneth Walker III",
+          "position": "RB",
+          "nflTeam": "KC",
+          "adp": 20.2,
+          "adpDiff": 0.8,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 4,
+          "overall": 28,
+          "player": "Nico Collins",
+          "position": "WR",
+          "nflTeam": "HOU",
+          "adp": 20.5,
+          "adpDiff": 7.5,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 9,
+          "overall": 45,
+          "player": "Colston Loveland",
+          "position": "TE",
+          "nflTeam": "CHI",
+          "adp": 61.3,
+          "adpDiff": -16.3,
+          "grade": "C+"
+        },
+        {
+          "round": 5,
+          "pickInRound": 4,
+          "overall": 52,
+          "player": "TreVeyon Henderson",
+          "position": "RB",
+          "nflTeam": "NE",
+          "adp": 63.3,
+          "adpDiff": -11.3,
+          "grade": "C+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 9,
+          "overall": 69,
+          "player": "Drake Maye",
+          "position": "QB",
+          "nflTeam": "NE",
+          "adp": 51.3,
+          "adpDiff": 17.7,
+          "grade": "B+",
+          "comment": "The quarterback timing everyone else wished they'd had."
+        },
+        {
+          "round": 7,
+          "pickInRound": 4,
+          "overall": 76,
+          "player": "Carnell Tate",
+          "position": "WR",
+          "nflTeam": "TEN",
+          "adp": 76.0,
+          "adpDiff": 0.0,
+          "grade": "B"
+        },
+        {
+          "round": 8,
+          "pickInRound": 9,
+          "overall": 93,
+          "player": "Rachaad White",
+          "position": "RB",
+          "nflTeam": "WSH",
+          "adp": 119.0,
+          "adpDiff": -26.0,
+          "grade": "C",
+          "comment": "Priced at 119. Twenty-six picks early for a backup."
+        },
+        {
+          "round": 9,
+          "pickInRound": 4,
+          "overall": 100,
+          "player": "Alec Pierce",
+          "position": "WR",
+          "nflTeam": "IND",
+          "adp": 63.3,
+          "adpDiff": 36.7,
+          "grade": "A",
+          "comment": "37 picks past price, and immediately his WR3. That is the compliment and the problem."
+        },
+        {
+          "round": 10,
+          "pickInRound": 9,
+          "overall": 117,
+          "player": "Deebo Samuel Sr.",
+          "position": "WR",
+          "nflTeam": "SF",
+          "adp": 102.3,
+          "adpDiff": 14.7,
+          "grade": "B+"
+        },
+        {
+          "round": 11,
+          "pickInRound": 4,
+          "overall": 124,
+          "player": "Rams D/ST",
+          "position": "D/ST",
+          "nflTeam": "LAR",
+          "adp": 114.0,
+          "adpDiff": 10.0,
+          "grade": "B+"
+        },
+        {
+          "round": 12,
+          "pickInRound": 9,
+          "overall": 141,
+          "player": "Cam Little",
+          "position": "K",
+          "nflTeam": "JAX",
+          "adp": 150.0,
+          "adpDiff": -9.0,
+          "grade": "C+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 4,
+          "overall": 148,
+          "player": "Keenan Allen",
+          "position": "WR",
+          "nflTeam": "IND",
+          "adp": 135.8,
+          "adpDiff": 12.2,
+          "grade": "B+"
+        },
+        {
+          "round": 14,
+          "pickInRound": 9,
+          "overall": 165,
+          "player": "Hunter Henry",
+          "position": "TE",
+          "nflTeam": "NE",
+          "adp": 165.9,
+          "adpDiff": -0.9,
+          "grade": "B"
+        },
+        {
+          "round": 15,
+          "pickInRound": 4,
+          "overall": 172,
+          "player": "Jordan James",
+          "position": "RB",
+          "nflTeam": "SF",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        },
+        {
+          "round": 16,
+          "pickInRound": 9,
+          "overall": 189,
+          "player": "Denzel Boston",
+          "position": "WR",
+          "nflTeam": "CLE",
+          "adp": 140.5,
+          "adpDiff": 48.5,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "teamId": "team-noor",
+      "rank": 4,
+      "grade": "B+",
+      "score": 80.4,
+      "components": {
+        "valueVsAdp": 89.0,
+        "starters": 65.4,
+        "ceiling": 64.8,
+        "construction": 100,
+        "bench": 93.5
+      },
+      "constructionNotes": [],
+      "verdict": "Second-best value capture in the draft: Meyers, McMillan, and a 132nd-pick defense all came well past price. The ceiling on the grade is what the value bought. The starting lineup scored ninth, with quarterback addressed at pick 118 and tight end acquired at a discount for a reason. Excellent shopping, modest pantry.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 3,
+          "overall": 3,
+          "player": "Ja'Marr Chase",
+          "position": "WR",
+          "nflTeam": "CIN",
+          "adp": 3.9,
+          "adpDiff": -0.9,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 10,
+          "overall": 22,
+          "player": "Breece Hall",
+          "position": "RB",
+          "nflTeam": "NYJ",
+          "adp": 33.0,
+          "adpDiff": -11.0,
+          "grade": "C+"
+        },
+        {
+          "round": 3,
+          "pickInRound": 3,
+          "overall": 27,
+          "player": "Kyren Williams",
+          "position": "RB",
+          "nflTeam": "LAR",
+          "adp": 27.7,
+          "adpDiff": -0.7,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 10,
+          "overall": 46,
+          "player": "Bucky Irving",
+          "position": "RB",
+          "nflTeam": "TB",
+          "adp": 47.5,
+          "adpDiff": -1.5,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 3,
+          "overall": 51,
+          "player": "Jaylen Waddle",
+          "position": "WR",
+          "nflTeam": "DEN",
+          "adp": 47.3,
+          "adpDiff": 3.7,
+          "grade": "B"
+        },
+        {
+          "round": 6,
+          "pickInRound": 10,
+          "overall": 70,
+          "player": "Christian Watson",
+          "position": "WR",
+          "nflTeam": "GB",
+          "adp": 56.0,
+          "adpDiff": 14.0,
+          "grade": "B+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 3,
+          "overall": 75,
+          "player": "Aaron Jones Sr.",
+          "position": "RB",
+          "nflTeam": "MIN",
+          "adp": 111.3,
+          "adpDiff": -36.3,
+          "grade": "D",
+          "comment": "36 picks ahead of market. The one true reach."
+        },
+        {
+          "round": 8,
+          "pickInRound": 10,
+          "overall": 94,
+          "player": "George Kittle",
+          "position": "TE",
+          "nflTeam": "SF",
+          "adp": 103.9,
+          "adpDiff": -9.9,
+          "grade": "C+"
+        },
+        {
+          "round": 9,
+          "pickInRound": 3,
+          "overall": 99,
+          "player": "J.K. Dobbins",
+          "position": "RB",
+          "nflTeam": "DEN",
+          "adp": 78.0,
+          "adpDiff": 21.0,
+          "grade": "B+"
+        },
+        {
+          "round": 10,
+          "pickInRound": 10,
+          "overall": 118,
+          "player": "Brock Purdy",
+          "position": "QB",
+          "nflTeam": "SF",
+          "adp": 88.4,
+          "adpDiff": 29.6,
+          "grade": "A",
+          "comment": "30 past price. Good value at the position he waited too long on."
+        },
+        {
+          "round": 11,
+          "pickInRound": 3,
+          "overall": 123,
+          "player": "Jakobi Meyers",
+          "position": "WR",
+          "nflTeam": "JAX",
+          "adp": 87.5,
+          "adpDiff": 35.5,
+          "grade": "A"
+        },
+        {
+          "round": 12,
+          "pickInRound": 10,
+          "overall": 142,
+          "player": "Mark Andrews",
+          "position": "TE",
+          "nflTeam": "BAL",
+          "adp": 124.8,
+          "adpDiff": 17.2,
+          "grade": "B+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 3,
+          "overall": 147,
+          "player": "Jaxson Dart",
+          "position": "QB",
+          "nflTeam": "NYG",
+          "adp": 119.2,
+          "adpDiff": 27.8,
+          "grade": "A"
+        },
+        {
+          "round": 14,
+          "pickInRound": 10,
+          "overall": 166,
+          "player": "Patriots D/ST",
+          "position": "D/ST",
+          "nflTeam": "NE",
+          "adp": 132.9,
+          "adpDiff": 33.1,
+          "grade": "A"
+        },
+        {
+          "round": 15,
+          "pickInRound": 3,
+          "overall": 171,
+          "player": "Tyler Loop",
+          "position": "K",
+          "nflTeam": "BAL",
+          "adp": 149.8,
+          "adpDiff": 21.2,
+          "grade": "B+"
+        },
+        {
+          "round": 16,
+          "pickInRound": 10,
+          "overall": 190,
+          "player": "Jalen McMillan",
+          "position": "WR",
+          "nflTeam": "TB",
+          "adp": 134.8,
+          "adpDiff": 55.2,
+          "grade": "A",
+          "comment": "55 picks past price in the final round."
+        }
+      ]
+    },
+    {
+      "teamId": "ivaafay",
+      "rank": 5,
+      "grade": "B",
+      "score": 79.2,
+      "components": {
+        "valueVsAdp": 72.5,
+        "starters": 74.6,
+        "ceiling": 81.0,
+        "construction": 100,
+        "bench": 75.6
+      },
+      "constructionNotes": [],
+      "verdict": "A top-heavy grade: Bijan and Pickens carried the ceiling score, and rounds 10 through 16 (Addison, Shakir, Nailor) rescued the value column. Between those bookends sat the shakiest RB middle in the draft, with Price 26 early and Kamara 36 early. Perfect construction, wobbly contents.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 2,
+          "overall": 2,
+          "player": "Bijan Robinson",
+          "position": "RB",
+          "nflTeam": "ATL",
+          "adp": 2.3,
+          "adpDiff": -0.3,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 11,
+          "overall": 23,
+          "player": "George Pickens",
+          "position": "WR",
+          "nflTeam": "DAL",
+          "adp": 19.4,
+          "adpDiff": 3.6,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 2,
+          "overall": 26,
+          "player": "Javonte Williams",
+          "position": "RB",
+          "nflTeam": "DAL",
+          "adp": 33.7,
+          "adpDiff": -7.7,
+          "grade": "C+"
+        },
+        {
+          "round": 4,
+          "pickInRound": 11,
+          "overall": 47,
+          "player": "Jadarian Price",
+          "position": "RB",
+          "nflTeam": "SEA",
+          "adp": 72.8,
+          "adpDiff": -25.8,
+          "grade": "C",
+          "comment": "26 picks ahead of price for the RB2 job this roster badly needed."
+        },
+        {
+          "round": 5,
+          "pickInRound": 2,
+          "overall": 50,
+          "player": "Davante Adams",
+          "position": "WR",
+          "nflTeam": "LAR",
+          "adp": 37.5,
+          "adpDiff": 12.5,
+          "grade": "B+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 11,
+          "overall": 71,
+          "player": "Kyle Pitts Sr.",
+          "position": "TE",
+          "nflTeam": "ATL",
+          "adp": 85.0,
+          "adpDiff": -14.0,
+          "grade": "C+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 2,
+          "overall": 74,
+          "player": "DK Metcalf",
+          "position": "WR",
+          "nflTeam": "PIT",
+          "adp": 64.5,
+          "adpDiff": 9.5,
+          "grade": "B"
+        },
+        {
+          "round": 8,
+          "pickInRound": 11,
+          "overall": 95,
+          "player": "Caleb Williams",
+          "position": "QB",
+          "nflTeam": "CHI",
+          "adp": 92.3,
+          "adpDiff": 2.7,
+          "grade": "B"
+        },
+        {
+          "round": 9,
+          "pickInRound": 2,
+          "overall": 98,
+          "player": "Jordan Mason",
+          "position": "RB",
+          "nflTeam": "MIN",
+          "adp": 114.0,
+          "adpDiff": -16.0,
+          "grade": "C+"
+        },
+        {
+          "round": 10,
+          "pickInRound": 11,
+          "overall": 119,
+          "player": "Jordan Addison",
+          "position": "WR",
+          "nflTeam": "MIN",
+          "adp": 86.2,
+          "adpDiff": 32.8,
+          "grade": "A"
+        },
+        {
+          "round": 11,
+          "pickInRound": 2,
+          "overall": 122,
+          "player": "Alvin Kamara",
+          "position": "RB",
+          "nflTeam": "NO",
+          "adp": 158.4,
+          "adpDiff": -36.4,
+          "grade": "D",
+          "comment": "Priced at 158. A bet against the market's obituary."
+        },
+        {
+          "round": 12,
+          "pickInRound": 11,
+          "overall": 143,
+          "player": "Khalil Shakir",
+          "position": "WR",
+          "nflTeam": "BUF",
+          "adp": 109.9,
+          "adpDiff": 33.1,
+          "grade": "A"
+        },
+        {
+          "round": 13,
+          "pickInRound": 2,
+          "overall": 146,
+          "player": "Dylan Sampson",
+          "position": "RB",
+          "nflTeam": "CLE",
+          "adp": 172.0,
+          "adpDiff": -26.0,
+          "grade": "C"
+        },
+        {
+          "round": 14,
+          "pickInRound": 11,
+          "overall": 167,
+          "player": "Chargers D/ST",
+          "position": "D/ST",
+          "nflTeam": "LAC",
+          "adp": 141.4,
+          "adpDiff": 25.6,
+          "grade": "A"
+        },
+        {
+          "round": 15,
+          "pickInRound": 2,
+          "overall": 170,
+          "player": "Jake Bates",
+          "position": "K",
+          "nflTeam": "DET",
+          "adp": 145.3,
+          "adpDiff": 24.7,
+          "grade": "A"
+        },
+        {
+          "round": 16,
+          "pickInRound": 11,
+          "overall": 191,
+          "player": "Jalen Nailor",
+          "position": "WR",
+          "nflTeam": "LV",
+          "adp": 147.8,
+          "adpDiff": 43.2,
+          "grade": "A",
+          "comment": "43 past price in round 16. Free money."
+        }
+      ]
+    },
+    {
+      "teamId": "rambam",
+      "rank": 6,
+      "grade": "B",
+      "score": 77.7,
+      "components": {
+        "valueVsAdp": 76.6,
+        "starters": 77.0,
+        "ceiling": 70.9,
+        "construction": 96,
+        "bench": 69.2
+      },
+      "constructionNotes": [
+        "7 WRs drafted (hoarding)"
+      ],
+      "verdict": "A market-clean draft with one big positional imbalance. Brown, Egbuka, and Daniels all came at or past price; Warren at 5.09 was the lone real reach. Seven receivers against three startable running backs cost construction points, and the ceiling rests on rookie receivers hitting. Balanced scores, no standout column, a straight B.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 9,
+          "overall": 9,
+          "player": "Chase Brown",
+          "position": "RB",
+          "nflTeam": "CIN",
+          "adp": 14.8,
+          "adpDiff": -5.8,
+          "grade": "B",
+          "comment": "1.09 against a market price of 14.8. Aggressive, and the market shrugged."
+        },
+        {
+          "round": 2,
+          "pickInRound": 4,
+          "overall": 16,
+          "player": "CeeDee Lamb",
+          "position": "WR",
+          "nflTeam": "DAL",
+          "adp": 12.4,
+          "adpDiff": 3.6,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 9,
+          "overall": 33,
+          "player": "Travis Etienne Jr.",
+          "position": "RB",
+          "nflTeam": "NO",
+          "adp": 37.0,
+          "adpDiff": -4.0,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 4,
+          "overall": 40,
+          "player": "Emeka Egbuka",
+          "position": "WR",
+          "nflTeam": "TB",
+          "adp": 33.9,
+          "adpDiff": 6.1,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 9,
+          "overall": 57,
+          "player": "Tyler Warren",
+          "position": "TE",
+          "nflTeam": "IND",
+          "adp": 72.1,
+          "adpDiff": -15.1,
+          "grade": "C+",
+          "comment": "15 picks ahead of price. The reach."
+        },
+        {
+          "round": 6,
+          "pickInRound": 4,
+          "overall": 64,
+          "player": "Rome Odunze",
+          "position": "WR",
+          "nflTeam": "CHI",
+          "adp": 49.4,
+          "adpDiff": 14.6,
+          "grade": "B+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 9,
+          "overall": 81,
+          "player": "Jonathon Brooks",
+          "position": "RB",
+          "nflTeam": "CAR",
+          "adp": 90.2,
+          "adpDiff": -9.2,
+          "grade": "C+"
+        },
+        {
+          "round": 8,
+          "pickInRound": 4,
+          "overall": 88,
+          "player": "Jayden Daniels",
+          "position": "QB",
+          "nflTeam": "WSH",
+          "adp": 73.0,
+          "adpDiff": 15.0,
+          "grade": "B+",
+          "comment": "15 past price. Possibly the pick that ages best."
+        },
+        {
+          "round": 9,
+          "pickInRound": 9,
+          "overall": 105,
+          "player": "Matthew Golden",
+          "position": "WR",
+          "nflTeam": "GB",
+          "adp": 102.5,
+          "adpDiff": 2.5,
+          "grade": "B"
+        },
+        {
+          "round": 10,
+          "pickInRound": 4,
+          "overall": 112,
+          "player": "Xavier Worthy",
+          "position": "WR",
+          "nflTeam": "KC",
+          "adp": 100.0,
+          "adpDiff": 12.0,
+          "grade": "B+"
+        },
+        {
+          "round": 11,
+          "pickInRound": 9,
+          "overall": 129,
+          "player": "Cameron Dicker",
+          "position": "K",
+          "nflTeam": "LAC",
+          "adp": 142.3,
+          "adpDiff": -13.3,
+          "grade": "C+"
+        },
+        {
+          "round": 12,
+          "pickInRound": 4,
+          "overall": 136,
+          "player": "KC Concepcion",
+          "position": "WR",
+          "nflTeam": "CLE",
+          "adp": 117.9,
+          "adpDiff": 18.1,
+          "grade": "B+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 9,
+          "overall": 153,
+          "player": "Tank Dell",
+          "position": "WR",
+          "nflTeam": "HOU",
+          "adp": 156.5,
+          "adpDiff": -3.5,
+          "grade": "B"
+        },
+        {
+          "round": 14,
+          "pickInRound": 4,
+          "overall": 160,
+          "player": "Lions D/ST",
+          "position": "D/ST",
+          "nflTeam": "DET",
+          "adp": 127.9,
+          "adpDiff": 32.1,
+          "grade": "A"
+        },
+        {
+          "round": 15,
+          "pickInRound": 9,
+          "overall": 177,
+          "player": "Kaelon Black",
+          "position": "RB",
+          "nflTeam": "SF",
+          "adp": 165.2,
+          "adpDiff": 11.8,
+          "grade": "B+",
+          "comment": "The RB depth plan, in its entirety."
+        },
+        {
+          "round": 16,
+          "pickInRound": 4,
+          "overall": 184,
+          "player": "Emmett Johnson",
+          "position": "RB",
+          "nflTeam": "KC",
+          "adp": 153.2,
+          "adpDiff": 30.8,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "teamId": "deddybaba",
+      "rank": 7,
+      "grade": "B-",
+      "score": 76.8,
+      "components": {
+        "valueVsAdp": 67.0,
+        "starters": 77.6,
+        "ceiling": 78.9,
+        "construction": 100,
+        "bench": 65.8
+      },
+      "constructionNotes": [],
+      "verdict": "Elite starters at receiver and quarterback set against the weakest drafted starting backfield in the league. Goff at 188 against a price of 100 was the draft's second-best value. The B- is the average of an A top and a D backfield; no grading system splits that difference cleanly.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 5,
+          "overall": 5,
+          "player": "Puka Nacua",
+          "position": "WR",
+          "nflTeam": "LAR",
+          "adp": 3.1,
+          "adpDiff": 1.9,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 8,
+          "overall": 20,
+          "player": "Rashee Rice",
+          "position": "WR",
+          "nflTeam": "KC",
+          "adp": 16.0,
+          "adpDiff": 4.0,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 5,
+          "overall": 29,
+          "player": "Josh Allen",
+          "position": "QB",
+          "nflTeam": "BUF",
+          "adp": 33.2,
+          "adpDiff": -4.2,
+          "grade": "B",
+          "comment": "Asim's own review, in the chat, was that this pick might have \"jacked up my roster.\" The model says it was market price."
+        },
+        {
+          "round": 4,
+          "pickInRound": 8,
+          "overall": 44,
+          "player": "Bhayshul Tuten",
+          "position": "RB",
+          "nflTeam": "JAX",
+          "adp": 52.9,
+          "adpDiff": -8.9,
+          "grade": "C+"
+        },
+        {
+          "round": 5,
+          "pickInRound": 5,
+          "overall": 53,
+          "player": "Terry McLaurin",
+          "position": "WR",
+          "nflTeam": "WSH",
+          "adp": 45.8,
+          "adpDiff": 7.2,
+          "grade": "B"
+        },
+        {
+          "round": 6,
+          "pickInRound": 8,
+          "overall": 68,
+          "player": "Tucker Kraft",
+          "position": "TE",
+          "nflTeam": "GB",
+          "adp": 95.0,
+          "adpDiff": -27.0,
+          "grade": "C"
+        },
+        {
+          "round": 7,
+          "pickInRound": 5,
+          "overall": 77,
+          "player": "RJ Harvey",
+          "position": "RB",
+          "nflTeam": "DEN",
+          "adp": 103.8,
+          "adpDiff": -26.8,
+          "grade": "C"
+        },
+        {
+          "round": 8,
+          "pickInRound": 8,
+          "overall": 92,
+          "player": "Kenny Gainwell",
+          "position": "RB",
+          "nflTeam": "TB",
+          "adp": 101.3,
+          "adpDiff": -9.3,
+          "grade": "C+"
+        },
+        {
+          "round": 9,
+          "pickInRound": 5,
+          "overall": 101,
+          "player": "Josh Downs",
+          "position": "WR",
+          "nflTeam": "IND",
+          "adp": 93.7,
+          "adpDiff": 7.3,
+          "grade": "B"
+        },
+        {
+          "round": 10,
+          "pickInRound": 8,
+          "overall": 116,
+          "player": "Tyjae Spears",
+          "position": "RB",
+          "nflTeam": "TEN",
+          "adp": 140.8,
+          "adpDiff": -24.8,
+          "grade": "C"
+        },
+        {
+          "round": 11,
+          "pickInRound": 5,
+          "overall": 125,
+          "player": "Broncos D/ST",
+          "position": "D/ST",
+          "nflTeam": "DEN",
+          "adp": 93.9,
+          "adpDiff": 31.1,
+          "grade": "A"
+        },
+        {
+          "round": 12,
+          "pickInRound": 8,
+          "overall": 140,
+          "player": "Ka'imi Fairbairn",
+          "position": "K",
+          "nflTeam": "HOU",
+          "adp": 134.7,
+          "adpDiff": 5.3,
+          "grade": "B"
+        },
+        {
+          "round": 13,
+          "pickInRound": 5,
+          "overall": 149,
+          "player": "Terrance Ferguson",
+          "position": "TE",
+          "nflTeam": "LAR",
+          "adp": 187.1,
+          "adpDiff": -38.1,
+          "grade": "D"
+        },
+        {
+          "round": 14,
+          "pickInRound": 8,
+          "overall": 164,
+          "player": "Kimani Vidal",
+          "position": "RB",
+          "nflTeam": "LAC",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        },
+        {
+          "round": 15,
+          "pickInRound": 5,
+          "overall": 173,
+          "player": "Travis Hunter",
+          "position": "WR",
+          "nflTeam": "JAX",
+          "adp": 163.1,
+          "adpDiff": 9.9,
+          "grade": "B"
+        },
+        {
+          "round": 16,
+          "pickInRound": 8,
+          "overall": 188,
+          "player": "Jared Goff",
+          "position": "QB",
+          "nflTeam": "DET",
+          "adp": 99.9,
+          "adpDiff": 88.1,
+          "grade": "A",
+          "comment": "88 past price. The best insurance pick of the draft."
+        }
+      ]
+    },
+    {
+      "teamId": "i-eat-ass",
+      "rank": 8,
+      "grade": "B-",
+      "score": 74.5,
+      "components": {
+        "valueVsAdp": 70.6,
+        "starters": 71.0,
+        "ceiling": 71.9,
+        "construction": 96,
+        "bench": 68.1
+      },
+      "constructionNotes": [
+        "7 WRs drafted (hoarding)"
+      ],
+      "verdict": "Remove one pick and this is a B+. Lloyd at 67 against a price of 157 was the draft's largest reach and sank the value column by itself. Hurts, Jeudy, and Ridley were quality timing. Graded exactly as drafted: eleven sound rounds and one that will be cited in this space all season.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 6,
+          "overall": 6,
+          "player": "Christian McCaffrey",
+          "position": "RB",
+          "nflTeam": "SF",
+          "adp": 6.7,
+          "adpDiff": -0.7,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 7,
+          "overall": 19,
+          "player": "Jeremiyah Love",
+          "position": "RB",
+          "nflTeam": "ARI",
+          "adp": 29.9,
+          "adpDiff": -10.9,
+          "grade": "C+"
+        },
+        {
+          "round": 3,
+          "pickInRound": 6,
+          "overall": 30,
+          "player": "Chris Olave",
+          "position": "WR",
+          "nflTeam": "NO",
+          "adp": 22.7,
+          "adpDiff": 7.3,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 7,
+          "overall": 43,
+          "player": "Quinshon Judkins",
+          "position": "RB",
+          "nflTeam": "CLE",
+          "adp": 51.4,
+          "adpDiff": -8.4,
+          "grade": "C+"
+        },
+        {
+          "round": 5,
+          "pickInRound": 6,
+          "overall": 54,
+          "player": "Jameson Williams",
+          "position": "WR",
+          "nflTeam": "DET",
+          "adp": 39.4,
+          "adpDiff": 14.6,
+          "grade": "B+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 7,
+          "overall": 67,
+          "player": "MarShawn Lloyd",
+          "position": "RB",
+          "nflTeam": "GB",
+          "adp": 157.0,
+          "adpDiff": -90.0,
+          "grade": "D",
+          "comment": "Priced at 157. The largest reach in the draft by a factor of two."
+        },
+        {
+          "round": 7,
+          "pickInRound": 6,
+          "overall": 78,
+          "player": "Jalen Hurts",
+          "position": "QB",
+          "nflTeam": "PHI",
+          "adp": 81.5,
+          "adpDiff": -3.5,
+          "grade": "B",
+          "comment": "A top-five quarterback at a discount."
+        },
+        {
+          "round": 8,
+          "pickInRound": 7,
+          "overall": 91,
+          "player": "Dallas Goedert",
+          "position": "TE",
+          "nflTeam": "PHI",
+          "adp": 96.2,
+          "adpDiff": -5.2,
+          "grade": "B"
+        },
+        {
+          "round": 9,
+          "pickInRound": 6,
+          "overall": 102,
+          "player": "Quentin Johnston",
+          "position": "WR",
+          "nflTeam": "LAC",
+          "adp": 87.5,
+          "adpDiff": 14.5,
+          "grade": "B+"
+        },
+        {
+          "round": 10,
+          "pickInRound": 7,
+          "overall": 115,
+          "player": "Woody Marks",
+          "position": "RB",
+          "nflTeam": "HOU",
+          "adp": 141.6,
+          "adpDiff": -26.6,
+          "grade": "C"
+        },
+        {
+          "round": 11,
+          "pickInRound": 6,
+          "overall": 126,
+          "player": "Romeo Doubs",
+          "position": "WR",
+          "nflTeam": "NE",
+          "adp": 106.4,
+          "adpDiff": 19.6,
+          "grade": "B+"
+        },
+        {
+          "round": 12,
+          "pickInRound": 7,
+          "overall": 139,
+          "player": "Makai Lemon",
+          "position": "WR",
+          "nflTeam": "PHI",
+          "adp": 115.1,
+          "adpDiff": 23.9,
+          "grade": "B+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 6,
+          "overall": 150,
+          "player": "Steelers D/ST",
+          "position": "D/ST",
+          "nflTeam": "PIT",
+          "adp": 135.4,
+          "adpDiff": 14.6,
+          "grade": "B+"
+        },
+        {
+          "round": 14,
+          "pickInRound": 7,
+          "overall": 163,
+          "player": "Eddy Pineiro",
+          "position": "K",
+          "nflTeam": "SF",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        },
+        {
+          "round": 15,
+          "pickInRound": 6,
+          "overall": 174,
+          "player": "Jerry Jeudy",
+          "position": "WR",
+          "nflTeam": "CLE",
+          "adp": 124.2,
+          "adpDiff": 49.8,
+          "grade": "A"
+        },
+        {
+          "round": 16,
+          "pickInRound": 7,
+          "overall": 187,
+          "player": "Calvin Ridley",
+          "position": "WR",
+          "nflTeam": "TEN",
+          "adp": 140.3,
+          "adpDiff": 46.7,
+          "grade": "A",
+          "comment": "47 past price. The final rounds nearly balanced the Lloyd books. Nearly."
+        }
+      ]
+    },
+    {
+      "teamId": "bazan",
+      "rank": 9,
+      "grade": "C+",
+      "score": 72.4,
+      "components": {
+        "valueVsAdp": 61.9,
+        "starters": 72.2,
+        "ceiling": 73.6,
+        "construction": 94,
+        "bench": 69.3
+      },
+      "constructionNotes": [
+        "thin starting slot: TE (Juwan Johnson, ADP 160.8)"
+      ],
+      "verdict": "The first five rounds graded among the best in the league; the last eleven among the worst. Rodriguez (41 early) and Coleman (39 early) drained the value score, and a second quarterback in round 9 spent a pick the roster didn't owe. Cook insurance via Ray Davis was smart. C+ is the exact midpoint of two different drafts.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 8,
+          "overall": 8,
+          "player": "James Cook III",
+          "position": "RB",
+          "nflTeam": "BUF",
+          "adp": 9.3,
+          "adpDiff": -1.3,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 5,
+          "overall": 17,
+          "player": "A.J. Brown",
+          "position": "WR",
+          "nflTeam": "NE",
+          "adp": 18.7,
+          "adpDiff": -1.7,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 8,
+          "overall": 32,
+          "player": "Malik Nabers",
+          "position": "WR",
+          "nflTeam": "NYG",
+          "adp": 25.7,
+          "adpDiff": 6.3,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 5,
+          "overall": 41,
+          "player": "D'Andre Swift",
+          "position": "RB",
+          "nflTeam": "CHI",
+          "adp": 43.1,
+          "adpDiff": -2.1,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 8,
+          "overall": 56,
+          "player": "Lamar Jackson",
+          "position": "QB",
+          "nflTeam": "BAL",
+          "adp": 55.9,
+          "adpDiff": 0.1,
+          "grade": "B",
+          "comment": "\"He fell.\" He was priced at 55.9 and taken at 56. He arrived on schedule."
+        },
+        {
+          "round": 6,
+          "pickInRound": 5,
+          "overall": 65,
+          "player": "Michael Pittman Jr.",
+          "position": "WR",
+          "nflTeam": "PIT",
+          "adp": 81.2,
+          "adpDiff": -16.2,
+          "grade": "C+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 8,
+          "overall": 80,
+          "player": "Courtland Sutton",
+          "position": "WR",
+          "nflTeam": "DEN",
+          "adp": 59.9,
+          "adpDiff": 20.1,
+          "grade": "B+"
+        },
+        {
+          "round": 8,
+          "pickInRound": 5,
+          "overall": 89,
+          "player": "Kyle Monangai",
+          "position": "RB",
+          "nflTeam": "CHI",
+          "adp": 101.9,
+          "adpDiff": -12.9,
+          "grade": "C+"
+        },
+        {
+          "round": 9,
+          "pickInRound": 8,
+          "overall": 104,
+          "player": "Bo Nix",
+          "position": "QB",
+          "nflTeam": "DEN",
+          "adp": 113.1,
+          "adpDiff": -9.1,
+          "grade": "C+",
+          "comment": "A second quarterback, taken directly in front of the one manager who needed one."
+        },
+        {
+          "round": 10,
+          "pickInRound": 5,
+          "overall": 113,
+          "player": "Chris Rodriguez Jr.",
+          "position": "RB",
+          "nflTeam": "JAX",
+          "adp": 153.5,
+          "adpDiff": -40.5,
+          "grade": "D"
+        },
+        {
+          "round": 11,
+          "pickInRound": 8,
+          "overall": 128,
+          "player": "Jonah Coleman",
+          "position": "RB",
+          "nflTeam": "DEN",
+          "adp": 166.6,
+          "adpDiff": -38.6,
+          "grade": "D"
+        },
+        {
+          "round": 12,
+          "pickInRound": 5,
+          "overall": 137,
+          "player": "Jalen Coker",
+          "position": "WR",
+          "nflTeam": "CAR",
+          "adp": 117.9,
+          "adpDiff": 19.1,
+          "grade": "B+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 8,
+          "overall": 152,
+          "player": "Ray Davis",
+          "position": "RB",
+          "nflTeam": "BUF",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null,
+          "comment": "His own James Cook insurance. \"I got my own cuffs.\""
+        },
+        {
+          "round": 14,
+          "pickInRound": 5,
+          "overall": 161,
+          "player": "Juwan Johnson",
+          "position": "TE",
+          "nflTeam": "NO",
+          "adp": 160.8,
+          "adpDiff": 0.2,
+          "grade": "B"
+        },
+        {
+          "round": 15,
+          "pickInRound": 8,
+          "overall": 176,
+          "player": "Jaguars D/ST",
+          "position": "D/ST",
+          "nflTeam": "JAX",
+          "adp": 161.7,
+          "adpDiff": 14.3,
+          "grade": "B+"
+        },
+        {
+          "round": 16,
+          "pickInRound": 5,
+          "overall": 185,
+          "player": "Chase McLaughlin",
+          "position": "K",
+          "nflTeam": "TB",
+          "adp": 148.7,
+          "adpDiff": 36.3,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "teamId": "gang-green",
+      "rank": 10,
+      "grade": "C+",
+      "score": 68.3,
+      "components": {
+        "valueVsAdp": 55.0,
+        "starters": 66.3,
+        "ceiling": 68.6,
+        "construction": 100,
+        "bench": 65.6
+      },
+      "constructionNotes": [],
+      "verdict": "Last in value captured. Jeanty, Washington (47 early), Keaton Mitchell (36 early), and Butker (35 early) all came at real premiums, while quarterback waited until pick 155. Lawrence at that price was excellent in isolation, but value on your own QB1 in round 13 is a symptom, not a plan. The young receiver core keeps this at C+.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 11,
+          "overall": 11,
+          "player": "De'Von Achane",
+          "position": "RB",
+          "nflTeam": "MIA",
+          "adp": 11.7,
+          "adpDiff": -0.7,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 2,
+          "overall": 14,
+          "player": "Ashton Jeanty",
+          "position": "RB",
+          "nflTeam": "LV",
+          "adp": 23.8,
+          "adpDiff": -9.8,
+          "grade": "C+"
+        },
+        {
+          "round": 3,
+          "pickInRound": 11,
+          "overall": 35,
+          "player": "Garrett Wilson",
+          "position": "WR",
+          "nflTeam": "NYJ",
+          "adp": 31.4,
+          "adpDiff": 3.6,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 2,
+          "overall": 38,
+          "player": "Tetairoa McMillan",
+          "position": "WR",
+          "nflTeam": "CAR",
+          "adp": 30.4,
+          "adpDiff": 7.6,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 11,
+          "overall": 59,
+          "player": "Luther Burden III",
+          "position": "WR",
+          "nflTeam": "CHI",
+          "adp": 57.5,
+          "adpDiff": 1.5,
+          "grade": "B"
+        },
+        {
+          "round": 6,
+          "pickInRound": 2,
+          "overall": 62,
+          "player": "Harold Fannin Jr.",
+          "position": "TE",
+          "nflTeam": "CLE",
+          "adp": 81.7,
+          "adpDiff": -19.7,
+          "grade": "C"
+        },
+        {
+          "round": 7,
+          "pickInRound": 11,
+          "overall": 83,
+          "player": "Chuba Hubbard",
+          "position": "RB",
+          "nflTeam": "CAR",
+          "adp": 86.3,
+          "adpDiff": -3.3,
+          "grade": "B"
+        },
+        {
+          "round": 8,
+          "pickInRound": 2,
+          "overall": 86,
+          "player": "Stefon Diggs",
+          "position": "WR",
+          "nflTeam": "WSH",
+          "adp": 94.8,
+          "adpDiff": -8.8,
+          "grade": "C+"
+        },
+        {
+          "round": 9,
+          "pickInRound": 11,
+          "overall": 107,
+          "player": "Mike Washington Jr.",
+          "position": "RB",
+          "nflTeam": "LV",
+          "adp": 154.2,
+          "adpDiff": -47.2,
+          "grade": "D",
+          "comment": "47 picks ahead of price. The sickness, documented."
+        },
+        {
+          "round": 10,
+          "pickInRound": 2,
+          "overall": 110,
+          "player": "De'Zhaun Stribling",
+          "position": "WR",
+          "nflTeam": "SF",
+          "adp": 128.0,
+          "adpDiff": -18.0,
+          "grade": "C+"
+        },
+        {
+          "round": 11,
+          "pickInRound": 11,
+          "overall": 131,
+          "player": "Keaton Mitchell",
+          "position": "RB",
+          "nflTeam": "LAC",
+          "adp": 167.1,
+          "adpDiff": -36.1,
+          "grade": "D"
+        },
+        {
+          "round": 12,
+          "pickInRound": 2,
+          "overall": 134,
+          "player": "Harrison Butker",
+          "position": "K",
+          "nflTeam": "KC",
+          "adp": 168.6,
+          "adpDiff": -34.6,
+          "grade": "C"
+        },
+        {
+          "round": 13,
+          "pickInRound": 11,
+          "overall": 155,
+          "player": "Trevor Lawrence",
+          "position": "QB",
+          "nflTeam": "JAX",
+          "adp": 90.2,
+          "adpDiff": 64.8,
+          "grade": "A",
+          "comment": "65 past price. Great pick, alarming plan: this is the QB1."
+        },
+        {
+          "round": 14,
+          "pickInRound": 2,
+          "overall": 158,
+          "player": "Jets D/ST",
+          "position": "D/ST",
+          "nflTeam": "NYJ",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null,
+          "comment": "The all-Jets endgame begins."
+        },
+        {
+          "round": 15,
+          "pickInRound": 11,
+          "overall": 179,
+          "player": "Adonai Mitchell",
+          "position": "WR",
+          "nflTeam": "NYJ",
+          "adp": 161.5,
+          "adpDiff": 17.5,
+          "grade": "B+"
+        },
+        {
+          "round": 16,
+          "pickInRound": 2,
+          "overall": 182,
+          "player": "Geno Smith",
+          "position": "QB",
+          "nflTeam": "NYJ",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        }
+      ]
+    },
+    {
+      "teamId": "chief-sheikh",
+      "rank": 11,
+      "grade": "C",
+      "score": 68.1,
+      "components": {
+        "valueVsAdp": 55.2,
+        "starters": 74.6,
+        "ceiling": 74.1,
+        "construction": 84,
+        "bench": 55.0
+      },
+      "constructionNotes": [
+        "Brandon Aubrey (K) drafted round 9",
+        "Texans D/ST (D/ST) drafted round 10",
+        "7 RBs drafted (hoarding)"
+      ],
+      "verdict": "The construction score, lowest in the league, tells the story: a kicker at pick 106, a defense at 111, and seven running backs without a locked starting job among them. St. Brown, Jefferson, and McBride was as good an opening three as anyone's. Eleventh in value, last in bench. The C averages a superstar draft with an org-chart problem.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 10,
+          "overall": 10,
+          "player": "Amon-Ra St. Brown",
+          "position": "WR",
+          "nflTeam": "DET",
+          "adp": 7.9,
+          "adpDiff": 2.1,
+          "grade": "B"
+        },
+        {
+          "round": 2,
+          "pickInRound": 3,
+          "overall": 15,
+          "player": "Justin Jefferson",
+          "position": "WR",
+          "nflTeam": "MIN",
+          "adp": 14.0,
+          "adpDiff": 1.0,
+          "grade": "B",
+          "comment": "With St. Brown already rostered: the league's best receiver duo, assembled by pick 15."
+        },
+        {
+          "round": 3,
+          "pickInRound": 10,
+          "overall": 34,
+          "player": "Trey McBride",
+          "position": "TE",
+          "nflTeam": "ARI",
+          "adp": 38.3,
+          "adpDiff": -4.3,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 3,
+          "overall": 39,
+          "player": "Cam Skattebo",
+          "position": "RB",
+          "nflTeam": "NYG",
+          "adp": 38.9,
+          "adpDiff": 0.1,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 10,
+          "overall": 58,
+          "player": "Parker Washington",
+          "position": "WR",
+          "nflTeam": "JAX",
+          "adp": 64.9,
+          "adpDiff": -6.9,
+          "grade": "C+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 3,
+          "overall": 63,
+          "player": "Jaylen Warren",
+          "position": "RB",
+          "nflTeam": "PIT",
+          "adp": 63.0,
+          "adpDiff": 0.0,
+          "grade": "B"
+        },
+        {
+          "round": 7,
+          "pickInRound": 10,
+          "overall": 82,
+          "player": "Justin Herbert",
+          "position": "QB",
+          "nflTeam": "LAC",
+          "adp": 108.5,
+          "adpDiff": -26.5,
+          "grade": "C"
+        },
+        {
+          "round": 8,
+          "pickInRound": 3,
+          "overall": 87,
+          "player": "Blake Corum",
+          "position": "RB",
+          "nflTeam": "LAR",
+          "adp": 121.0,
+          "adpDiff": -34.0,
+          "grade": "C",
+          "comment": "34 picks ahead of price, on the stated hope that \"it's time.\""
+        },
+        {
+          "round": 9,
+          "pickInRound": 10,
+          "overall": 106,
+          "player": "Brandon Aubrey",
+          "position": "K",
+          "nflTeam": "DAL",
+          "adp": 133.5,
+          "adpDiff": -27.5,
+          "grade": "C",
+          "comment": "A kicker at pick 106, priced at 134. The construction score never recovered."
+        },
+        {
+          "round": 10,
+          "pickInRound": 3,
+          "overall": 111,
+          "player": "Texans D/ST",
+          "position": "D/ST",
+          "nflTeam": "HOU",
+          "adp": 98.2,
+          "adpDiff": 12.8,
+          "grade": "B+"
+        },
+        {
+          "round": 11,
+          "pickInRound": 10,
+          "overall": 130,
+          "player": "Braelon Allen",
+          "position": "RB",
+          "nflTeam": "NYJ",
+          "adp": 160.7,
+          "adpDiff": -30.7,
+          "grade": "C"
+        },
+        {
+          "round": 12,
+          "pickInRound": 3,
+          "overall": 135,
+          "player": "Tank Bigsby",
+          "position": "RB",
+          "nflTeam": "PHI",
+          "adp": 150.3,
+          "adpDiff": -15.3,
+          "grade": "C+"
+        },
+        {
+          "round": 13,
+          "pickInRound": 10,
+          "overall": 154,
+          "player": "Jaydon Blue",
+          "position": "RB",
+          "nflTeam": "DAL",
+          "adp": 158.2,
+          "adpDiff": -4.2,
+          "grade": "B"
+        },
+        {
+          "round": 14,
+          "pickInRound": 3,
+          "overall": 159,
+          "player": "Isiah Pacheco",
+          "position": "RB",
+          "nflTeam": "DET",
+          "adp": 154.6,
+          "adpDiff": 4.4,
+          "grade": "B"
+        },
+        {
+          "round": 15,
+          "pickInRound": 10,
+          "overall": 178,
+          "player": "Dontayvion Wicks",
+          "position": "WR",
+          "nflTeam": "PHI",
+          "adp": 174.2,
+          "adpDiff": 3.8,
+          "grade": "B"
+        },
+        {
+          "round": 16,
+          "pickInRound": 3,
+          "overall": 183,
+          "player": "Tyler Shough",
+          "position": "QB",
+          "nflTeam": "NO",
+          "adp": 139.6,
+          "adpDiff": 43.4,
+          "grade": "A"
+        }
+      ]
+    },
+    {
+      "teamId": "mustafas-magnificent-team",
+      "rank": 12,
+      "grade": "C-",
+      "score": 66.0,
+      "components": {
+        "valueVsAdp": 64.8,
+        "starters": 55.0,
+        "ceiling": 55.0,
+        "construction": 94,
+        "bench": 76.9
+      },
+      "constructionNotes": [
+        "thin starting slot: TE (Travis Kelce, ADP 119.9)"
+      ],
+      "verdict": "Frozen in time, as promised: last in starting lineup, last in ceiling. Hampton 11 early and Likely 51 early were premiums paid at exactly the wrong spots, while Kelce at 180 and Godwin at 108 rescued the value column to mid-pack. The bench score is real consolation. The C- grades the lineup he has to start, not the one the chat believes in.",
+      "picks": [
+        {
+          "round": 1,
+          "pickInRound": 12,
+          "overall": 12,
+          "player": "Omarion Hampton",
+          "position": "RB",
+          "nflTeam": "LAC",
+          "adp": 23.4,
+          "adpDiff": -11.4,
+          "grade": "C+",
+          "comment": "11 picks ahead of price at 1.12. The market wanted him at the two-three turn."
+        },
+        {
+          "round": 2,
+          "pickInRound": 1,
+          "overall": 13,
+          "player": "Saquon Barkley",
+          "position": "RB",
+          "nflTeam": "PHI",
+          "adp": 17.2,
+          "adpDiff": -4.2,
+          "grade": "B"
+        },
+        {
+          "round": 3,
+          "pickInRound": 12,
+          "overall": 36,
+          "player": "DeVonta Smith",
+          "position": "WR",
+          "nflTeam": "PHI",
+          "adp": 31.0,
+          "adpDiff": 5.0,
+          "grade": "B"
+        },
+        {
+          "round": 4,
+          "pickInRound": 1,
+          "overall": 37,
+          "player": "Ladd McConkey",
+          "position": "WR",
+          "nflTeam": "LAC",
+          "adp": 40.8,
+          "adpDiff": -3.8,
+          "grade": "B"
+        },
+        {
+          "round": 5,
+          "pickInRound": 12,
+          "overall": 60,
+          "player": "DJ Moore",
+          "position": "WR",
+          "nflTeam": "BUF",
+          "adp": 45.8,
+          "adpDiff": 14.2,
+          "grade": "B+"
+        },
+        {
+          "round": 6,
+          "pickInRound": 1,
+          "overall": 61,
+          "player": "Marvin Harrison Jr.",
+          "position": "WR",
+          "nflTeam": "ARI",
+          "adp": 67.2,
+          "adpDiff": -6.2,
+          "grade": "C+"
+        },
+        {
+          "round": 7,
+          "pickInRound": 12,
+          "overall": 84,
+          "player": "Patrick Mahomes",
+          "position": "QB",
+          "nflTeam": "KC",
+          "adp": 103.3,
+          "adpDiff": -19.3,
+          "grade": "C"
+        },
+        {
+          "round": 8,
+          "pickInRound": 1,
+          "overall": 85,
+          "player": "Isaiah Likely",
+          "position": "TE",
+          "nflTeam": "NYG",
+          "adp": 135.7,
+          "adpDiff": -50.7,
+          "grade": "D",
+          "comment": "51 ahead of price, at a position later solved for free."
+        },
+        {
+          "round": 9,
+          "pickInRound": 12,
+          "overall": 108,
+          "player": "Chris Godwin Jr.",
+          "position": "WR",
+          "nflTeam": "TB",
+          "adp": 76.8,
+          "adpDiff": 31.2,
+          "grade": "A"
+        },
+        {
+          "round": 10,
+          "pickInRound": 1,
+          "overall": 109,
+          "player": "Zach Charbonnet",
+          "position": "RB",
+          "nflTeam": "SEA",
+          "adp": 133.3,
+          "adpDiff": -24.3,
+          "grade": "C"
+        },
+        {
+          "round": 11,
+          "pickInRound": 12,
+          "overall": 132,
+          "player": "Ravens D/ST",
+          "position": "D/ST",
+          "nflTeam": "BAL",
+          "adp": 166.5,
+          "adpDiff": -34.5,
+          "grade": "C"
+        },
+        {
+          "round": 12,
+          "pickInRound": 1,
+          "overall": 133,
+          "player": "Jason Myers",
+          "position": "K",
+          "nflTeam": "SEA",
+          "adp": 135.8,
+          "adpDiff": -2.8,
+          "grade": "B"
+        },
+        {
+          "round": 13,
+          "pickInRound": 12,
+          "overall": 156,
+          "player": "Justice Hill",
+          "position": "RB",
+          "nflTeam": "BAL",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        },
+        {
+          "round": 14,
+          "pickInRound": 1,
+          "overall": 157,
+          "player": "Najee Harris",
+          "position": "RB",
+          "nflTeam": "NYG",
+          "adp": null,
+          "adpDiff": null,
+          "grade": null
+        },
+        {
+          "round": 15,
+          "pickInRound": 12,
+          "overall": 180,
+          "player": "Travis Kelce",
+          "position": "TE",
+          "nflTeam": "KC",
+          "adp": 119.9,
+          "adpDiff": 60.1,
+          "grade": "A",
+          "comment": "60 past price, while the chat spent ten minutes pricing in his wedding."
+        },
+        {
+          "round": 16,
+          "pickInRound": 1,
+          "overall": 181,
+          "player": "Kyler Murray",
+          "position": "QB",
+          "nflTeam": "MIN",
+          "adp": 136.2,
+          "adpDiff": 44.8,
+          "grade": "A"
+        }
+      ]
+    }
+  ]
+}
