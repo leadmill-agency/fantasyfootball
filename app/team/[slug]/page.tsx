@@ -12,6 +12,7 @@ import {
 } from "@/lib/data";
 import { formatRecord, weekLabel } from "@/lib/format";
 import Movement from "@/components/rankings/Movement";
+import ManagerPortrait from "@/components/teams/ManagerPortrait";
 
 export function generateStaticParams() {
   return getTeams().map((t) => ({ slug: t.teamId }));
@@ -45,7 +46,16 @@ export default async function TeamPage({
 
   return (
     <div className="pt-10 sm:pt-14 pb-8">
-      <div className="grid sm:grid-cols-[minmax(0,1fr)_auto] gap-6 items-end border-b-4 border-rule-strong pb-8">
+      <div className="grid grid-cols-[minmax(0,1fr)_auto] sm:grid-cols-[auto_minmax(0,1fr)_auto] gap-6 items-end border-b-4 border-rule-strong pb-8">
+        <ManagerPortrait
+          teamId={team.teamId}
+          teamName={team.teamName}
+          manager={team.manager}
+          variant="portrait"
+          size="hero"
+          priority
+          className="w-[96px] h-[96px] sm:w-[160px] sm:h-[160px] order-last sm:order-first self-start sm:self-end"
+        />
         <div>
           <div className="eyebrow text-accent">Team Page</div>
           <h1 className="font-display text-5xl sm:text-7xl leading-[0.92] mt-3">

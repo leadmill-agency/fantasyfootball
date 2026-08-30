@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import type { TeamGrade } from "@/lib/schemas";
+import ManagerPortrait from "@/components/teams/ManagerPortrait";
 import { signed } from "@/lib/format";
 
 type TeamMeta = { teamId: string; teamName: string; manager: string };
@@ -55,10 +56,11 @@ export default function DraftExplorer({
         <ol>
           {grades.map((g) => (
             <li key={g.teamId} className="border-t-2 border-rule-strong last:border-b-2 py-5">
-              <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+              <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
                 <span className="font-display text-4xl leading-[0.9] w-12">
                   {String(g.rank).padStart(2, "0")}
                 </span>
+                <ManagerPortrait teamId={g.teamId} teamName={nameOf(g.teamId)} size="sm" />
                 <Link
                   href={`/team/${g.teamId}`}
                   className="font-display text-2xl hover:text-accent transition-colors"
@@ -91,10 +93,11 @@ export default function DraftExplorer({
         <div>
           {grades.map((g) => (
             <details key={g.teamId} className="border-t-2 border-rule-strong last:border-b-2 group">
-              <summary className="flex items-baseline gap-4 py-4 cursor-pointer list-none [&::-webkit-details-marker]:hidden">
+              <summary className="flex items-center gap-4 py-4 cursor-pointer list-none [&::-webkit-details-marker]:hidden">
                 <span className="font-display text-3xl leading-[0.9] w-12">
                   {String(g.rank).padStart(2, "0")}
                 </span>
+                <ManagerPortrait teamId={g.teamId} teamName={nameOf(g.teamId)} size="xs" />
                 <span className="font-display text-xl">
                   {nameOf(g.teamId)}
                 </span>

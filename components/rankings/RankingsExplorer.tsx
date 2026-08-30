@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import type { WeeklyTeamSnapshot } from "@/lib/schemas";
 import Movement from "./Movement";
+import ManagerPortrait from "@/components/teams/ManagerPortrait";
 import { formatRecord, signed } from "@/lib/format";
 
 type TeamMeta = { teamId: string; teamName: string; manager: string };
@@ -72,15 +73,26 @@ export default function RankingsExplorer({
           const expanded = isOpen(t.teamId);
           return (
             <li key={t.teamId} className="border-t-2 border-rule-strong last:border-b-2">
-              <div className="grid grid-cols-[4rem_minmax(0,1fr)] sm:grid-cols-[6rem_minmax(0,1fr)_7.5rem] gap-x-3 sm:gap-x-5 py-5">
+              <div className="grid grid-cols-[3.5rem_3rem_minmax(0,1fr)] sm:grid-cols-[5.5rem_4.5rem_minmax(0,1fr)_7.5rem] gap-x-3 sm:gap-x-4 py-5">
                 <div className="row-span-2 sm:row-span-1">
-                  <span className="font-display text-5xl sm:text-[4.25rem] leading-[0.9] block">
+                  <span className="font-display text-4xl sm:text-[4.25rem] leading-[0.9] block">
                     {String(t.powerRank).padStart(2, "0")}
                   </span>
                   <div className="mt-1.5 pl-0.5">
                     <Movement current={t.powerRank} previous={t.previousPowerRank} />
                   </div>
                 </div>
+
+                <Link href={`/team/${t.teamId}`} className="row-span-2 sm:row-span-1 pt-0.5">
+                  <ManagerPortrait
+                    teamId={t.teamId}
+                    teamName={m?.teamName ?? t.teamId}
+                    manager={m?.manager}
+                    size="md"
+                    priority={t.powerRank <= 3}
+                    className="w-[44px] h-[44px] sm:w-[64px] sm:h-[64px]"
+                  />
+                </Link>
 
                 <div className="min-w-0">
                   <div className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5">

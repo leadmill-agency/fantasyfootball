@@ -5,6 +5,8 @@ import { usePathname } from "next/navigation";
 
 const ITEMS = [
   { href: "/", label: "Power Rankings", short: "Power" },
+  { href: "/real-standings", label: "Real Standings", short: "Real" },
+  { href: "/contender-matrix", label: "Matrix", short: "Matrix" },
   { href: "/odds", label: "Title Odds", short: "Odds" },
   { href: "/draft-grades", label: "Draft Grades", short: "Draft" },
 ];

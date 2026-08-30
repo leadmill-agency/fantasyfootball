@@ -34,19 +34,21 @@ for p in draft["picks"]:
     drafted.setdefault(p["teamId"], []).append(p)
 
 # rank, teamId, powerScore, tier, archetype, ceilingRank(optional)
+# Ceiling ranks 1-12 supplied by the league's preseason analysis (2026-08-29):
+# rank-based on purpose - no fake-precision ceiling scores.
 BOARD = [
     (1, "team-noor", 88.6, "Favorite", "The Complete Team", 3),
     (2, "bizzy", 87.2, "Favorite", "The RB Machine", 2),
     (3, "team-mbk", 86.5, "Favorite", "The Floor Monster", 6),
     (4, "bazan", 80.1, "Contender", "The Nuclear Core", 4),
     (5, "rambam", 79.4, "Contender", "The Venture Portfolio", 1),
-    (6, "mustafas-magnificent-team", 78.6, "Contender", "The Deep Bench", None),
-    (7, "hnfnr-aint-busy", 77.9, "Playoff-caliber", "The Stars Up Top", None),
-    (8, "i-eat-ass", 76.4, "High-variance playoff team", "The Volatility Bet", None),
-    (9, "chief-sheikh", 75.1, "Stars-and-scrubs contender", "The WR Superteam", None),
+    (6, "mustafas-magnificent-team", 78.6, "Contender", "The Deep Bench", 9),
+    (7, "hnfnr-aint-busy", 77.9, "Playoff-caliber", "The Stars Up Top", 10),
+    (8, "i-eat-ass", 76.4, "High-variance playoff team", "The Volatility Bet", 7),
+    (9, "chief-sheikh", 75.1, "Stars-and-scrubs contender", "The WR Superteam", 8),
     (10, "gang-green", 71.8, "High-variance sleeper", "The Moonshot", 5),
-    (11, "ivaafay", 70.2, "Fringe contender", "The Bijan Build", None),
-    (12, "deddybaba", 66.5, "Fragile", "The No-RB Experiment", None),
+    (11, "ivaafay", 70.2, "Fringe contender", "The Bijan Build", 11),
+    (12, "deddybaba", 66.5, "Fragile", "The No-RB Experiment", 12),
 ]
 
 SLOTS = ["QB", "RB", "RB", "WR", "WR", "TE", "FLEX", "D/ST", "K"]

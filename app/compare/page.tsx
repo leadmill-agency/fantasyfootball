@@ -10,6 +10,7 @@ import {
 import { comparePositions } from "@/lib/compare";
 import { formatRecord } from "@/lib/format";
 import CompareSelector from "@/components/compare/CompareSelector";
+import ManagerPortrait from "@/components/teams/ManagerPortrait";
 
 export const metadata: Metadata = {
   title: "Compare Teams",
@@ -105,14 +106,34 @@ function Matchup({ a, b }: { a: string; b: string }) {
 
   return (
     <div>
-      <div className="grid grid-cols-[1fr_auto_1fr] items-baseline gap-4 border-t-4 border-rule-strong pt-8 mb-8">
-        <h2 className="font-display text-3xl sm:text-5xl text-right">
-          {teamA.teamName}
-        </h2>
-        <span className="eyebrow text-ink-faint">vs</span>
-        <h2 className="font-display text-3xl sm:text-5xl">
-          {teamB.teamName}
-        </h2>
+      <div className="grid grid-cols-[1fr_auto_1fr] items-end gap-4 border-t-4 border-rule-strong pt-8 mb-8">
+        <div className="flex flex-col items-end gap-3">
+          <ManagerPortrait
+            teamId={teamA.teamId}
+            teamName={teamA.teamName}
+            manager={teamA.manager}
+            variant="portrait"
+            size="lg"
+            className="w-[88px] h-[88px] sm:w-[140px] sm:h-[140px]"
+          />
+          <h2 className="font-display text-3xl sm:text-5xl text-right">
+            {teamA.teamName}
+          </h2>
+        </div>
+        <span className="eyebrow text-ink-faint pb-2">vs</span>
+        <div className="flex flex-col items-start gap-3">
+          <ManagerPortrait
+            teamId={teamB.teamId}
+            teamName={teamB.teamName}
+            manager={teamB.manager}
+            variant="portrait"
+            size="lg"
+            className="w-[88px] h-[88px] sm:w-[140px] sm:h-[140px]"
+          />
+          <h2 className="font-display text-3xl sm:text-5xl">
+            {teamB.teamName}
+          </h2>
+        </div>
       </div>
 
       <div className="max-w-[640px] mx-auto">

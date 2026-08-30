@@ -13,7 +13,11 @@
       "note": "ESPN name truncated ('Muhammad K...'); chat name 'Bilal Khan'; initials MBK. Confirmed by elimination - only unassigned manager.",
       "championships": [
         2023
-      ]
+      ],
+      "assets": {
+        "headshot": "/managers/team-mbk/headshot.webp",
+        "portrait": "/managers/team-mbk/portrait.webp"
+      }
     },
     {
       "teamId": "ivaafay",
@@ -21,7 +25,11 @@
       "manager": "Naafay Nadim",
       "managerNameOnESPN": "Naafay Nadim",
       "referenceFolder": "Player references/naafay",
-      "draftSlot": 2
+      "draftSlot": 2,
+      "assets": {
+        "headshot": "/managers/ivaafay/headshot.webp",
+        "portrait": "/managers/ivaafay/portrait.webp"
+      }
     },
     {
       "teamId": "team-noor",
@@ -32,7 +40,11 @@
       "draftSlot": 3,
       "championships": [
         2025
-      ]
+      ],
+      "assets": {
+        "headshot": "/managers/team-noor/headshot.webp",
+        "portrait": "/managers/team-noor/portrait.webp"
+      }
     },
     {
       "teamId": "bizzy",
@@ -41,7 +53,11 @@
       "managerNameOnESPN": "Nabeel Amin",
       "referenceFolder": "Player references/Nabil",
       "draftSlot": 4,
-      "note": "Chat handle 'Nabil-LED Unlimited'."
+      "note": "Chat handle 'Nabil-LED Unlimited'.",
+      "assets": {
+        "headshot": "/managers/bizzy/headshot.webp",
+        "portrait": "/managers/bizzy/portrait.webp"
+      }
     },
     {
       "teamId": "deddybaba",
@@ -49,7 +65,11 @@
       "manager": "Asim Dar",
       "managerNameOnESPN": "Asim Dar",
       "referenceFolder": "Player references/Asim",
-      "draftSlot": 5
+      "draftSlot": 5,
+      "assets": {
+        "headshot": "/managers/deddybaba/headshot.webp",
+        "portrait": "/managers/deddybaba/portrait.webp"
+      }
     },
     {
       "teamId": "i-eat-ass",
@@ -60,7 +80,11 @@
       "draftSlot": 6,
       "championships": [
         2024
-      ]
+      ],
+      "assets": {
+        "headshot": "/managers/i-eat-ass/headshot.webp",
+        "portrait": "/managers/i-eat-ass/portrait.webp"
+      }
     },
     {
       "teamId": "hnfnr-aint-busy",
@@ -69,7 +93,11 @@
       "managerNameOnESPN": "arfa...",
       "referenceFolder": "Player references/Arfan",
       "draftSlot": 7,
-      "note": "ESPN name truncated; full name from league chat."
+      "note": "ESPN name truncated; full name from league chat.",
+      "assets": {
+        "headshot": "/managers/hnfnr-aint-busy/headshot.webp",
+        "portrait": "/managers/hnfnr-aint-busy/portrait.webp"
+      }
     },
     {
       "teamId": "bazan",
@@ -78,7 +106,11 @@
       "managerNameOnESPN": "Mohammad Bazan",
       "referenceFolder": "Player references/bazaan",
       "draftSlot": 8,
-      "note": "Chat name 'Bazaan Shaikh'."
+      "note": "Chat name 'Bazaan Shaikh'.",
+      "assets": {
+        "headshot": "/managers/bazan/headshot.webp",
+        "portrait": "/managers/bazan/portrait.webp"
+      }
     },
     {
       "teamId": "rambam",
@@ -87,7 +119,11 @@
       "managerNameOnESPN": "Rameel Sheikh",
       "referenceFolder": "Player references/Rameel",
       "draftSlot": 9,
-      "role": "Commissioner"
+      "role": "Commissioner",
+      "assets": {
+        "headshot": "/managers/rambam/headshot.webp",
+        "portrait": "/managers/rambam/portrait.webp"
+      }
     },
     {
       "teamId": "chief-sheikh",
@@ -100,7 +136,11 @@
         2023,
         2024
       ],
-      "note": "Was commissioner for the 2025 season; Rameel Sheikh is the 2026 commissioner."
+      "note": "Was commissioner for the 2025 season; Rameel Sheikh is the 2026 commissioner.",
+      "assets": {
+        "headshot": "/managers/chief-sheikh/headshot.webp",
+        "portrait": "/managers/chief-sheikh/portrait.webp"
+      }
     },
     {
       "teamId": "gang-green",
@@ -108,7 +148,11 @@
       "manager": "Yaseen Noor",
       "managerNameOnESPN": "Yaseen Noor",
       "referenceFolder": "Player references/Yaseen",
-      "draftSlot": 11
+      "draftSlot": 11,
+      "assets": {
+        "headshot": "/managers/gang-green/headshot.webp",
+        "portrait": "/managers/gang-green/portrait.webp"
+      }
     },
     {
       "teamId": "mustafas-magnificent-team",
@@ -117,7 +161,11 @@
       "managerNameOnESPN": null,
       "referenceFolder": "Player references/Mustafa",
       "draftSlot": 12,
-      "note": "Manager name cut off in ESPN screenshot; from league chat (former commissioner)."
+      "note": "Manager name cut off in ESPN screenshot; from league chat (former commissioner).",
+      "assets": {
+        "headshot": "/managers/mustafas-magnificent-team/headshot.webp",
+        "portrait": "/managers/mustafas-magnificent-team/portrait.webp"
+      }
     }
   ]
 }

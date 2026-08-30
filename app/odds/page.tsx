@@ -8,6 +8,7 @@ import {
 } from "@/lib/data";
 import { publishedDate, signed, weekShort } from "@/lib/format";
 import WeekSelector from "@/components/rankings/WeekSelector";
+import ManagerPortrait from "@/components/teams/ManagerPortrait";
 import OddsChart from "@/components/odds/OddsChart";
 
 export const metadata: Metadata = {
@@ -97,11 +98,12 @@ export default async function OddsPage({
           return (
             <li
               key={t.teamId}
-              className="grid grid-cols-[3rem_minmax(0,1fr)_auto] items-baseline gap-3 border-t-2 border-rule-strong last:border-b-2 py-4"
+              className="grid grid-cols-[2.5rem_44px_minmax(0,1fr)_auto] items-center gap-3 border-t-2 border-rule-strong last:border-b-2 py-3"
             >
               <span className="font-display text-3xl leading-none">
                 {String(i + 1).padStart(2, "0")}
               </span>
+              <ManagerPortrait teamId={t.teamId} teamName={nameOf(t.teamId)} size="sm" />
               <span className="min-w-0">
                 <Link
                   href={`/team/${t.teamId}`}

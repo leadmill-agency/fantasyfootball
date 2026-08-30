@@ -56,6 +56,9 @@ export const TeamSchema = z.object({
   championships: z.array(z.number()).optional(),
   runnerUp: z.array(z.number()).optional(),
   role: z.string().optional(),
+  assets: z
+    .object({ headshot: z.string(), portrait: z.string() })
+    .optional(),
 });
 
 export const TeamsFileSchema = z.object({
