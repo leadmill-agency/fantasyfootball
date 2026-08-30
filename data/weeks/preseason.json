@@ -1,19 +1,242 @@
 {
   "week": "preseason",
   "publishedAt": "2026-08-29",
-  "deck": "Twelve teams, $367 each, one draft in the books. The model has a favorite, and it isn't who the group chat thinks.",
+  "deck": "Twelve teams, $367 each, and a reigning champ who gets to hear about it all season. The desk has ranked the board. The group chat is invited to disagree.",
   "teams": [
     {
-      "teamId": "team-mbk",
+      "teamId": "team-noor",
       "powerRank": 1,
-      "powerScore": 91.0,
-      "titleOdds": 16.5,
-      "titleOddsAmerican": "+505",
-      "playoffOdds": 82.3,
+      "powerScore": 88.6,
+      "titleOdds": 12.3,
+      "titleOddsAmerican": "+715",
+      "playoffOdds": 77.8,
+      "draftGrade": "B+",
+      "tier": "Favorite",
+      "archetype": "The Complete Team",
+      "ceilingRank": 3,
+      "headline": "KING HAROONA",
+      "verdict": "The reigning champ drafted the most complete roster in the league. Annoying.",
+      "analysis": "Start with the banner: Haroon is the defending champion. He won it on Christmas week while Zofrost's quarterback was busy fumbling three times, and the chat had crowned him \"King Haroona\" before the payout even cleared Zelle. Champions get scrutiny. Here it is.\n\nThe roster is the most complete thing on this board. Ja'Marr Chase and Jaylen Waddle up top, a Breece Hall, Kyren Williams, and Bucky Irving backfield that goes three real names deep, Kittle at tight end. Eleven other managers would trade rooms with him at two positions minimum.\n\nThe question is quarterback, and it comes with a story. Haroon waited, wanted Bo Nix, and then watched Bazaan take Nix at 9.08 while already rostering Lamar Jackson. The \ud83d\ude11 he posted was the most honest analysis of the day. So the plan is Brock Purdy, the same Purdy whose touchdown \"cemented\" last year's title, in Haroon's own words. Loyalty is sweet. Purdy as the ceiling piece on a title defense is less sweet.\n\nOne more thing for the record: the man who asked \"what's up with the Kelce disrespect\" passed on Kelce in round 15 to draft a kicker. The champ contains multitudes.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Brock Purdy",
+            "position": "QB",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "RB",
+            "player": "Breece Hall",
+            "position": "RB",
+            "nflTeam": "NYJ"
+          },
+          {
+            "slot": "RB",
+            "player": "Kyren Williams",
+            "position": "RB",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "WR",
+            "player": "Ja'Marr Chase",
+            "position": "WR",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "WR",
+            "player": "Jaylen Waddle",
+            "position": "WR",
+            "nflTeam": "DEN"
+          },
+          {
+            "slot": "TE",
+            "player": "George Kittle",
+            "position": "TE",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Bucky Irving",
+            "position": "RB",
+            "nflTeam": "TB"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Patriots D/ST",
+            "position": "D/ST",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "K",
+            "player": "Tyler Loop",
+            "position": "K",
+            "nflTeam": "BAL"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Christian Watson",
+            "position": "WR",
+            "nflTeam": "GB"
+          },
+          {
+            "player": "Aaron Jones Sr.",
+            "position": "RB",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "J.K. Dobbins",
+            "position": "RB",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Jakobi Meyers",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Mark Andrews",
+            "position": "TE",
+            "nflTeam": "BAL"
+          },
+          {
+            "player": "Jaxson Dart",
+            "position": "QB",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "Jalen McMillan",
+            "position": "WR",
+            "nflTeam": "TB"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "bizzy",
+      "powerRank": 2,
+      "powerScore": 87.2,
+      "titleOdds": 11.7,
+      "titleOddsAmerican": "+755",
+      "playoffOdds": 76.3,
+      "draftGrade": "B+",
+      "tier": "Favorite",
+      "archetype": "The RB Machine",
+      "ceilingRank": 2,
+      "headline": "WR2 WANTED",
+      "verdict": "Best backfield in the league, shopping for a WR2 within the hour.",
+      "analysis": "Nabeel finished the draft, looked at his roster, and posted in the chat that he needs a WR2 and Mustafa should \"be ready to make a trade.\" I appreciate a manager who does my job for me.\n\nHe's right, and it barely matters. Jonathan Taylor, Kenneth Walker, and TreVeyon Henderson is the best running back foundation in the league, and in a format where eight of twelve make the playoffs and every playoff round is one week, an elite floor with two bell-cows is how you end up still playing in late December. Nico Collins is a real WR1. Drake Maye at 6.09 was the best quarterback timing in the draft.\n\nAfter Nico, the receiver room reads Carnell Tate, Alec Pierce, and hope. Loveland is a genuinely interesting rookie tight end bet. Rachaad White at 93, against a market price of 119, was the one pick I'd take back.\n\nSecond on the board, and in the league's worst bargaining position: everyone knows exactly what he needs, everyone knows he knows, and Mustafa reads this website.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Drake Maye",
+            "position": "QB",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "RB",
+            "player": "Jonathan Taylor",
+            "position": "RB",
+            "nflTeam": "IND"
+          },
+          {
+            "slot": "RB",
+            "player": "Kenneth Walker III",
+            "position": "RB",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "WR",
+            "player": "Nico Collins",
+            "position": "WR",
+            "nflTeam": "HOU"
+          },
+          {
+            "slot": "WR",
+            "player": "Carnell Tate",
+            "position": "WR",
+            "nflTeam": "TEN"
+          },
+          {
+            "slot": "TE",
+            "player": "Colston Loveland",
+            "position": "TE",
+            "nflTeam": "CHI"
+          },
+          {
+            "slot": "FLEX",
+            "player": "TreVeyon Henderson",
+            "position": "RB",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Rams D/ST",
+            "position": "D/ST",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "K",
+            "player": "Cam Little",
+            "position": "K",
+            "nflTeam": "JAX"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Rachaad White",
+            "position": "RB",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Alec Pierce",
+            "position": "WR",
+            "nflTeam": "IND"
+          },
+          {
+            "player": "Deebo Samuel Sr.",
+            "position": "WR",
+            "nflTeam": "SF"
+          },
+          {
+            "player": "Keenan Allen",
+            "position": "WR",
+            "nflTeam": "IND"
+          },
+          {
+            "player": "Hunter Henry",
+            "position": "TE",
+            "nflTeam": "NE"
+          },
+          {
+            "player": "Jordan James",
+            "position": "RB",
+            "nflTeam": "SF"
+          },
+          {
+            "player": "Denzel Boston",
+            "position": "WR",
+            "nflTeam": "CLE"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "team-mbk",
+      "powerRank": 3,
+      "powerScore": 86.5,
+      "titleOdds": 11.3,
+      "titleOddsAmerican": "+785",
+      "playoffOdds": 75.6,
       "draftGrade": "A",
+      "tier": "Favorite",
+      "archetype": "The Floor Monster",
+      "ceilingRank": 6,
       "headline": "NO COMMENT",
-      "verdict": "Best value, best starters, best ceiling, best bench. The defense rests.",
-      "analysis": "Bilal's full post-draft statement to the group chat: \"I plead the fifth.\" Smart. When you draft like this, talking only invites witnesses.\n\nStart at the top. Gibbs at 1.01 is the chalk, but the turn is where this draft got made: Josh Jacobs and Drake London back-to-back, then Tee Higgins and Mike Evans stacked onto a receiver room that suddenly has no bad Sundays. And while everyone else spent the late rounds on lottery tickets, Bilal took Matthew Stafford at pick 168. The market had him at 75. That's not a backup plan, that's a felony.\n\nThe one pick I don't love is LaPorta at 7.01, a full four rounds ahead of his market price. Fine. Every draft has one. The model scored this roster first in value, first in starters, first in ceiling, and first in bench, which has never happened in the short and glorious history of me running these numbers.\n\nHe's the preseason favorite at 16.5%, and in a league where eight of twelve make the playoffs, that's as loud as the math gets.",
+      "verdict": "The floor monster pled the fifth. The depth speaks for itself.",
+      "analysis": "Bilal's full post-draft statement to the group chat: \"I plead the fifth.\" This is the same man who announced mid-season last year that the league had \"almost paid for itself\" and he was \"in it for the sport now.\" The sport, apparently, is depth.\n\nThe board fell right and he didn't fight it. Gibbs at 1.01, Josh Jacobs and Drake London at the turn, Tee Higgins and Mike Evans stacked behind them, and then Matthew Stafford at pick 168. The market had Stafford at 75, which makes him the best backup quarterback in the league, sitting politely behind Dak. The ADP math gave this draft an A and first place in all four weighted categories.\n\nThe desk ranks the roster third rather than first, because floor and depth are what this team is, and the two teams above it carry louder top ends. That's not an insult. In a league where one bad December week ends your season, the Floor Monster is built to be there every year.\n\nThe structural risk has a name: Josh Jacobs, the one uncertainty Bilal can't bench his way around. If Jacobs gives him a full season, this is the most complete non-champion roster in the league. If not, expect the fifth to be pled again.",
       "roster": {
         "starters": [
           {
@@ -54,9 +277,9 @@
           },
           {
             "slot": "FLEX",
-            "player": "Mike Evans",
-            "position": "WR",
-            "nflTeam": "SF"
+            "player": "David Montgomery",
+            "position": "RB",
+            "nflTeam": "HOU"
           },
           {
             "slot": "D/ST",
@@ -73,14 +296,9 @@
         ],
         "bench": [
           {
-            "player": "David Montgomery",
-            "position": "RB",
-            "nflTeam": "HOU"
-          },
-          {
-            "player": "Matthew Stafford",
-            "position": "QB",
-            "nflTeam": "LAR"
+            "player": "Mike Evans",
+            "position": "WR",
+            "nflTeam": "SF"
           },
           {
             "player": "Rico Dowdle",
@@ -93,11 +311,6 @@
             "nflTeam": "TEN"
           },
           {
-            "player": "Rashid Shaheed",
-            "position": "WR",
-            "nflTeam": "SEA"
-          },
-          {
             "player": "Jake Ferguson",
             "position": "TE",
             "nflTeam": "DAL"
@@ -106,327 +319,126 @@
             "player": "Brian Robinson Jr.",
             "position": "RB",
             "nflTeam": "ATL"
+          },
+          {
+            "player": "Matthew Stafford",
+            "position": "QB",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "Rashid Shaheed",
+            "position": "WR",
+            "nflTeam": "SEA"
           }
         ]
       }
     },
     {
-      "teamId": "hnfnr-aint-busy",
-      "powerRank": 2,
-      "powerScore": 85.8,
-      "titleOdds": 13.4,
-      "titleOddsAmerican": "+645",
-      "playoffOdds": 77.8,
-      "draftGrade": "A-",
-      "headline": "FIND THE FLAW",
-      "verdict": "I have read this roster six times looking for the hole. Still looking.",
-      "analysis": "I went into Arfan's draft board looking for the mistake, because there is always a mistake. Twenty minutes later I had circled one Tyler Allgeier pick and a mild overpay for Brock Bowers, and that was the whole list.\n\nSmith-Njigba into Derrick Henry into Bowers is three positions solved in three rounds, and Henry at pick 18 was a gift the room just let happen. The market price was 10. Burrow at 7.07 means he never panicked at quarterback. Jayden Reed at pick 138 and Michael Wilson at 114 were the two best receiver values of the back half of this draft.\n\nThe construction score came back perfect, which annoys me, because a man whose team name is HNFNR AIN'T BUSY should not get to be this organized.\n\nIf there's a real concern, it's that the running back room after Henry is Rhamondre Stevenson and Tony Pollard, two players whose ceilings are best described as \"employed.\" Henry is the bet. It's a good bet, but it's the only place on this roster where anything can go wrong.",
+      "teamId": "bazan",
+      "powerRank": 4,
+      "powerScore": 80.1,
+      "titleOdds": 8.7,
+      "titleOddsAmerican": "+1050",
+      "playoffOdds": 68.7,
+      "draftGrade": "C+",
+      "tier": "Contender",
+      "archetype": "The Nuclear Core",
+      "ceilingRank": 4,
+      "headline": "DRAFTED ON VIBES",
+      "verdict": "A nuclear core wearing a C+ draft grade. Believe the core.",
+      "analysis": "A fun disagreement. The draft-grade math, which only speaks ADP, gave Bazaan a C+. The desk ranks him fourth. Kashir went further and called this one of the two best teams in the league. Everyone is looking at the same roster.\n\nThe case: Lamar Jackson, James Cook, A.J. Brown, Malik Nabers, D'Andre Swift. That is a nuclear weekly core, and in one-week playoff rounds a nuclear core is the entire point. Bazaan's own scouting philosophy, quote, \"I draft on vibes, not social media,\" undersells that the vibes nailed five consecutive rounds. I'll even let him keep saying Lamar \"fell,\" although pick 56 for a player priced at 55.9 is less a fall than a scheduled arrival.\n\nThe C+ lives in the back half. Chris Rodriguez 41 ahead of price, Jonah Coleman 39 ahead, and a second quarterback at 9.08 taken directly in front of the defending champion, who needed one. That pick's entire production this season may be Haroon's resentment, which, to be fair, is worth something.\n\nJuwan Johnson at tight end is the soft spot on a team with title ambitions, and Ray Davis in round 13 remains the pick I respect most: his own James Cook insurance, announced with \"I got my own cuffs.\" Fourth on the board. First in the gap between his best five picks and his last eleven.",
       "roster": {
         "starters": [
           {
             "slot": "QB",
-            "player": "Joe Burrow",
+            "player": "Lamar Jackson",
             "position": "QB",
-            "nflTeam": "CIN"
-          },
-          {
-            "slot": "RB",
-            "player": "Derrick Henry",
-            "position": "RB",
             "nflTeam": "BAL"
           },
           {
             "slot": "RB",
-            "player": "Rhamondre Stevenson",
+            "player": "James Cook III",
             "position": "RB",
-            "nflTeam": "NE"
-          },
-          {
-            "slot": "WR",
-            "player": "Jaxon Smith-Njigba",
-            "position": "WR",
-            "nflTeam": "SEA"
-          },
-          {
-            "slot": "WR",
-            "player": "Zay Flowers",
-            "position": "WR",
-            "nflTeam": "BAL"
-          },
-          {
-            "slot": "TE",
-            "player": "Brock Bowers",
-            "position": "TE",
-            "nflTeam": "LV"
-          },
-          {
-            "slot": "FLEX",
-            "player": "Tony Pollard",
-            "position": "RB",
-            "nflTeam": "TEN"
-          },
-          {
-            "slot": "D/ST",
-            "player": "Eagles D/ST",
-            "position": "D/ST",
-            "nflTeam": "PHI"
-          },
-          {
-            "slot": "K",
-            "player": "Evan McPherson",
-            "position": "K",
-            "nflTeam": "CIN"
-          }
-        ],
-        "bench": [
-          {
-            "player": "Brian Thomas Jr.",
-            "position": "WR",
-            "nflTeam": "JAX"
-          },
-          {
-            "player": "Michael Wilson",
-            "position": "WR",
-            "nflTeam": "ARI"
-          },
-          {
-            "player": "Jayden Reed",
-            "position": "WR",
-            "nflTeam": "GB"
-          },
-          {
-            "player": "Jacory Croskey-Merritt",
-            "position": "RB",
-            "nflTeam": "WSH"
-          },
-          {
-            "player": "Dalton Kincaid",
-            "position": "TE",
             "nflTeam": "BUF"
           },
           {
-            "player": "Tyler Allgeier",
+            "slot": "RB",
+            "player": "D'Andre Swift",
             "position": "RB",
-            "nflTeam": "ARI"
+            "nflTeam": "CHI"
           },
           {
-            "player": "Tyrone Tracy Jr.",
-            "position": "RB",
+            "slot": "WR",
+            "player": "A.J. Brown",
+            "position": "WR",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "WR",
+            "player": "Malik Nabers",
+            "position": "WR",
             "nflTeam": "NYG"
-          }
-        ]
-      }
-    },
-    {
-      "teamId": "bizzy",
-      "powerRank": 3,
-      "powerScore": 76.4,
-      "titleOdds": 9.1,
-      "titleOddsAmerican": "+1000",
-      "playoffOdds": 69.6,
-      "draftGrade": "B+",
-      "headline": "WR2 WANTED",
-      "verdict": "The best running back room in the league, shopping for receivers within the hour.",
-      "analysis": "Nabeel finished the draft, looked at his roster, and immediately posted in the chat that he needs a WR2 and Mustafa should \"be ready to make a trade.\" I appreciate a manager who does my job for me.\n\nHe's right, obviously. Jonathan Taylor, Kenneth Walker, and TreVeyon Henderson is the deepest backfield anyone drafted, and Nico Collins is a real WR1. After that, the receiver depth chart reads Carnell Tate, Alec Pierce, and hope. Pierce at pick 100 was actually sharp, 37 picks past his market price, but sharp bench value doesn't fix a starting lineup.\n\nDrake Maye at 6.09 was the best middle-round quarterback timing in the draft. Rachaad White at 8.09 was not; the market has him at 119 and Nabeel took him at 93.\n\nThird in the power rankings on the strength of the floor. The playoff math loves an eight-team field and running back certainty. But everyone in the league already knows exactly what he needs, which is a terrible negotiating position, and Mustafa reads this website.",
-      "roster": {
-        "starters": [
-          {
-            "slot": "QB",
-            "player": "Drake Maye",
-            "position": "QB",
-            "nflTeam": "NE"
-          },
-          {
-            "slot": "RB",
-            "player": "Jonathan Taylor",
-            "position": "RB",
-            "nflTeam": "IND"
-          },
-          {
-            "slot": "RB",
-            "player": "Kenneth Walker III",
-            "position": "RB",
-            "nflTeam": "KC"
-          },
-          {
-            "slot": "WR",
-            "player": "Nico Collins",
-            "position": "WR",
-            "nflTeam": "HOU"
-          },
-          {
-            "slot": "WR",
-            "player": "Alec Pierce",
-            "position": "WR",
-            "nflTeam": "IND"
           },
           {
             "slot": "TE",
-            "player": "Colston Loveland",
+            "player": "Juwan Johnson",
             "position": "TE",
-            "nflTeam": "CHI"
+            "nflTeam": "NO"
           },
           {
             "slot": "FLEX",
-            "player": "TreVeyon Henderson",
-            "position": "RB",
-            "nflTeam": "NE"
-          },
-          {
-            "slot": "D/ST",
-            "player": "Rams D/ST",
-            "position": "D/ST",
-            "nflTeam": "LAR"
-          },
-          {
-            "slot": "K",
-            "player": "Cam Little",
-            "position": "K",
-            "nflTeam": "JAX"
-          }
-        ],
-        "bench": [
-          {
-            "player": "Carnell Tate",
-            "position": "WR",
-            "nflTeam": "TEN"
-          },
-          {
-            "player": "Deebo Samuel Sr.",
-            "position": "WR",
-            "nflTeam": "SF"
-          },
-          {
-            "player": "Rachaad White",
-            "position": "RB",
-            "nflTeam": "WSH"
-          },
-          {
-            "player": "Keenan Allen",
-            "position": "WR",
-            "nflTeam": "IND"
-          },
-          {
-            "player": "Denzel Boston",
-            "position": "WR",
-            "nflTeam": "CLE"
-          },
-          {
-            "player": "Jordan James",
-            "position": "RB",
-            "nflTeam": "SF"
-          },
-          {
-            "player": "Hunter Henry",
-            "position": "TE",
-            "nflTeam": "NE"
-          }
-        ]
-      }
-    },
-    {
-      "teamId": "ivaafay",
-      "powerRank": 4,
-      "powerScore": 72.6,
-      "titleOdds": 7.7,
-      "titleOddsAmerican": "+1200",
-      "playoffOdds": 66.4,
-      "draftGrade": "B",
-      "headline": "BIJAN AND THE CHAOS ENGINE",
-      "verdict": "One franchise player, four running back experiments, and the best 16th round of the draft.",
-      "analysis": "Bijan at 1.02 makes any draft look smart. It's the rounds after that where Naafay's plan gets interesting, and I'm using \"interesting\" in the medical sense.\n\nThe backfield behind Bijan: Javonte Williams, Jadarian Price taken a full 26 picks ahead of market, Jordan Mason, and an Alvin Kamara pick at 122 that the market prices at 158. Four bets on volume, no obvious second starter among them.\n\nBut the late rounds were genuinely good. Jordan Addison at 118, Khalil Shakir at 143, and Jalen Nailor at 191 all came well past their market price, and all of them are real receivers. Add George Pickens and DK Metcalf up top and this receiver room goes seven deep. That matters, because Kyle Pitts is the tight end and Caleb Williams is the quarterback, and both of those sentences end with me shrugging.\n\nFourth in power. If Kamara has one more year in him, this team is annoying. If not, Naafay will be in the chat by October asking about your running backs.",
-      "roster": {
-        "starters": [
-          {
-            "slot": "QB",
-            "player": "Caleb Williams",
-            "position": "QB",
-            "nflTeam": "CHI"
-          },
-          {
-            "slot": "RB",
-            "player": "Bijan Robinson",
-            "position": "RB",
-            "nflTeam": "ATL"
-          },
-          {
-            "slot": "RB",
-            "player": "Javonte Williams",
-            "position": "RB",
-            "nflTeam": "DAL"
-          },
-          {
-            "slot": "WR",
-            "player": "George Pickens",
-            "position": "WR",
-            "nflTeam": "DAL"
-          },
-          {
-            "slot": "WR",
-            "player": "Davante Adams",
-            "position": "WR",
-            "nflTeam": "LAR"
-          },
-          {
-            "slot": "TE",
-            "player": "Kyle Pitts Sr.",
-            "position": "TE",
-            "nflTeam": "ATL"
-          },
-          {
-            "slot": "FLEX",
-            "player": "DK Metcalf",
+            "player": "Michael Pittman Jr.",
             "position": "WR",
             "nflTeam": "PIT"
           },
           {
             "slot": "D/ST",
-            "player": "Chargers D/ST",
+            "player": "Jaguars D/ST",
             "position": "D/ST",
-            "nflTeam": "LAC"
+            "nflTeam": "JAX"
           },
           {
             "slot": "K",
-            "player": "Jake Bates",
+            "player": "Chase McLaughlin",
             "position": "K",
-            "nflTeam": "DET"
+            "nflTeam": "TB"
           }
         ],
         "bench": [
           {
-            "player": "Jadarian Price",
+            "player": "Courtland Sutton",
+            "position": "WR",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Kyle Monangai",
             "position": "RB",
-            "nflTeam": "SEA"
+            "nflTeam": "CHI"
           },
           {
-            "player": "Jordan Addison",
-            "position": "WR",
-            "nflTeam": "MIN"
+            "player": "Bo Nix",
+            "position": "QB",
+            "nflTeam": "DEN"
           },
           {
-            "player": "Khalil Shakir",
+            "player": "Chris Rodriguez Jr.",
+            "position": "RB",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jonah Coleman",
+            "position": "RB",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Jalen Coker",
             "position": "WR",
+            "nflTeam": "CAR"
+          },
+          {
+            "player": "Ray Davis",
+            "position": "RB",
             "nflTeam": "BUF"
-          },
-          {
-            "player": "Jordan Mason",
-            "position": "RB",
-            "nflTeam": "MIN"
-          },
-          {
-            "player": "Jalen Nailor",
-            "position": "WR",
-            "nflTeam": "LV"
-          },
-          {
-            "player": "Alvin Kamara",
-            "position": "RB",
-            "nflTeam": "NO"
-          },
-          {
-            "player": "Dylan Sampson",
-            "position": "RB",
-            "nflTeam": "CLE"
           }
         ]
       }
@@ -434,14 +446,17 @@
     {
       "teamId": "rambam",
       "powerRank": 5,
-      "powerScore": 72.4,
-      "titleOdds": 7.7,
-      "titleOddsAmerican": "+1200",
-      "playoffOdds": 66.2,
+      "powerScore": 79.4,
+      "titleOdds": 8.4,
+      "titleOddsAmerican": "+1090",
+      "playoffOdds": 68.0,
       "draftGrade": "B",
+      "tier": "Contender",
+      "archetype": "The Venture Portfolio",
+      "ceilingRank": 1,
       "headline": "THE PORTFOLIO",
-      "verdict": "Seven receivers, three fragile running backs, and a thesis that needs one hit.",
-      "analysis": "Disclosure: this is my team. The model put it fifth, and I've decided to take the ranking like an adult.\n\nThe draft was built like a portfolio. CeeDee Lamb is the blue chip. Then Egbuka, Odunze, Golden, Worthy: four young receivers taken between rounds 4 and 10, any one of whom could be a weekly starter by October, none of whom is guaranteed to be one by Thanksgiving. Seven receivers total. The model flagged it as hoarding. The model is not wrong.\n\nThe running back room is Chase Brown at 1.09, which the market fully endorsed, followed by Travis Etienne and Jonathon Brooks, followed by silence. One injury and the plan is Kaelon Black, and I am not prepared to write the sentence where Kaelon Black is the plan.\n\nJayden Daniels at 8.04 came 15 picks past his market price and might be the pick that ages best. Tyler Warren at 5.09 was the reach. Middle of the pack in every grading category, fifth in power, 7.7% title odds. A portfolio is only as good as its best position, and this one hasn't reported earnings yet.",
+      "verdict": "Fifth today, first in ceiling. The portfolio needs two bets to hit.",
+      "analysis": "Disclosure: this is my team, ranked fifth, and here is the number that keeps the whole thing interesting: the desk ranks this roster first in championship ceiling. Fifth-best today, most dangerous in December if the bets hit. That's either a plan or a cope, and there are fourteen weeks to find out which.\n\nThe draft was built like a venture portfolio. CeeDee Lamb is the blue chip. Jayden Daniels at 8.04, fifteen picks past market, is the quarterback edge in a 4-point-passing format where his legs do the scoring. Tyler Warren is a real bet on a weekly tight end advantage. Then five young receivers: Egbuka, Odunze, Golden, Worthy, Concepcion. Any of them could be a weekly starter by October. None is guaranteed by Thanksgiving. Two hit and this team is a problem. Zero hit and it's an expensive lesson about diversification.\n\nThe running back room is Chase Brown, Travis Etienne, and silence. Brooks is coming off two ACL surgeries on the same knee. One bad Sunday and the plan is Kaelon Black, and I am still not prepared to write the sentence where Kaelon Black is the plan.\n\nFor the historical record: I won Week 1 last season, upon which the commissioner congratulated the league for stinking. The bar is higher this year.",
       "roster": {
         "starters": [
           {
@@ -506,24 +521,19 @@
             "nflTeam": "CAR"
           },
           {
-            "player": "Xavier Worthy",
-            "position": "WR",
-            "nflTeam": "KC"
-          },
-          {
             "player": "Matthew Golden",
             "position": "WR",
             "nflTeam": "GB"
           },
           {
+            "player": "Xavier Worthy",
+            "position": "WR",
+            "nflTeam": "KC"
+          },
+          {
             "player": "KC Concepcion",
             "position": "WR",
             "nflTeam": "CLE"
-          },
-          {
-            "player": "Emmett Johnson",
-            "position": "RB",
-            "nflTeam": "KC"
           },
           {
             "player": "Tank Dell",
@@ -534,342 +544,246 @@
             "player": "Kaelon Black",
             "position": "RB",
             "nflTeam": "SF"
+          },
+          {
+            "player": "Emmett Johnson",
+            "position": "RB",
+            "nflTeam": "KC"
           }
         ]
       }
     },
     {
-      "teamId": "deddybaba",
+      "teamId": "mustafas-magnificent-team",
       "powerRank": 6,
-      "powerScore": 71.9,
-      "titleOdds": 7.5,
-      "titleOddsAmerican": "+1235",
-      "playoffOdds": 65.8,
-      "draftGrade": "B-",
-      "headline": "THE WAIVER WIRE OPENS AT 3AM",
-      "verdict": "A top-heavy masterpiece with a running back room held together by faith.",
-      "analysis": "Asim drafted Puka Nacua, Rashee Rice, Terry McLaurin, and Josh Allen, and if fantasy rosters were four players deep he would be the favorite.\n\nThey are not four players deep. His running backs are Bhayshul Tuten, RJ Harvey, Kenny Gainwell, Tyjae Spears, and Kimani Vidal. Five names, zero locked Week 1 starting jobs. He knows this. He said in the chat, on the record, that his wins will come from other people's running backs getting hurt. That's not a strategy so much as a s\u00e9ance.\n\nTo his credit, the man has range: Jared Goff at pick 188, a full 88 picks past market price, is the best insurance pick in the draft, and Travis Hunter at 173 is a free lottery ticket. Asim's late rounds have always been where he does his best work, usually at 3am, usually on the waiver wire, and this draft was built to feed that habit.\n\nSixth in power. The ceiling depends on which vision arrives first: a Tuten breakout, or attrition everywhere else. He is openly rooting for both.",
+      "powerScore": 78.6,
+      "titleOdds": 8.2,
+      "titleOddsAmerican": "+1120",
+      "playoffOdds": 67.1,
+      "draftGrade": "C-",
+      "tier": "Contender",
+      "archetype": "The Deep Bench",
+      "headline": "THE PEOPLE'S CHAMP",
+      "verdict": "Last in the machines' hearts, sixth on this board.",
+      "analysis": "Mustafa's draft weekend, in sequence: a projection tool put him last in playoff odds, Asim posted the screenshot, Kashir demanded to know why the machines hate this team, and the ADP math handed down a C- draft grade. Then the desk actually watched the roster and ranked it sixth. Somewhere between last and best there is a real team.\n\nThe depth is legitimate. Saquon and Omarion Hampton up front, a receiver room that runs five deep in DeVonta Smith, McConkey, DJ Moore, Marvin Harrison, and Godwin, plus Mahomes and Kyler at quarterback. The bench might be the best in the league, which is both the compliment and the problem: Kelce at pick 180 was the funniest value in the draft, acquired while the chat priced his wedding as a production risk, but Kelce and Likely can't both start, and Likely at 8.01 went 51 ahead of price for half a job.\n\nLast season ended with Yaseen telling Mustafa he was \"talking like he made playoffs.\" The man ran this league for years and has earned better heckling than that.\n\nSixth is respectable. The machines still owe him an apology. I don't yet think they'll owe him one in December, and I look forward to the chat explaining why I'm wrong.",
       "roster": {
         "starters": [
           {
             "slot": "QB",
-            "player": "Josh Allen",
+            "player": "Patrick Mahomes",
             "position": "QB",
-            "nflTeam": "BUF"
-          },
-          {
-            "slot": "RB",
-            "player": "Bhayshul Tuten",
-            "position": "RB",
-            "nflTeam": "JAX"
-          },
-          {
-            "slot": "RB",
-            "player": "Kenny Gainwell",
-            "position": "RB",
-            "nflTeam": "TB"
-          },
-          {
-            "slot": "WR",
-            "player": "Puka Nacua",
-            "position": "WR",
-            "nflTeam": "LAR"
-          },
-          {
-            "slot": "WR",
-            "player": "Rashee Rice",
-            "position": "WR",
             "nflTeam": "KC"
           },
           {
-            "slot": "TE",
-            "player": "Tucker Kraft",
-            "position": "TE",
-            "nflTeam": "GB"
-          },
-          {
-            "slot": "FLEX",
-            "player": "Terry McLaurin",
-            "position": "WR",
-            "nflTeam": "WSH"
-          },
-          {
-            "slot": "D/ST",
-            "player": "Broncos D/ST",
-            "position": "D/ST",
-            "nflTeam": "DEN"
-          },
-          {
-            "slot": "K",
-            "player": "Ka'imi Fairbairn",
-            "position": "K",
-            "nflTeam": "HOU"
-          }
-        ],
-        "bench": [
-          {
-            "player": "Josh Downs",
-            "position": "WR",
-            "nflTeam": "IND"
-          },
-          {
-            "player": "Jared Goff",
-            "position": "QB",
-            "nflTeam": "DET"
-          },
-          {
-            "player": "RJ Harvey",
-            "position": "RB",
-            "nflTeam": "DEN"
-          },
-          {
-            "player": "Tyjae Spears",
-            "position": "RB",
-            "nflTeam": "TEN"
-          },
-          {
-            "player": "Travis Hunter",
-            "position": "WR",
-            "nflTeam": "JAX"
-          },
-          {
-            "player": "Kimani Vidal",
+            "slot": "RB",
+            "player": "Omarion Hampton",
             "position": "RB",
             "nflTeam": "LAC"
           },
           {
-            "player": "Terrance Ferguson",
+            "slot": "RB",
+            "player": "Saquon Barkley",
+            "position": "RB",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "WR",
+            "player": "DeVonta Smith",
+            "position": "WR",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "WR",
+            "player": "Ladd McConkey",
+            "position": "WR",
+            "nflTeam": "LAC"
+          },
+          {
+            "slot": "TE",
+            "player": "Isaiah Likely",
             "position": "TE",
-            "nflTeam": "LAR"
+            "nflTeam": "NYG"
+          },
+          {
+            "slot": "FLEX",
+            "player": "DJ Moore",
+            "position": "WR",
+            "nflTeam": "BUF"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Ravens D/ST",
+            "position": "D/ST",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "K",
+            "player": "Jason Myers",
+            "position": "K",
+            "nflTeam": "SEA"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Marvin Harrison Jr.",
+            "position": "WR",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Chris Godwin Jr.",
+            "position": "WR",
+            "nflTeam": "TB"
+          },
+          {
+            "player": "Zach Charbonnet",
+            "position": "RB",
+            "nflTeam": "SEA"
+          },
+          {
+            "player": "Justice Hill",
+            "position": "RB",
+            "nflTeam": "BAL"
+          },
+          {
+            "player": "Najee Harris",
+            "position": "RB",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "Travis Kelce",
+            "position": "TE",
+            "nflTeam": "KC"
+          },
+          {
+            "player": "Kyler Murray",
+            "position": "QB",
+            "nflTeam": "MIN"
           }
         ]
       }
     },
     {
-      "teamId": "team-noor",
+      "teamId": "hnfnr-aint-busy",
       "powerRank": 7,
-      "powerScore": 71.8,
-      "titleOdds": 7.5,
-      "titleOddsAmerican": "+1235",
-      "playoffOdds": 65.6,
-      "draftGrade": "B+",
-      "headline": "RIGHT PRICE, WRONG ROOMS",
-      "verdict": "Fourth-best draft on paper, seventh-best team in the model. Both are true.",
-      "analysis": "Haroon's draft is the argument for why value and lineups are different sports. The grade says B+, fourth-best in the league, built on real discipline: Jakobi Meyers 35 picks past market, Jalen McMillan 55 past, a defense at 132. The power ranking says seventh, because a draft is not a spreadsheet.\n\nWhat happened at quarterback deserves its own paragraph. Haroon waited, which was fine. Then he watched Bazaan, who already had Lamar Jackson, take Bo Nix at 9.08 anyway. The \ud83d\ude11 he posted afterward was the most honest analysis in the chat all day. He recovered with Brock Purdy at pick 118, thirty past market price. Good value. Also, Brock Purdy.\n\nThe skill core is real: Ja'Marr Chase, then Breece Hall, Kyren Williams, and Bucky Irving, a backfield deep enough to survive a bad break. Aaron Jones at 7.03 was the one true reach, 36 picks ahead of market.\n\nAnd I would like it noted for the record that the man asking \"what's up with the Kelce disrespect\" passed on Kelce himself in round 15 to draft a kicker.",
+      "powerScore": 77.9,
+      "titleOdds": 7.9,
+      "titleOddsAmerican": "+1165",
+      "playoffOdds": 66.4,
+      "draftGrade": "A-",
+      "tier": "Playoff-caliber",
+      "archetype": "The Stars Up Top",
+      "headline": "FIND THE FLAW",
+      "verdict": "Elite everywhere except the position you start two of.",
+      "analysis": "The grade said A-. The desk says seventh. Both are honest, and the difference is a lesson in what a draft can and cannot buy.\n\nWhat Arfan bought: the best three-position top end in the league. Burrow at 7.07, Smith-Njigba in the first, Brock Bowers in the third. Add Zay Flowers and Brian Thomas Jr. and the passing game is finished, cleanly, at fair prices. The construction score came back perfect. Jayden Reed at pick 138 and Michael Wilson at 114 were the two best late receiver values anyone found.\n\nWhat he could not buy: a second running back. Henry at pick 18 was a gift the room let happen, and Henry carries an age curve. Behind him stand Rhamondre Stevenson and Tony Pollard, two men whose ceilings are best described as \"employed.\" In a league that starts two backs plus a flex, seventh is what elite-everywhere-else looks like.\n\nLeague historians will remember that Arfan once announced \"I'm vetoing everyone\" on principle. The desk admires the energy, and notes that you cannot veto a depth chart.",
       "roster": {
         "starters": [
           {
             "slot": "QB",
-            "player": "Brock Purdy",
+            "player": "Joe Burrow",
             "position": "QB",
-            "nflTeam": "SF"
-          },
-          {
-            "slot": "RB",
-            "player": "Kyren Williams",
-            "position": "RB",
-            "nflTeam": "LAR"
-          },
-          {
-            "slot": "RB",
-            "player": "Breece Hall",
-            "position": "RB",
-            "nflTeam": "NYJ"
-          },
-          {
-            "slot": "WR",
-            "player": "Ja'Marr Chase",
-            "position": "WR",
             "nflTeam": "CIN"
           },
           {
-            "slot": "WR",
-            "player": "Jaylen Waddle",
-            "position": "WR",
-            "nflTeam": "DEN"
-          },
-          {
-            "slot": "TE",
-            "player": "George Kittle",
-            "position": "TE",
-            "nflTeam": "SF"
-          },
-          {
-            "slot": "FLEX",
-            "player": "Bucky Irving",
+            "slot": "RB",
+            "player": "Derrick Henry",
             "position": "RB",
-            "nflTeam": "TB"
+            "nflTeam": "BAL"
           },
           {
-            "slot": "D/ST",
-            "player": "Patriots D/ST",
-            "position": "D/ST",
+            "slot": "RB",
+            "player": "Rhamondre Stevenson",
+            "position": "RB",
             "nflTeam": "NE"
           },
           {
-            "slot": "K",
-            "player": "Tyler Loop",
-            "position": "K",
+            "slot": "WR",
+            "player": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "nflTeam": "SEA"
+          },
+          {
+            "slot": "WR",
+            "player": "Zay Flowers",
+            "position": "WR",
             "nflTeam": "BAL"
+          },
+          {
+            "slot": "TE",
+            "player": "Brock Bowers",
+            "position": "TE",
+            "nflTeam": "LV"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Tony Pollard",
+            "position": "RB",
+            "nflTeam": "TEN"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Eagles D/ST",
+            "position": "D/ST",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "K",
+            "player": "Evan McPherson",
+            "position": "K",
+            "nflTeam": "CIN"
           }
         ],
         "bench": [
           {
-            "player": "Christian Watson",
+            "player": "Brian Thomas Jr.",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Michael Wilson",
+            "position": "WR",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Tyler Allgeier",
+            "position": "RB",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Jayden Reed",
             "position": "WR",
             "nflTeam": "GB"
           },
           {
-            "player": "J.K. Dobbins",
-            "position": "RB",
-            "nflTeam": "DEN"
-          },
-          {
-            "player": "Jakobi Meyers",
-            "position": "WR",
-            "nflTeam": "JAX"
-          },
-          {
-            "player": "Aaron Jones Sr.",
-            "position": "RB",
-            "nflTeam": "MIN"
-          },
-          {
-            "player": "Jaxson Dart",
-            "position": "QB",
-            "nflTeam": "NYG"
-          },
-          {
-            "player": "Mark Andrews",
+            "player": "Dalton Kincaid",
             "position": "TE",
-            "nflTeam": "BAL"
-          },
-          {
-            "player": "Jalen McMillan",
-            "position": "WR",
-            "nflTeam": "TB"
-          }
-        ]
-      }
-    },
-    {
-      "teamId": "bazan",
-      "powerRank": 8,
-      "powerScore": 69.8,
-      "titleOdds": 6.9,
-      "titleOddsAmerican": "+1350",
-      "playoffOdds": 63.9,
-      "draftGrade": "C+",
-      "headline": "DRAFTED ON VIBES",
-      "verdict": "Five rounds of precision, eleven rounds of vibes, one spare quarterback.",
-      "analysis": "Bazaan's own words: \"I draft on vibes, not social media.\" The first five rounds argue the vibes are excellent. James Cook, A.J. Brown, Malik Nabers, D'Andre Swift, Lamar Jackson. That is a playoff core, and I'll even allow his claim that Lamar \"fell\" to him, although the market says pick 56 for a player priced at 55.9 is less a fall than a scheduled arrival.\n\nThen the vibes took the wheel. Chris Rodriguez at pick 113 is priced at 154. Jonah Coleman at 128 is priced at 167. Bo Nix at 9.08 was a second quarterback on a roster that already had Lamar, taken directly in front of the one manager who needed one. That pick's only production this season may be Haroon's resentment, which, to be fair, is worth something.\n\nRay Davis at 13.08 is the pick I respect most: he drafted his own James Cook insurance and announced \"I got my own cuffs\" like a man who plans ahead exactly once per draft.\n\nEighth in power, C+ on the grade, and the widest gap in the league between his best five picks and his last eleven.",
-      "roster": {
-        "starters": [
-          {
-            "slot": "QB",
-            "player": "Lamar Jackson",
-            "position": "QB",
-            "nflTeam": "BAL"
-          },
-          {
-            "slot": "RB",
-            "player": "James Cook III",
-            "position": "RB",
             "nflTeam": "BUF"
           },
           {
-            "slot": "RB",
-            "player": "D'Andre Swift",
+            "player": "Tyrone Tracy Jr.",
             "position": "RB",
-            "nflTeam": "CHI"
-          },
-          {
-            "slot": "WR",
-            "player": "A.J. Brown",
-            "position": "WR",
-            "nflTeam": "NE"
-          },
-          {
-            "slot": "WR",
-            "player": "Malik Nabers",
-            "position": "WR",
             "nflTeam": "NYG"
-          },
-          {
-            "slot": "TE",
-            "player": "Juwan Johnson",
-            "position": "TE",
-            "nflTeam": "NO"
-          },
-          {
-            "slot": "FLEX",
-            "player": "Courtland Sutton",
-            "position": "WR",
-            "nflTeam": "DEN"
-          },
-          {
-            "slot": "D/ST",
-            "player": "Jaguars D/ST",
-            "position": "D/ST",
-            "nflTeam": "JAX"
-          },
-          {
-            "slot": "K",
-            "player": "Chase McLaughlin",
-            "position": "K",
-            "nflTeam": "TB"
-          }
-        ],
-        "bench": [
-          {
-            "player": "Michael Pittman Jr.",
-            "position": "WR",
-            "nflTeam": "PIT"
-          },
-          {
-            "player": "Kyle Monangai",
-            "position": "RB",
-            "nflTeam": "CHI"
-          },
-          {
-            "player": "Bo Nix",
-            "position": "QB",
-            "nflTeam": "DEN"
-          },
-          {
-            "player": "Jalen Coker",
-            "position": "WR",
-            "nflTeam": "CAR"
-          },
-          {
-            "player": "Chris Rodriguez Jr.",
-            "position": "RB",
-            "nflTeam": "JAX"
-          },
-          {
-            "player": "Ray Davis",
-            "position": "RB",
-            "nflTeam": "BUF"
-          },
-          {
-            "player": "Jonah Coleman",
-            "position": "RB",
-            "nflTeam": "DEN"
           }
         ]
       }
     },
     {
       "teamId": "i-eat-ass",
-      "powerRank": 9,
-      "powerScore": 68.8,
-      "titleOdds": 6.6,
-      "titleOddsAmerican": "+1415",
-      "playoffOdds": 63.1,
+      "powerRank": 8,
+      "powerScore": 76.4,
+      "titleOdds": 7.5,
+      "titleOddsAmerican": "+1235",
+      "playoffOdds": 64.7,
       "draftGrade": "B-",
+      "tier": "High-variance playoff team",
+      "archetype": "The Volatility Bet",
       "headline": "THE LLOYD PICK",
-      "verdict": "Eleven reasonable rounds and one pick from another dimension.",
-      "analysis": "Somewhere in the sixth round, with Christian McCaffrey and Chris Olave already rostered and the draft moving along sensibly, Ivan selected MarShawn Lloyd at pick 67. The market prices Lloyd at 157. That is a 90-pick reach, the largest in this draft by a factor of two, for a backup in Green Bay.\n\nI have stared at it for a while now. Asim's theory is that Ivan \"only drafts names he knows,\" and I regret how well the evidence fits.\n\nThe frustrating part is that the rest of the draft was fine. McCaffrey at 1.06 was market price. Jeremiyah Love in the second is bold but defensible. Jalen Hurts at 7.06 is a top-five quarterback acquired at a discount, and the final two rounds produced Jerry Jeudy and Calvin Ridley at a combined 97 picks past their price. ESPN's rankings apparently love this team, which Asim announced in the chat with the tone of a man reporting a crime.\n\nNinth in power. The model docked him for exactly one thing, and if Lloyd somehow takes the Green Bay job this year, I will write the apology in full.",
+      "verdict": "CMC, Hurts, and one pick from another dimension.",
+      "analysis": "Ivan's roster is the widest bet near the top of this board. Christian McCaffrey and Jalen Hurts as the engine, Jeremiyah Love in the second round, Quinshon Judkins in the fourth. If McCaffrey stays upright and one rookie hits, this team beats anybody in a one-week playoff round. That's the pitch, and it's real.\n\nAnd then there is the pick. MarShawn Lloyd, 6.07, pick 67, market price 157. Ninety picks early, the largest reach in the draft by a factor of two. Asim's theory, offered in the chat with a laughing emoji, is that Ivan \"only drafts names he knows.\" I regret how well the evidence fits, including the part where ESPN's own rankings apparently love this team, because ESPN also watched Ivan's first-ever trade attempt last season become a league-wide referendum on the veto system.\n\nThe final rounds nearly balanced the books: Jeudy and Ridley arrived a combined 97 picks past their price. Nearly.\n\nEighth, with a ceiling well above eighth and a floor that involves the word \"attrition.\" If Lloyd somehow takes the Green Bay job, the apology will run in full, above the fold.",
       "roster": {
         "starters": [
           {
@@ -929,9 +843,19 @@
         ],
         "bench": [
           {
+            "player": "MarShawn Lloyd",
+            "position": "RB",
+            "nflTeam": "GB"
+          },
+          {
             "player": "Quentin Johnston",
             "position": "WR",
             "nflTeam": "LAC"
+          },
+          {
+            "player": "Woody Marks",
+            "position": "RB",
+            "nflTeam": "HOU"
           },
           {
             "player": "Romeo Doubs",
@@ -952,31 +876,23 @@
             "player": "Calvin Ridley",
             "position": "WR",
             "nflTeam": "TEN"
-          },
-          {
-            "player": "Woody Marks",
-            "position": "RB",
-            "nflTeam": "HOU"
-          },
-          {
-            "player": "MarShawn Lloyd",
-            "position": "RB",
-            "nflTeam": "GB"
           }
         ]
       }
     },
     {
       "teamId": "chief-sheikh",
-      "powerRank": 10,
-      "powerScore": 67.7,
-      "titleOdds": 6.3,
-      "titleOddsAmerican": "+1485",
-      "playoffOdds": 62.1,
+      "powerRank": 9,
+      "powerScore": 75.1,
+      "titleOdds": 7.1,
+      "titleOddsAmerican": "+1310",
+      "playoffOdds": 63.3,
       "draftGrade": "C",
+      "tier": "Stars-and-scrubs contender",
+      "archetype": "The WR Superteam",
       "headline": "A KICKER IN THE NINTH",
-      "verdict": "The best receiver duo in the league, funding a running back shelter.",
-      "analysis": "The commissioner drafted a kicker in the ninth round. I want to write that as plainly as possible, because any dressing-up protects him. Brandon Aubrey, 9.10, pick 106, market price 134, while starting running backs and quarterbacks were still on the board. He followed it with a defense at 10.03. The construction score never recovered.\n\nWhich is a shame, because the top of this draft is legitimately elite. Amon-Ra St. Brown and Justin Jefferson is the best receiver pairing in the league, assembled by pick 15, and Trey McBride at 3.10 locks in a third positional edge. Three picks, three All-Pros.\n\nThen Kashir drafted a seven-man running back collection without a single locked starting job: Skattebo, Jaylen Warren, Corum, Braelon Allen, Bigsby, Jaydon Blue, Pacheco. His stated plan for Corum, per the chat, is that \"it's time\" for him to take the Rams job. Hope is not a depth chart.\n\nTenth in power. Kashir posted a screenshot of another site ranking him low with the caption \"I guess I don't know ball,\" and I want to be clear that I would never say that. I am simply running the numbers that imply it.",
+      "verdict": "Two superstars, seven running backs, zero starting jobs, one round-nine kicker.",
+      "analysis": "Last season, Kashir's title hopes ended at Zofrost's hands. Asim's postmortem named him, on the record, as someone \"who could have won the whole thing.\" His response, now wearing the commissioner's badge, was to draft the best receiver duo in the league, Amon-Ra St. Brown and Justin Jefferson, assembled by pick 15, and then a kicker in round nine.\n\nI keep coming back to it. Brandon Aubrey, 9.10, pick 106, priced at 134, with starting running backs and quarterbacks still on the board. He followed it with the Texans defense at 10.03. A commissioner is entitled to set his own agenda. This one's agenda was special teams.\n\nThe rest is a superteam funding a shelter: Skattebo, Jaylen Warren, Corum, Braelon Allen, Bigsby, Blue, Pacheco. Seven running backs, no locked starting job among them. The stated plan for Corum, per the chat, is that \"it's time,\" which is a hope wearing a plan's clothes. McBride makes it three elite pass-catchers, which is why ninth feels low here and honestly might be.\n\nKashir posted another site's low ranking of his team with the caption \"I guess I don't know ball.\" The desk would never say that. The desk simply drafted its kicker in round eleven.",
       "roster": {
         "starters": [
           {
@@ -1041,9 +957,9 @@
             "nflTeam": "LAR"
           },
           {
-            "player": "Tyler Shough",
-            "position": "QB",
-            "nflTeam": "NO"
+            "player": "Braelon Allen",
+            "position": "RB",
+            "nflTeam": "NYJ"
           },
           {
             "player": "Tank Bigsby",
@@ -1051,39 +967,42 @@
             "nflTeam": "PHI"
           },
           {
-            "player": "Isiah Pacheco",
-            "position": "RB",
-            "nflTeam": "DET"
-          },
-          {
             "player": "Jaydon Blue",
             "position": "RB",
             "nflTeam": "DAL"
           },
           {
-            "player": "Braelon Allen",
+            "player": "Isiah Pacheco",
             "position": "RB",
-            "nflTeam": "NYJ"
+            "nflTeam": "DET"
           },
           {
             "player": "Dontayvion Wicks",
             "position": "WR",
             "nflTeam": "PHI"
+          },
+          {
+            "player": "Tyler Shough",
+            "position": "QB",
+            "nflTeam": "NO"
           }
         ]
       }
     },
     {
       "teamId": "gang-green",
-      "powerRank": 11,
-      "powerScore": 65.6,
-      "titleOdds": 5.8,
-      "titleOddsAmerican": "+1625",
-      "playoffOdds": 60.2,
+      "powerRank": 10,
+      "powerScore": 71.8,
+      "titleOdds": 6.2,
+      "titleOddsAmerican": "+1515",
+      "playoffOdds": 59.8,
       "draftGrade": "C+",
-      "headline": "ALWAYS LIKES HIS TEAM",
-      "verdict": "The annual optimism is undefeated. The roster is not.",
-      "analysis": "Forty minutes after the draft, Yaseen typed \"always like my team,\" a sentence that is true every single year and has never once predicted anything.\n\nThe picks he loves, I half-love. Achane at 1.11 is fine; the market had him at 11.7, so the great \"fall\" he celebrated was roughly one seat. Jeanty at 2.02 came ten picks ahead of price for a rookie, which is the sickness talking, and Yaseen said so himself, verbatim: \"I have a sickness.\" The young receiver row of Garrett Wilson, Tetairoa McMillan, and Luther Burden is genuinely nice.\n\nThe problem fits in one sentence: his quarterback was drafted in round 13. Trevor Lawrence at pick 155 is 65 picks past market price, tremendous value, and also this team's actual QB1, which is how a great pick and a bad plan end up sharing one jersey. His last three picks were all Jets, on purpose, announced with laughing emojis. His own risk assessment, again verbatim: \"my RBs have big bust potential just off of injury risk.\"\n\nAsim called it the best team Yaseen has ever drafted. The model ranks it 11th. Both of them might be right, and that is the most Gang Green sentence ever written.",
+      "tier": "High-variance sleeper",
+      "archetype": "The Moonshot",
+      "ceilingRank": 5,
+      "headline": "THE SICKNESS",
+      "verdict": "Fifth-best ceiling, tenth-best roster, first in self-belief.",
+      "analysis": "There are two Noor brothers in this league. One is the defending champion. The other squeaked into last year's final playoff spot, received a ceremonial \"welcome to the 8th seed\" from the commissioner, and declared \"honestly week one is my championship.\" Guess which one closed this year's draft with three straight Jets, on purpose.\n\nThe desk ranks Yaseen tenth with the fifth-best ceiling on the board, which is the most Gang Green combination possible. Achane and Jeanty is a genuinely exciting backfield. Yaseen celebrated Achane \"falling\" to him at 1.11, a fall the market measures at roughly one seat. The young receiver row of Garrett Wilson, McMillan, and Burden could all hit. His own risk assessment, verbatim: \"my RBs have big bust potential just off of injury risk.\" The man knows. He typed \"I have a sickness\" mid-draft and kept drafting.\n\nThe quarterback is Trevor Lawrence, acquired in round 13 at 65 picks past market price, which is another way of saying the position was addressed with clearance inventory.\n\nAsim called this the best team Yaseen has ever drafted, then added \"definitely AI.\" Both can be true. \"Always like my team,\" Yaseen says, annually. This is the rare year the math half-agrees.",
       "roster": {
         "starters": [
           {
@@ -1106,15 +1025,15 @@
           },
           {
             "slot": "WR",
-            "player": "Tetairoa McMillan",
-            "position": "WR",
-            "nflTeam": "CAR"
-          },
-          {
-            "slot": "WR",
             "player": "Garrett Wilson",
             "position": "WR",
             "nflTeam": "NYJ"
+          },
+          {
+            "slot": "WR",
+            "player": "Tetairoa McMillan",
+            "position": "WR",
+            "nflTeam": "CAR"
           },
           {
             "slot": "TE",
@@ -1153,14 +1072,19 @@
             "nflTeam": "WSH"
           },
           {
+            "player": "Mike Washington Jr.",
+            "position": "RB",
+            "nflTeam": "LV"
+          },
+          {
             "player": "De'Zhaun Stribling",
             "position": "WR",
             "nflTeam": "SF"
           },
           {
-            "player": "Mike Washington Jr.",
+            "player": "Keaton Mitchell",
             "position": "RB",
-            "nflTeam": "LV"
+            "nflTeam": "LAC"
           },
           {
             "player": "Adonai Mitchell",
@@ -1171,118 +1095,224 @@
             "player": "Geno Smith",
             "position": "QB",
             "nflTeam": "NYJ"
-          },
-          {
-            "player": "Keaton Mitchell",
-            "position": "RB",
-            "nflTeam": "LAC"
           }
         ]
       }
     },
     {
-      "teamId": "mustafas-magnificent-team",
-      "powerRank": 12,
-      "powerScore": 62.0,
-      "titleOdds": 5.0,
-      "titleOddsAmerican": "+1900",
-      "playoffOdds": 57.2,
-      "draftGrade": "C-",
-      "headline": "THE PEOPLE'S CHAMP",
-      "verdict": "Beloved by the voters, buried by the math.",
-      "analysis": "Within three hours on Saturday, Kashir called this the best team in the league and a projection tool put it dead last for playoff chances. I regret to report which side the model took.\n\nThe case for the people: the receiver room runs five legitimate names deep in DeVonta Smith, Ladd McConkey, DJ Moore, Marvin Harrison Jr., and Chris Godwin, and Mahomes at 7.12 costs nothing. Kelce at pick 180, sixty past his price, was the funniest value of the draft, given that the chat spent ten minutes pricing his offseason wedding as a production risk.\n\nThe case for the math: Omarion Hampton at 1.12 went 11 picks ahead of price, Isaiah Likely at 8.01 went 51 ahead of price at a position Kelce later solved for free, and behind Saquon and Hampton the running backs are Charbonnet, Najee Harris, and Justice Hill. The model scored these starters and this ceiling last in the league. Not near last. Last.\n\nMustafa ran this league for years and has earned the right to be doubted by a spreadsheet. Eight of twelve make the playoffs. The model says he is one of the four out, and the group chat has already appointed itself his defense team.",
+      "teamId": "ivaafay",
+      "powerRank": 11,
+      "powerScore": 70.2,
+      "titleOdds": 5.8,
+      "titleOddsAmerican": "+1625",
+      "playoffOdds": 58.1,
+      "draftGrade": "B",
+      "tier": "Fringe contender",
+      "archetype": "The Bijan Build",
+      "headline": "BIJAN AND THE CHAOS ENGINE",
+      "verdict": "The bench might be better than the starting lineup.",
+      "analysis": "The strange thing about Naafay's roster is that the bench might be better than the starting lineup. Bijan at 1.02 anchors everything. Pickens and Davante Adams start at receiver, while DK Metcalf, Jordan Addison, and Khalil Shakir sit behind them, all bought at real discounts. The back half of this draft, Addison at 118, Shakir at 143, Nailor at 191, was some of the sharpest shopping anyone did all afternoon.\n\nThe front half is where the chaos lives. Javonte Williams and Jadarian Price, the latter 26 picks ahead of market, hold the RB2 job between them. Kamara at 122 against a price of 158 is a bet against the market's obituary. Caleb Williams is the quarterback and Kyle Pitts is the tight end, two sentences that have ended in shrugs for multiple consecutive preseasons.\n\nEleventh on the board, and it's the classic eleventh that is one good October waiver week from looking silly. The depth is real. The starting lineup just hasn't been introduced to it yet.\n\nNaafay's main draft-week contribution to league discourse was proposing next year's draft happen in a cabin in Montenegro, which is also a fair description of this roster: a great idea, location still uncertain.",
       "roster": {
         "starters": [
           {
             "slot": "QB",
-            "player": "Patrick Mahomes",
+            "player": "Caleb Williams",
             "position": "QB",
-            "nflTeam": "KC"
+            "nflTeam": "CHI"
           },
           {
             "slot": "RB",
-            "player": "Saquon Barkley",
+            "player": "Bijan Robinson",
             "position": "RB",
-            "nflTeam": "PHI"
+            "nflTeam": "ATL"
           },
           {
             "slot": "RB",
-            "player": "Omarion Hampton",
+            "player": "Javonte Williams",
             "position": "RB",
-            "nflTeam": "LAC"
+            "nflTeam": "DAL"
           },
           {
             "slot": "WR",
-            "player": "DeVonta Smith",
+            "player": "George Pickens",
             "position": "WR",
-            "nflTeam": "PHI"
+            "nflTeam": "DAL"
           },
           {
             "slot": "WR",
-            "player": "Ladd McConkey",
+            "player": "Davante Adams",
             "position": "WR",
-            "nflTeam": "LAC"
+            "nflTeam": "LAR"
           },
           {
             "slot": "TE",
-            "player": "Travis Kelce",
+            "player": "Kyle Pitts Sr.",
             "position": "TE",
-            "nflTeam": "KC"
+            "nflTeam": "ATL"
           },
           {
             "slot": "FLEX",
-            "player": "DJ Moore",
-            "position": "WR",
-            "nflTeam": "BUF"
+            "player": "Jadarian Price",
+            "position": "RB",
+            "nflTeam": "SEA"
           },
           {
             "slot": "D/ST",
-            "player": "Ravens D/ST",
+            "player": "Chargers D/ST",
             "position": "D/ST",
-            "nflTeam": "BAL"
+            "nflTeam": "LAC"
           },
           {
             "slot": "K",
-            "player": "Jason Myers",
+            "player": "Jake Bates",
             "position": "K",
-            "nflTeam": "SEA"
+            "nflTeam": "DET"
           }
         ],
         "bench": [
           {
-            "player": "Marvin Harrison Jr.",
+            "player": "DK Metcalf",
             "position": "WR",
-            "nflTeam": "ARI"
+            "nflTeam": "PIT"
           },
           {
-            "player": "Chris Godwin Jr.",
-            "position": "WR",
-            "nflTeam": "TB"
-          },
-          {
-            "player": "Zach Charbonnet",
+            "player": "Jordan Mason",
             "position": "RB",
-            "nflTeam": "SEA"
-          },
-          {
-            "player": "Isaiah Likely",
-            "position": "TE",
-            "nflTeam": "NYG"
-          },
-          {
-            "player": "Kyler Murray",
-            "position": "QB",
             "nflTeam": "MIN"
           },
           {
-            "player": "Justice Hill",
-            "position": "RB",
-            "nflTeam": "BAL"
+            "player": "Jordan Addison",
+            "position": "WR",
+            "nflTeam": "MIN"
           },
           {
-            "player": "Najee Harris",
+            "player": "Alvin Kamara",
             "position": "RB",
-            "nflTeam": "NYG"
+            "nflTeam": "NO"
+          },
+          {
+            "player": "Khalil Shakir",
+            "position": "WR",
+            "nflTeam": "BUF"
+          },
+          {
+            "player": "Dylan Sampson",
+            "position": "RB",
+            "nflTeam": "CLE"
+          },
+          {
+            "player": "Jalen Nailor",
+            "position": "WR",
+            "nflTeam": "LV"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "deddybaba",
+      "powerRank": 12,
+      "powerScore": 66.5,
+      "titleOdds": 4.9,
+      "titleOddsAmerican": "+1940",
+      "playoffOdds": 54.1,
+      "draftGrade": "B-",
+      "tier": "Fragile",
+      "archetype": "The No-RB Experiment",
+      "headline": "THE VISION BOARD",
+      "verdict": "Elite top four, a s\u00e9ance at running back.",
+      "analysis": "When Kashir opened this season's chat, he welcomed everyone back to \"the best part of the year: where we get to see Asim's 'visions' and trades that could start a WW3.\" The visions are a league institution. Asim receives them, announces them, occasionally acts on them. The desk deals in rankings, not visions, and the ranking is twelfth.\n\nThe split is stark. Josh Allen, Puka Nacua, Rashee Rice, Terry McLaurin is a legitimate top four, an elite quarterback and three real receivers, the kind of core that wins weeks on its own. Asim reviewed the Allen pick himself, live: it \"might have jacked up my roster.\" The self-awareness kept coming. He announced that his wins will come from other people's running backs getting hurt, which is not a strategy so much as a s\u00e9ance, typed \"GGs,\" and left to go smoke hookah with Bazaan.\n\nThe running back room is Tuten, Harvey, Gainwell, Spears, and Vidal. Five names, zero locked jobs, the clearest positional weakness in the league.\n\nRespect the range, though: Jared Goff at pick 188 against a price of 100 was the best insurance pick of the draft, and the 3am waiver habit this roster was built to feed is a documented fact of league history. Twelfth today. Nobody is twelfth on waivers at 3am.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Josh Allen",
+            "position": "QB",
+            "nflTeam": "BUF"
+          },
+          {
+            "slot": "RB",
+            "player": "Bhayshul Tuten",
+            "position": "RB",
+            "nflTeam": "JAX"
+          },
+          {
+            "slot": "RB",
+            "player": "RJ Harvey",
+            "position": "RB",
+            "nflTeam": "DEN"
+          },
+          {
+            "slot": "WR",
+            "player": "Puka Nacua",
+            "position": "WR",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "WR",
+            "player": "Rashee Rice",
+            "position": "WR",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "TE",
+            "player": "Tucker Kraft",
+            "position": "TE",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Terry McLaurin",
+            "position": "WR",
+            "nflTeam": "WSH"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Broncos D/ST",
+            "position": "D/ST",
+            "nflTeam": "DEN"
+          },
+          {
+            "slot": "K",
+            "player": "Ka'imi Fairbairn",
+            "position": "K",
+            "nflTeam": "HOU"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Kenny Gainwell",
+            "position": "RB",
+            "nflTeam": "TB"
+          },
+          {
+            "player": "Josh Downs",
+            "position": "WR",
+            "nflTeam": "IND"
+          },
+          {
+            "player": "Tyjae Spears",
+            "position": "RB",
+            "nflTeam": "TEN"
+          },
+          {
+            "player": "Terrance Ferguson",
+            "position": "TE",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "Kimani Vidal",
+            "position": "RB",
+            "nflTeam": "LAC"
+          },
+          {
+            "player": "Travis Hunter",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jared Goff",
+            "position": "QB",
+            "nflTeam": "DET"
           }
         ]
       }

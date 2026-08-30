@@ -93,6 +93,11 @@ export default function RankingsExplorer({
                     <span className="font-condensed font-medium text-sm text-ink-faint uppercase tracking-[0.04em]">
                       {m?.manager}
                     </span>
+                    {t.tier && (
+                      <span className="font-condensed font-bold text-xs text-accent uppercase tracking-[0.08em]">
+                        {t.tier}
+                      </span>
+                    )}
                   </div>
                   <div className="font-data text-[13px] text-ink-soft mt-2 flex flex-wrap gap-x-4">
                     <span>{formatRecord(t.record)}</span>
@@ -190,6 +195,8 @@ function Expansion({
         <Metric label="Title odds" value={`${t.titleOdds}%`} />
         <Metric label="Playoff odds" value={`${t.playoffOdds}%`} />
         <Metric label="Draft grade" value={t.draftGrade} />
+        {t.ceilingRank && <Metric label="Ceiling rank" value={`#${t.ceilingRank}`} />}
+        {t.archetype && <Metric label="Archetype" value={t.archetype} />}
         {t.stockUp && <Metric label="Stock up" value={t.stockUp} />}
         {t.stockDown && <Metric label="Stock down" value={t.stockDown} />}
         {t.nextMatchup && <Metric label="Next" value={t.nextMatchup} />}
