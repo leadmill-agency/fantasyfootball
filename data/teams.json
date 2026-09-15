@@ -156,12 +156,12 @@
     },
     {
       "teamId": "mustafas-magnificent-team",
-      "teamName": "Mustafa's Magnificent Team",
+      "teamName": "RN",
       "manager": "Mustafa Saleem",
       "managerNameOnESPN": null,
       "referenceFolder": "Player references/Mustafa",
       "draftSlot": 12,
-      "note": "Manager name cut off in ESPN screenshot; from league chat (former commissioner).",
+      "note": "Renamed from Mustafas Magnificent Team on ESPN; site adopted the RN name 2026-09-15 at league request. Manager name cut off in ESPN screenshot; from league chat (former commissioner).",
       "assets": {
         "headshot": "/managers/mustafas-magnificent-team/headshot.webp",
         "portrait": "/managers/mustafas-magnificent-team/portrait.webp"
