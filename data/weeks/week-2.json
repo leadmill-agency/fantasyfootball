@@ -1,0 +1,1671 @@
+{
+  "week": 2,
+  "publishedAt": "2026-09-22",
+  "deck": "Week 2: Arfan demands his AI report and the report says daddy is, in fact, on top. Haroon hangs the week high on a man who listed his quarterback in the group chat. Kashir benches his own QB and stays perfect. Josh Allen files the season's best game for a team that finally won one. And the commissioner prays for a muffed kick, gets a made field goal, and loses by 2.62. Two weeks of evidence, one dislocated elbow, and a board that moved accordingly.",
+  "teams": [
+    {
+      "teamId": "hnfnr-aint-busy",
+      "powerRank": 1,
+      "previousPowerRank": 2,
+      "powerScore": 86.8,
+      "titleOdds": 12.0,
+      "titleOddsAmerican": "+735",
+      "playoffOdds": 77.7,
+      "draftGrade": "A-",
+      "tier": "Favorite",
+      "archetype": "The Stars Up Top",
+      "ceilingRank": 10,
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "pointsFor": 256.44,
+      "stockUp": "Dalton Schultz",
+      "stockDown": "Jayden Reed",
+      "biggestDevelopment": "2-0 with the scoring lead, and Bowers still hasn't played.",
+      "nextMatchup": "vs RamBam",
+      "movementReasons": [
+        {
+          "delta": 1.4,
+          "reason": "2-0 with the league scoring lead"
+        },
+        {
+          "delta": 0.9,
+          "reason": "Schultz-Kincaid tight end platoon both hit"
+        },
+        {
+          "delta": -0.7,
+          "reason": "Reed and the kicker combined for 1.9"
+        }
+      ],
+      "headline": "REPORT DELIVERED, AS ORDERED",
+      "verdict": "2-0, first in points, first on the board. Daddy, per the filing, is on top.",
+      "analysis": "Monday, 1:08 PM, Arfan to the group: \"I want my Ai report. Letting yall know daddy's on top @Rameel.\" The desk has completed the requested audit. Findings: 256.44 points for, most in the league. 19-3 against the field across two weeks, best in the league. A 106.38 win over Ivan delivered with Jayden Reed contributing 0.9 and the kicker contributing 1.0 \u2014 which is to say, with two starters basically absent. Jaxon Smith-Njigba's 38.0 was the second-best line of the week at any position, behind only Josh Allen, and the tight end situation has become embarrassing in the good direction: Arfan added Dalton Schultz off waivers, started him for 20.0, and left Dalton Kincaid's 19.0 on the bench. Brock Bowers hasn't played a snap yet.\n\nMustafa attempted a correction \u2014 \"Daddy is 9th bro\" \u2014 and the desk has reviewed it. Mustafa is 9th. Arfan is 1st, in the standings and now on this board, twelve months removed from finishing last in the league. The report he demanded is the report he gets: the man who spent Week 1 winning without his best player spent Week 2 winning without two more, and the machine hasn't even fully assembled.\n\nLast season's 4-10 team is the new No. 1. The desk did not enjoy typing that sentence and will not be taking questions.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Joe Burrow",
+            "position": "QB",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "RB",
+            "player": "Derrick Henry",
+            "position": "RB",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "RB",
+            "player": "Rhamondre Stevenson",
+            "position": "RB",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "WR",
+            "player": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "nflTeam": "SEA"
+          },
+          {
+            "slot": "WR",
+            "player": "Jayden Reed",
+            "position": "WR",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "TE",
+            "player": "Dalton Schultz",
+            "position": "TE",
+            "nflTeam": "HOU"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Tony Pollard",
+            "position": "RB",
+            "nflTeam": "TEN"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Eagles D/ST",
+            "position": "D/ST",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "K",
+            "player": "Cameron Dicker",
+            "position": "K",
+            "nflTeam": "LAC"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Brock Bowers",
+            "position": "TE",
+            "nflTeam": "LV"
+          },
+          {
+            "player": "Brian Thomas Jr.",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Michael Wilson",
+            "position": "WR",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Tyler Allgeier",
+            "position": "RB",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Dalton Kincaid",
+            "position": "TE",
+            "nflTeam": "BUF"
+          },
+          {
+            "player": "Tyrone Tracy Jr.",
+            "position": "RB",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "Zay Flowers (IR)",
+            "position": "WR",
+            "nflTeam": "BAL"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "team-noor",
+      "powerRank": 2,
+      "previousPowerRank": 3,
+      "powerScore": 85.5,
+      "titleOdds": 11.3,
+      "titleOddsAmerican": "+785",
+      "playoffOdds": 76.2,
+      "draftGrade": "B+",
+      "tier": "Favorite",
+      "archetype": "The Complete Team",
+      "ceilingRank": 3,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 240.88,
+      "stockUp": "Brock Purdy",
+      "stockDown": "Jaxson Dart",
+      "biggestDevelopment": "Reversed the Dart call; Purdy's 28.48 delivered the week high.",
+      "nextMatchup": "vs I Eat Ass",
+      "movementReasons": [
+        {
+          "delta": 2.0,
+          "reason": "Week-high 133.88"
+        },
+        {
+          "delta": 0.6,
+          "reason": "Purdy over Dart paid at 28.48"
+        },
+        {
+          "delta": -1.1,
+          "reason": "League-worst 243.68 points against"
+        }
+      ],
+      "headline": "THE CHAMP'S WEEK HIGH",
+      "verdict": "133.88 on the road, and the quarterback call was the whole story.",
+      "analysis": "One week after the desk noted that benching Brock Purdy for Jaxson Dart worked, Haroon reversed it, started Purdy, and got 28.48 \u2014 the fourth-best quarterback game of the week, from the man he drafted as his QB1 on the strength of a single 2025 touchdown that won him a title. Dart scored 0.8 on the bench. Kingwood's defending champion put up 133.88, the week high, and beat Bizzy by 40.26 in a game that was over by Sunday afternoon.\n\nJa'Marr Chase woke up with 23.0. The Patriots defense added 20.0. The week-high check is worth $100, which means Haroon's season is already cash-positive before the standings matter. The one blemish is out of his control: 243.68 points against, the most in the league. He's played the two highest-scoring opponents available and still sits 1-1 with the second-most points scored.\n\nMeanwhile he spent Thursday shopping for Aaron Jones with the diction of a man planning something illegal: \"I'm thinking something big. Different people.\" The desk has no idea what that means and reports it strictly as a matter of public record.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Brock Purdy",
+            "position": "QB",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "RB",
+            "player": "Breece Hall",
+            "position": "RB",
+            "nflTeam": "NYJ"
+          },
+          {
+            "slot": "RB",
+            "player": "Kyren Williams",
+            "position": "RB",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "WR",
+            "player": "Ja'Marr Chase",
+            "position": "WR",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "WR",
+            "player": "Christian Watson",
+            "position": "WR",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "TE",
+            "player": "Mark Andrews",
+            "position": "TE",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Bucky Irving",
+            "position": "RB",
+            "nflTeam": "TB"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Patriots D/ST",
+            "position": "D/ST",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "K",
+            "player": "Tyler Loop",
+            "position": "K",
+            "nflTeam": "BAL"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Jaylen Waddle",
+            "position": "WR",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Aaron Jones Sr.",
+            "position": "RB",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "George Kittle",
+            "position": "TE",
+            "nflTeam": "SF"
+          },
+          {
+            "player": "J.K. Dobbins",
+            "position": "RB",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Jakobi Meyers",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jaxson Dart",
+            "position": "QB",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "Demarcus Robinson",
+            "position": "WR",
+            "nflTeam": "SF"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "bizzy",
+      "powerRank": 3,
+      "previousPowerRank": 1,
+      "powerScore": 83.4,
+      "titleOdds": 10.4,
+      "titleOddsAmerican": "+860",
+      "playoffOdds": 73.7,
+      "draftGrade": "B+",
+      "tier": "Favorite",
+      "archetype": "The RB Machine",
+      "ceilingRank": 2,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 204.24,
+      "stockUp": "TreVeyon Henderson",
+      "stockDown": "Drake Maye",
+      "biggestDevelopment": "Maye and Loveland were offered to the group chat by 3:04 PM Sunday.",
+      "nextMatchup": "at Bazan",
+      "movementReasons": [
+        {
+          "delta": -1.8,
+          "reason": "Maye's interception spiral"
+        },
+        {
+          "delta": -1.2,
+          "reason": "93.62, a 40-point loss"
+        },
+        {
+          "delta": -1.0,
+          "reason": "Collins sidelined"
+        },
+        {
+          "delta": 0.4,
+          "reason": "Henderson's 13.6 return"
+        }
+      ],
+      "headline": "MAYE DAY",
+      "verdict": "A 40-point loss, and the quarterback was listed for sale by 3:04 PM Sunday.",
+      "analysis": "The Week 1 No. 1 scored 93.62 and lost by 40.26, and the autopsy is short: the top of the lineup gave nothing. Drake Maye posted 8.02 and now has four interceptions, halfway to his entire 2025 total. Colston Loveland followed his Week 1 goose egg with 0.8. Nabil's response was immediate and public \u2014 \"Anyone wants drake maye or loveland lmk..they \ud83d\uddd1\ufe0f\" \u2014 a listing the desk notes was filed while both players were technically still his starters.\n\nThe backfield remains the whole thesis, and the thesis is fine: Jonathan Taylor 27.2, Kenneth Walker III 20.8, and TreVeyon Henderson's 13.6 return waiting on the bench. Nico Collins sat out with an injury; he comes back. This is why the drop is two spots and not five \u2014 the model of this roster hasn't changed, only the quarterback's willingness to throw to his own receivers.\n\nTwo other Nabil filings from the week deserve preservation: \"J Allen should be 1st rd pick,\" an admiring note about someone else's quarterback, and a trade offer to the commissioner that was answered, in full, \"No ty.\"",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Drake Maye",
+            "position": "QB",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "RB",
+            "player": "Jonathan Taylor",
+            "position": "RB",
+            "nflTeam": "IND"
+          },
+          {
+            "slot": "RB",
+            "player": "Kenneth Walker III",
+            "position": "RB",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "WR",
+            "player": "Carnell Tate",
+            "position": "WR",
+            "nflTeam": "TEN"
+          },
+          {
+            "slot": "WR",
+            "player": "Deebo Samuel Sr.",
+            "position": "WR",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "TE",
+            "player": "Colston Loveland",
+            "position": "TE",
+            "nflTeam": "CHI"
+          },
+          {
+            "slot": "FLEX",
+            "player": "TreVeyon Henderson",
+            "position": "RB",
+            "nflTeam": "NE"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Packers D/ST",
+            "position": "D/ST",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "K",
+            "player": "Cam Little",
+            "position": "K",
+            "nflTeam": "JAX"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Nico Collins",
+            "position": "WR",
+            "nflTeam": "HOU"
+          },
+          {
+            "player": "Rachaad White",
+            "position": "RB",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Alec Pierce",
+            "position": "WR",
+            "nflTeam": "IND"
+          },
+          {
+            "player": "Rams D/ST",
+            "position": "D/ST",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "Hunter Henry",
+            "position": "TE",
+            "nflTeam": "NE"
+          },
+          {
+            "player": "Emari Demercado",
+            "position": "RB",
+            "nflTeam": "DAL"
+          },
+          {
+            "player": "Tyler Shough",
+            "position": "QB",
+            "nflTeam": "NO"
+          },
+          {
+            "player": "Jordyn Tyson (IR)",
+            "position": "WR",
+            "nflTeam": "NO"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "chief-sheikh",
+      "powerRank": 4,
+      "previousPowerRank": 7,
+      "powerScore": 81.0,
+      "titleOdds": 9.4,
+      "titleOddsAmerican": "+965",
+      "playoffOdds": 70.9,
+      "draftGrade": "C",
+      "tier": "Contender",
+      "archetype": "The WR Superteam",
+      "ceilingRank": 8,
+      "record": {
+        "wins": 2,
+        "losses": 0
+      },
+      "pointsFor": 233.96,
+      "stockUp": "Jordan Love",
+      "stockDown": "Chiefs D/ST",
+      "biggestDevelopment": "Benched Herbert for Love and won by 19.7 \u2014 2-0 without the luck disclaimer.",
+      "nextMatchup": "at Team MBK",
+      "movementReasons": [
+        {
+          "delta": 1.7,
+          "reason": "2-0 at 10-1 all-play \u2014 no luck disclaimer this time"
+        },
+        {
+          "delta": 1.2,
+          "reason": "St. Brown's 30.7"
+        },
+        {
+          "delta": 0.9,
+          "reason": "Love-over-Herbert call paid"
+        },
+        {
+          "delta": -0.2,
+          "reason": "Chiefs D/ST gave 1.0"
+        }
+      ],
+      "headline": "BENCHED HIS OWN QB AND CASHED",
+      "verdict": "Love over Herbert paid, 113.1 won by 19.72, and the 2-0 is real this time.",
+      "analysis": "Kashir spent Sunday evening posting \"Man wtf is goin on with the chargers\" \u2014 an ordinary fan lament, except he'd already answered his own question by benching his Charger. Jordan Love started over Justin Herbert and returned 13.8 to Herbert's 7.88, while Bazaan diagnosed the underlying condition in the chat: Herbert is \"too focused on beer than ball,\" a scouting report involving a TikTok girlfriend that the desk is not equipped to verify.\n\nThe rest was clean: Amon-Ra St. Brown 30.7, Trey McBride 14.1, and Brandon Aubrey \u2014 the round-9 kicker the frozen grades mocked \u2014 banking 17.0. Last week Kashir won with negative-two combined from his kicker and defense and the desk called it luck. This week he went 10-1 against the field. That's not luck. That's the second-best team of the week playing like it.\n\nHe's 2-0 with 233.96 points, and the history is worth restating plainly: two Finals appearances, 2023 and 2024, zero titles. Fast starts have never been his problem. December has.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Jordan Love",
+            "position": "QB",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "RB",
+            "player": "Cam Skattebo",
+            "position": "RB",
+            "nflTeam": "NYG"
+          },
+          {
+            "slot": "RB",
+            "player": "Jaylen Warren",
+            "position": "RB",
+            "nflTeam": "PIT"
+          },
+          {
+            "slot": "WR",
+            "player": "Amon-Ra St. Brown",
+            "position": "WR",
+            "nflTeam": "DET"
+          },
+          {
+            "slot": "WR",
+            "player": "Justin Jefferson",
+            "position": "WR",
+            "nflTeam": "MIN"
+          },
+          {
+            "slot": "TE",
+            "player": "Trey McBride",
+            "position": "TE",
+            "nflTeam": "ARI"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Parker Washington",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Chiefs D/ST",
+            "position": "D/ST",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "K",
+            "player": "Brandon Aubrey",
+            "position": "K",
+            "nflTeam": "DAL"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Justin Herbert",
+            "position": "QB",
+            "nflTeam": "LAC"
+          },
+          {
+            "player": "Blake Corum",
+            "position": "RB",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "Texans D/ST",
+            "position": "D/ST",
+            "nflTeam": "HOU"
+          },
+          {
+            "player": "Braelon Allen",
+            "position": "RB",
+            "nflTeam": "NYJ"
+          },
+          {
+            "player": "Tank Bigsby",
+            "position": "RB",
+            "nflTeam": "PHI"
+          },
+          {
+            "player": "Dontayvion Wicks",
+            "position": "WR",
+            "nflTeam": "PHI"
+          },
+          {
+            "player": "Caleb Douglas",
+            "position": "WR",
+            "nflTeam": "MIA"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "team-mbk",
+      "powerRank": 5,
+      "previousPowerRank": 5,
+      "powerScore": 80.4,
+      "titleOdds": 9.2,
+      "titleOddsAmerican": "+985",
+      "playoffOdds": 70.2,
+      "draftGrade": "A",
+      "tier": "Contender",
+      "archetype": "The Floor Monster",
+      "ceilingRank": 7,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 216.66,
+      "stockUp": "Dak Prescott",
+      "stockDown": "David Montgomery",
+      "biggestDevelopment": "Won with Stafford's 26.98 on the bench, then started selling him Tuesday.",
+      "nextMatchup": "vs Chief sheikh",
+      "movementReasons": [
+        {
+          "delta": 1.1,
+          "reason": "Dak's 29.76 and the win"
+        },
+        {
+          "delta": 0.7,
+          "reason": "9-2 all-play quality"
+        },
+        {
+          "delta": -0.8,
+          "reason": "Jacobs saga drags on"
+        },
+        {
+          "delta": -0.4,
+          "reason": "Montgomery's 3.4"
+        }
+      ],
+      "headline": "THE KICKER SURVIVED",
+      "verdict": "Mevis scored 3.0. The margin was 2.62. The commissioner's curse missed by decimals.",
+      "analysis": "Monday night, with the matchup tight, Rameel issued a formal curse: \"I hope Bilal kicker gets -3 today. I hope he muffs a kick and somehow throws an interception.\" Harrison Mevis scored 3.0. Team MBK won by 2.62. Run the arithmetic and it gets uncomfortable: had Mevis produced literally nothing, Bilal loses by 0.38. The muff was never required. A quiet Monday from a kicker was the entire difference between 1-1 and a very loud group chat.\n\nBilal won anyway, and won casually \u2014 Dak Prescott's 29.76 was the second-best QB game of the week, Jahmyr Gibbs added 20.3, and Matthew Stafford's 26.98 sat unused on the bench. By Tuesday morning Bilal had converted the surplus into a sales operation, offering Naafay a quarterback with a pitch \u2014 \"I got stafford bro! You'll get the combo when Adams gets the TD from him\" \u2014 that the desk scores as genuinely good salesmanship.\n\nOne roster note with a long fuse: Bilal added Chris Brooks, third on the Green Bay depth chart. Jacobs is on IR with no timeline. Ivan owns Lloyd. Bilal now owns the contingency's contingency, which is exactly the kind of move floor-monster teams make in September and get thanked for in December.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Dak Prescott",
+            "position": "QB",
+            "nflTeam": "DAL"
+          },
+          {
+            "slot": "RB",
+            "player": "Jahmyr Gibbs",
+            "position": "RB",
+            "nflTeam": "DET"
+          },
+          {
+            "slot": "RB",
+            "player": "David Montgomery",
+            "position": "RB",
+            "nflTeam": "HOU"
+          },
+          {
+            "slot": "WR",
+            "player": "Drake London",
+            "position": "WR",
+            "nflTeam": "ATL"
+          },
+          {
+            "slot": "WR",
+            "player": "Tee Higgins",
+            "position": "WR",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "TE",
+            "player": "Sam LaPorta",
+            "position": "TE",
+            "nflTeam": "DET"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Mike Evans",
+            "position": "WR",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Seahawks D/ST",
+            "position": "D/ST",
+            "nflTeam": "SEA"
+          },
+          {
+            "slot": "K",
+            "player": "Harrison Mevis",
+            "position": "K",
+            "nflTeam": "LAR"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Rico Dowdle",
+            "position": "RB",
+            "nflTeam": "PIT"
+          },
+          {
+            "player": "Wan'Dale Robinson",
+            "position": "WR",
+            "nflTeam": "TEN"
+          },
+          {
+            "player": "Brian Robinson Jr.",
+            "position": "RB",
+            "nflTeam": "ATL"
+          },
+          {
+            "player": "Matthew Stafford",
+            "position": "QB",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "Rashid Shaheed",
+            "position": "WR",
+            "nflTeam": "SEA"
+          },
+          {
+            "player": "Chris Brooks",
+            "position": "RB",
+            "nflTeam": "GB"
+          },
+          {
+            "player": "DeMario Douglas",
+            "position": "WR",
+            "nflTeam": "NE"
+          },
+          {
+            "player": "Josh Jacobs (IR)",
+            "position": "RB",
+            "nflTeam": "GB"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "i-eat-ass",
+      "powerRank": 6,
+      "previousPowerRank": 6,
+      "powerScore": 78.0,
+      "titleOdds": 8.3,
+      "titleOddsAmerican": "+1105",
+      "playoffOdds": 67.4,
+      "draftGrade": "B-",
+      "tier": "Contender",
+      "archetype": "The Volatility Bet",
+      "ceilingRank": 6,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 218.98,
+      "stockUp": "Quinshon Judkins",
+      "stockDown": "Dallas Goedert",
+      "biggestDevelopment": "86.86 one week after 132 \u2014 the first dud of the Ivan era.",
+      "nextMatchup": "at Team Noor",
+      "movementReasons": [
+        {
+          "delta": -1.3,
+          "reason": "86.86 at 1-10 all-play"
+        },
+        {
+          "delta": -0.5,
+          "reason": "Goedert hobbled to 0.9"
+        },
+        {
+          "delta": 0.9,
+          "reason": "McCaffrey and Olave steady"
+        }
+      ],
+      "headline": "GRAVITY CHECKS IN",
+      "verdict": "86.86 at 1-10 against the field. The victory lap lasted exactly one week.",
+      "analysis": "A week after hanging 132 and inheriting a starting running back by pure atmospheric luck, Ivan scored 86.86 \u2014 more than only Naafay \u2014 and took his first loss. The failure was concentrated at the positions that were supposed to be boring: Dallas Goedert limped to 0.9, Jameson Williams caught 4.3, and Jalen Hurts was held to 16.16 in a game Philadelphia never needed him to throw in.\n\nThe stars did star things. Christian McCaffrey posted 20.6, Chris Olave 18.6. And the week's one lineup decision was a genuine wash: Quinshon Judkins took the flex over MarShawn Lloyd and scored 7.3 to Lloyd's benched 7.6, a 0.3-point mistake the desk mentions only for completeness. The loss also came against the No. 1 team on this board, which buys some forgiveness.\n\nIvan holds at six. The 132 and the 86 are both real; two weeks in, the desk's job is to admit it doesn't yet know which one is the impostor.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Jalen Hurts",
+            "position": "QB",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "RB",
+            "player": "Christian McCaffrey",
+            "position": "RB",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "RB",
+            "player": "Jeremiyah Love",
+            "position": "RB",
+            "nflTeam": "ARI"
+          },
+          {
+            "slot": "WR",
+            "player": "Chris Olave",
+            "position": "WR",
+            "nflTeam": "NO"
+          },
+          {
+            "slot": "WR",
+            "player": "Jameson Williams",
+            "position": "WR",
+            "nflTeam": "DET"
+          },
+          {
+            "slot": "TE",
+            "player": "Dallas Goedert",
+            "position": "TE",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Quinshon Judkins",
+            "position": "RB",
+            "nflTeam": "CLE"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Steelers D/ST",
+            "position": "D/ST",
+            "nflTeam": "PIT"
+          },
+          {
+            "slot": "K",
+            "player": "Eddy Pineiro",
+            "position": "K",
+            "nflTeam": "SF"
+          }
+        ],
+        "bench": [
+          {
+            "player": "MarShawn Lloyd",
+            "position": "RB",
+            "nflTeam": "GB"
+          },
+          {
+            "player": "Quentin Johnston",
+            "position": "WR",
+            "nflTeam": "LAC"
+          },
+          {
+            "player": "Woody Marks",
+            "position": "RB",
+            "nflTeam": "HOU"
+          },
+          {
+            "player": "Romeo Doubs",
+            "position": "WR",
+            "nflTeam": "NE"
+          },
+          {
+            "player": "Makai Lemon",
+            "position": "WR",
+            "nflTeam": "PHI"
+          },
+          {
+            "player": "Devaughn Vele",
+            "position": "WR",
+            "nflTeam": "NO"
+          },
+          {
+            "player": "Cairo Santos",
+            "position": "K",
+            "nflTeam": "CHI"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "bazan",
+      "powerRank": 7,
+      "previousPowerRank": 4,
+      "powerScore": 77.2,
+      "titleOdds": 8.0,
+      "titleOddsAmerican": "+1150",
+      "playoffOdds": 66.5,
+      "draftGrade": "C+",
+      "tier": "Contender",
+      "archetype": "The Nuclear Core",
+      "ceilingRank": 4,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 224.56,
+      "stockUp": "Chase McLaughlin",
+      "stockDown": "Lamar Jackson",
+      "biggestDevelopment": "Benched the Panthers defense that scored 24; started the Bucs at 4.",
+      "nextMatchup": "vs Bizzy",
+      "movementReasons": [
+        {
+          "delta": -1.6,
+          "reason": "Lamar at 14.8 and publicly shopped"
+        },
+        {
+          "delta": -1.5,
+          "reason": "24 points of defense left on the bench"
+        },
+        {
+          "delta": -1.2,
+          "reason": "Nabers scare on top of Brown's IR"
+        }
+      ],
+      "headline": "TWENTY-FOUR ON THE BENCH",
+      "verdict": "Benched the defense that scored 24, started the one that scored 4, lost by 15.82.",
+      "analysis": "Bazaan added the Panthers defense this week. This was a good decision. He then started the Buccaneers over them, and Carolina put up 24.0 on his bench while Tampa Bay contributed 4.0 to his lineup \u2014 a 20-point swing in a game he lost by 15.82. The full post-mortem was filed by the man himself at 2:38 PM Sunday: \"Mannnn if only I started panthers d.\" The desk has nothing to add to the record.\n\nThe deeper problem is the core. Lamar Jackson posted 14.8, his second modest week in two, and Bazaan's patience lasted about nine seconds: \"He sucks. Lamar up for trade.\" A.J. Brown remains on IR \u2014 \"Ajb up for donation,\" per the owner \u2014 and Malik Nabers gave the Monday crowd a shoulder scare before returning, though not before losing Bazaan's side bet with Asim: Nabers needed to outscore Terrance Ferguson by two, and lost 14.4 to 0.6.\n\nThe drop is three spots, and it's about evidence, not panic. But the ceiling rank isn't moving: Brown's timeline still lands before December, Nabers walked back onto the field, and the entire history of Lamar Jackson says the discount window doesn't stay open long.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Lamar Jackson",
+            "position": "QB",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "RB",
+            "player": "James Cook III",
+            "position": "RB",
+            "nflTeam": "BUF"
+          },
+          {
+            "slot": "RB",
+            "player": "D'Andre Swift",
+            "position": "RB",
+            "nflTeam": "CHI"
+          },
+          {
+            "slot": "WR",
+            "player": "Malik Nabers",
+            "position": "WR",
+            "nflTeam": "NYG"
+          },
+          {
+            "slot": "WR",
+            "player": "Jalen Coker",
+            "position": "WR",
+            "nflTeam": "CAR"
+          },
+          {
+            "slot": "TE",
+            "player": "Juwan Johnson",
+            "position": "TE",
+            "nflTeam": "NO"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Courtland Sutton",
+            "position": "WR",
+            "nflTeam": "DEN"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Buccaneers D/ST",
+            "position": "D/ST",
+            "nflTeam": "TB"
+          },
+          {
+            "slot": "K",
+            "player": "Chase McLaughlin",
+            "position": "K",
+            "nflTeam": "TB"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Michael Pittman Jr.",
+            "position": "WR",
+            "nflTeam": "PIT"
+          },
+          {
+            "player": "Kyle Monangai",
+            "position": "RB",
+            "nflTeam": "CHI"
+          },
+          {
+            "player": "Bo Nix",
+            "position": "QB",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Ray Davis",
+            "position": "RB",
+            "nflTeam": "BUF"
+          },
+          {
+            "player": "Antonio Williams",
+            "position": "WR",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Panthers D/ST",
+            "position": "D/ST",
+            "nflTeam": "CAR"
+          },
+          {
+            "player": "Giants D/ST",
+            "position": "D/ST",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "A.J. Brown (IR)",
+            "position": "WR",
+            "nflTeam": "NE"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "gang-green",
+      "powerRank": 8,
+      "previousPowerRank": 10,
+      "powerScore": 74.6,
+      "titleOdds": 7.2,
+      "titleOddsAmerican": "+1290",
+      "playoffOdds": 63.4,
+      "draftGrade": "C+",
+      "tier": "Playoff-caliber",
+      "archetype": "The Moonshot",
+      "ceilingRank": 5,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 208.76,
+      "stockUp": "Chuba Hubbard",
+      "stockDown": "De'Von Achane",
+      "biggestDevelopment": "Promoted Hubbard one week after his 22.2 sat \u2014 and won.",
+      "nextMatchup": "at DEDDYBABA",
+      "movementReasons": [
+        {
+          "delta": 1.2,
+          "reason": "First win, with Hubbard promoted in time"
+        },
+        {
+          "delta": 0.8,
+          "reason": "Butker and Wilson delivered"
+        },
+        {
+          "delta": -0.2,
+          "reason": "Achane usage still light"
+        }
+      ],
+      "headline": "ONE WEEK LATE, FULL CREDIT",
+      "verdict": "Chuba promoted, Butker delivered, and the unluckiest team in the league banked a win.",
+      "analysis": "The correction came exactly one week late and worked anyway. Chuba Hubbard \u2014 whose 22.2 lost Yaseen the Week 1 game from the bench \u2014 was promoted to the flex and returned 13.4 in a 97.36-83.82 win over Naafay. Harrison Butker added 16.0, Garrett Wilson 14.2, and the Week 1 unluckiest-team-in-football file can finally be closed with a result attached.\n\nIt required one uncomfortable Monday evening. Yaseen, 7:50 PM: \"Adams going for 50? \ud83d\udc40\" Adams went for 35.5, and the math held only because the rest of Naafay's roster declined to participate. Meanwhile Stefon Diggs scored 19.2 on Yaseen's bench, because this roster is apparently contractually obligated to leave one good game in the shed every single week.\n\nThe man who called Week 1 his championship now has an actual win, a 208.76 points-for total that sits seventh, and a lineup that finally matches the production. Up two.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Trevor Lawrence",
+            "position": "QB",
+            "nflTeam": "JAX"
+          },
+          {
+            "slot": "RB",
+            "player": "De'Von Achane",
+            "position": "RB",
+            "nflTeam": "MIA"
+          },
+          {
+            "slot": "RB",
+            "player": "Ashton Jeanty",
+            "position": "RB",
+            "nflTeam": "LV"
+          },
+          {
+            "slot": "WR",
+            "player": "Garrett Wilson",
+            "position": "WR",
+            "nflTeam": "NYJ"
+          },
+          {
+            "slot": "WR",
+            "player": "Tetairoa McMillan",
+            "position": "WR",
+            "nflTeam": "CAR"
+          },
+          {
+            "slot": "TE",
+            "player": "Harold Fannin Jr.",
+            "position": "TE",
+            "nflTeam": "CLE"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Chuba Hubbard",
+            "position": "RB",
+            "nflTeam": "CAR"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Jets D/ST",
+            "position": "D/ST",
+            "nflTeam": "NYJ"
+          },
+          {
+            "slot": "K",
+            "player": "Harrison Butker",
+            "position": "K",
+            "nflTeam": "KC"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Luther Burden III",
+            "position": "WR",
+            "nflTeam": "CHI"
+          },
+          {
+            "player": "Stefon Diggs",
+            "position": "WR",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Mike Washington Jr.",
+            "position": "RB",
+            "nflTeam": "LV"
+          },
+          {
+            "player": "Keaton Mitchell",
+            "position": "RB",
+            "nflTeam": "LAC"
+          },
+          {
+            "player": "Adonai Mitchell",
+            "position": "WR",
+            "nflTeam": "NYJ"
+          },
+          {
+            "player": "Geno Smith",
+            "position": "QB",
+            "nflTeam": "NYJ"
+          },
+          {
+            "player": "Kenyon Sadiq",
+            "position": "TE",
+            "nflTeam": "NYJ"
+          },
+          {
+            "player": "De'Zhaun Stribling (IR)",
+            "position": "WR",
+            "nflTeam": "SF"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "mustafas-magnificent-team",
+      "powerRank": 9,
+      "previousPowerRank": 8,
+      "powerScore": 73.9,
+      "titleOdds": 7.0,
+      "titleOddsAmerican": "+1330",
+      "playoffOdds": 62.6,
+      "draftGrade": "C-",
+      "tier": "Playoff-caliber",
+      "archetype": "The Deep Bench",
+      "ceilingRank": 9,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 200.44,
+      "stockUp": "Patrick Mahomes",
+      "stockDown": "Saquon Barkley",
+      "biggestDevelopment": "Benched Kelce's 20.6, started Moore's \u22120.1, lost by 19.72.",
+      "nextMatchup": "at IVaafay",
+      "movementReasons": [
+        {
+          "delta": 0.6,
+          "reason": "Mahomes' 28.98"
+        },
+        {
+          "delta": -0.8,
+          "reason": "Barkley's 2.5"
+        },
+        {
+          "delta": -0.7,
+          "reason": "Kelce's 20.6 benched, Moore's \u22120.1 started"
+        }
+      ],
+      "headline": "MINUS POINT ONE",
+      "verdict": "Started the \u22120.1, benched the 20.6, lost by 19.72.",
+      "analysis": "Patrick Mahomes gave RN 28.98, the third-best quarterback game of the week, and the roster set it on fire. Saquon Barkley managed 2.5. DJ Moore, started at wide receiver, finished at \u22120.1 \u2014 a number that means he actively removed points from the team. And Travis Kelce scored 20.6 on the bench, which against a 19.72 margin of defeat is the kind of arithmetic the desk is legally required to print: the benched tight end alone flips the game.\n\nLast week's luckiest winner \u2014 a 0.06-point escape at 3-8 against the field \u2014 met a 3-8 all-play week without the escape hatch and lost to Kashir by 19.72. The regression the Real Standings page promised arrived on schedule, wearing a Chiefs jersey and asking why nobody else showed up.\n\nMustafa's week otherwise consisted of auditing Arfan's paperwork (\"Daddy is 9th bro\" \u2014 accurate, of Mustafa) and announcing \"Deshaun Watson is back,\" a piece of news with no detectable fantasy application. Down one. The Mahomes games can't keep being cover for the rest of it.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Patrick Mahomes",
+            "position": "QB",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "RB",
+            "player": "Omarion Hampton",
+            "position": "RB",
+            "nflTeam": "LAC"
+          },
+          {
+            "slot": "RB",
+            "player": "Saquon Barkley",
+            "position": "RB",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "WR",
+            "player": "DeVonta Smith",
+            "position": "WR",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "WR",
+            "player": "DJ Moore",
+            "position": "WR",
+            "nflTeam": "BUF"
+          },
+          {
+            "slot": "TE",
+            "player": "Isaiah Likely",
+            "position": "TE",
+            "nflTeam": "NYG"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Ladd McConkey",
+            "position": "WR",
+            "nflTeam": "LAC"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Ravens D/ST",
+            "position": "D/ST",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "K",
+            "player": "Jason Myers",
+            "position": "K",
+            "nflTeam": "SEA"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Marvin Harrison Jr.",
+            "position": "WR",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Chris Godwin Jr.",
+            "position": "WR",
+            "nflTeam": "TB"
+          },
+          {
+            "player": "Justice Hill",
+            "position": "RB",
+            "nflTeam": "BAL"
+          },
+          {
+            "player": "Travis Kelce",
+            "position": "TE",
+            "nflTeam": "KC"
+          },
+          {
+            "player": "Kyler Murray",
+            "position": "QB",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "George Holani",
+            "position": "RB",
+            "nflTeam": "SEA"
+          },
+          {
+            "player": "Pat Bryant",
+            "position": "WR",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Zach Charbonnet (IR)",
+            "position": "RB",
+            "nflTeam": "SEA"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "deddybaba",
+      "powerRank": 10,
+      "previousPowerRank": 12,
+      "powerScore": 70.8,
+      "titleOdds": 6.1,
+      "titleOddsAmerican": "+1540",
+      "playoffOdds": 59.0,
+      "draftGrade": "B-",
+      "tier": "Playoff-caliber",
+      "archetype": "The No-RB Experiment",
+      "ceilingRank": 12,
+      "record": {
+        "wins": 1,
+        "losses": 1
+      },
+      "pointsFor": 192.68,
+      "stockUp": "Terrance Ferguson",
+      "stockDown": "Puka Nacua",
+      "biggestDevelopment": "Allen followed 35.66 with 40.82 \u2014 the two best games of the season, same jersey.",
+      "nextMatchup": "vs Gang Green",
+      "movementReasons": [
+        {
+          "delta": 2.6,
+          "reason": "Allen's 40.82 \u2014 the season's best game, again"
+        },
+        {
+          "delta": 1.8,
+          "reason": "First win, by 15.82"
+        },
+        {
+          "delta": 1.4,
+          "reason": "Ferguson and Bateman signs of life"
+        }
+      ],
+      "headline": "THE WILT GAME, AS SPECIFIED",
+      "verdict": "Asim said Allen needed a 100-point game every week to compete. 40.82 was enough.",
+      "analysis": "Wednesday, Asim filed his weekly despair: \"Brother Allen is my only glimmer of hope, the rest of my team can't carry. MF gotta drop a wilt 100 point game damn near every week to have a shot at competing.\" Sunday, mid-game, he escalated \u2014 \"My whole team up for trade\" \u2014 and told Bazaan, mid-collapse, \"you could have benched half ur team and beat me.\" Final score: DEDDYBABA 105.22, Bazan 89.4. He won by 15.82.\n\nJosh Allen posted 40.82, the best individual game of the fantasy season, breaking the previous record of 35.66, which was also Josh Allen, also for this team. Around him, actual signs of life: Terrance Ferguson put up 14.4 in the flex \u2014 winning Asim's side bet against Nabers in a rout \u2014 and waiver-add Rashod Bateman scored 18.3 on the bench. The group chat has formally diagnosed the pattern. Naafay: \"The asim juju is back in full effect!\" Bilal: \"don't do the Asim magic!!!! U still in it!\" The visions doom-post; the visions win; this is simply how it works, and has been since back-to-back 11-3 seasons.\n\nHe also offered Allen in trade \"for the right price.\" The desk has consulted its models and set the price at everything, plus a formal apology.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Josh Allen",
+            "position": "QB",
+            "nflTeam": "BUF"
+          },
+          {
+            "slot": "RB",
+            "player": "Bhayshul Tuten",
+            "position": "RB",
+            "nflTeam": "JAX"
+          },
+          {
+            "slot": "RB",
+            "player": "Kenny Gainwell",
+            "position": "RB",
+            "nflTeam": "TB"
+          },
+          {
+            "slot": "WR",
+            "player": "Rashee Rice",
+            "position": "WR",
+            "nflTeam": "KC"
+          },
+          {
+            "slot": "WR",
+            "player": "Terry McLaurin",
+            "position": "WR",
+            "nflTeam": "WSH"
+          },
+          {
+            "slot": "TE",
+            "player": "Tucker Kraft",
+            "position": "TE",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Terrance Ferguson",
+            "position": "TE",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Broncos D/ST",
+            "position": "D/ST",
+            "nflTeam": "DEN"
+          },
+          {
+            "slot": "K",
+            "player": "Ka'imi Fairbairn",
+            "position": "K",
+            "nflTeam": "HOU"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Puka Nacua",
+            "position": "WR",
+            "nflTeam": "LAR"
+          },
+          {
+            "player": "RJ Harvey",
+            "position": "RB",
+            "nflTeam": "DEN"
+          },
+          {
+            "player": "Josh Downs",
+            "position": "WR",
+            "nflTeam": "IND"
+          },
+          {
+            "player": "Tyjae Spears",
+            "position": "RB",
+            "nflTeam": "TEN"
+          },
+          {
+            "player": "Malik Willis",
+            "position": "QB",
+            "nflTeam": "MIA"
+          },
+          {
+            "player": "Demond Claiborne",
+            "position": "RB",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "Rashod Bateman",
+            "position": "WR",
+            "nflTeam": "BAL"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "rambam",
+      "powerRank": 11,
+      "previousPowerRank": 9,
+      "powerScore": 70.2,
+      "titleOdds": 6.0,
+      "titleOddsAmerican": "+1565",
+      "playoffOdds": 58.3,
+      "draftGrade": "B",
+      "tier": "Fringe contender",
+      "archetype": "The Venture Portfolio",
+      "ceilingRank": 1,
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "pointsFor": 192.8,
+      "stockUp": "CeeDee Lamb",
+      "stockDown": "Jayden Daniels",
+      "biggestDevelopment": "Daniels dislocated his elbow Sunday; X-rays clean, timeline in weeks.",
+      "nextMatchup": "at HNFNR AIN'T BUSY",
+      "movementReasons": [
+        {
+          "delta": -2.4,
+          "reason": "Daniels' dislocated elbow, out weeks"
+        },
+        {
+          "delta": -1.6,
+          "reason": "0-2 despite 6-5 all-play"
+        },
+        {
+          "delta": 0.6,
+          "reason": "Lamb's 31.3"
+        }
+      ],
+      "headline": "LOST BY LESS THAN A FIELD GOAL",
+      "verdict": "0-2, a dislocated quarterback, and a curse that came up 2.62 short.",
+      "analysis": "The commissioner conceded on Thursday night (\"Gg Bilal I'm cooked\"), declared the season over by Friday (\"nah it's legit over. I can't wait to see how the rankings turn out this week, with me looking up at all of y'all\"), and then nearly won: 103.84 was the sixth-best score of the week, good for 6-5 against the field, and lost by 2.62. Two weeks, two games against the field's hot hand, an 0-2 record sitting on top of a 7-15 all-play ledger that says the team is closer to the middle than the basement.\n\nBut the news is the elbow. Jayden Daniels dislocated it Sunday against Dallas \u2014 same elbow as last year, X-rays clean, no fracture, timeline measured in weeks. CeeDee Lamb's 31.3 was the counter-argument, and Xavier Worthy's 11.0 arrived on the bench, but a portfolio team without its quarterback is a portfolio without its index fund. The drop to 11 is the price of that sentence.\n\nThe ceiling rank stays at 1, because Daniels' timeline lands well before December and nothing about the underlying roster changed. Strength 11, ceiling 1 \u2014 the loneliest corner of the matrix, occupied by the man who publishes it. As requested in the group chat: here are the rankings, with him looking up at everybody.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Jayden Daniels",
+            "position": "QB",
+            "nflTeam": "WSH"
+          },
+          {
+            "slot": "RB",
+            "player": "Chase Brown",
+            "position": "RB",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "RB",
+            "player": "Travis Etienne Jr.",
+            "position": "RB",
+            "nflTeam": "NO"
+          },
+          {
+            "slot": "WR",
+            "player": "CeeDee Lamb",
+            "position": "WR",
+            "nflTeam": "DAL"
+          },
+          {
+            "slot": "WR",
+            "player": "Emeka Egbuka",
+            "position": "WR",
+            "nflTeam": "TB"
+          },
+          {
+            "slot": "TE",
+            "player": "Tyler Warren",
+            "position": "TE",
+            "nflTeam": "IND"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Matthew Golden",
+            "position": "WR",
+            "nflTeam": "GB"
+          },
+          {
+            "slot": "D/ST",
+            "player": "49ers D/ST",
+            "position": "D/ST",
+            "nflTeam": "SF"
+          },
+          {
+            "slot": "K",
+            "player": "Tyler Bass",
+            "position": "K",
+            "nflTeam": "BUF"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Rome Odunze",
+            "position": "WR",
+            "nflTeam": "CHI"
+          },
+          {
+            "player": "Jonathon Brooks",
+            "position": "RB",
+            "nflTeam": "CAR"
+          },
+          {
+            "player": "Xavier Worthy",
+            "position": "WR",
+            "nflTeam": "KC"
+          },
+          {
+            "player": "Kaelon Black",
+            "position": "RB",
+            "nflTeam": "SF"
+          },
+          {
+            "player": "Emmett Johnson",
+            "position": "RB",
+            "nflTeam": "KC"
+          },
+          {
+            "player": "Devin Singletary",
+            "position": "RB",
+            "nflTeam": "NYG"
+          },
+          {
+            "player": "Kalif Raymond",
+            "position": "WR",
+            "nflTeam": "CHI"
+          },
+          {
+            "player": "Tank Dell (IR)",
+            "position": "WR",
+            "nflTeam": "HOU"
+          }
+        ]
+      }
+    },
+    {
+      "teamId": "ivaafay",
+      "powerRank": 12,
+      "previousPowerRank": 11,
+      "powerScore": 66.5,
+      "titleOdds": 5.1,
+      "titleOddsAmerican": "+1860",
+      "playoffOdds": 54.0,
+      "draftGrade": "B",
+      "tier": "Fragile",
+      "archetype": "The Bijan Build",
+      "ceilingRank": 11,
+      "record": {
+        "wins": 0,
+        "losses": 2
+      },
+      "pointsFor": 192.28,
+      "stockUp": "Davante Adams",
+      "stockDown": "Caleb Williams",
+      "biggestDevelopment": "Adams hung 35.5 Monday night; the other eight starters combined for 48.32.",
+      "nextMatchup": "vs RN",
+      "movementReasons": [
+        {
+          "delta": -1.4,
+          "reason": "0-11 all-play week"
+        },
+        {
+          "delta": -1.2,
+          "reason": "Caleb Williams week-to-week"
+        },
+        {
+          "delta": -0.8,
+          "reason": "Bijan at 9.6"
+        },
+        {
+          "delta": 0.4,
+          "reason": "Adams' 35.5 Monday night"
+        }
+      ],
+      "headline": "35.5 AND THE SOUND OF SILENCE",
+      "verdict": "Adams went nuclear on Monday night. The other eight starters combined for 48.32.",
+      "analysis": "Naafay spent Monday evening doing live math in the group chat \u2014 \"12.5 points per quarter. In process lol\" \u2014 and Davante Adams very nearly obliged, hanging 35.5 on Monday night. It was the third-best line of the week, and it was surrounded by nothing: the other eight starters produced 48.32 combined. Kyle Pitts followed his Week 1 zero with 2.0. Bijan Robinson, the whole thesis of this roster, managed 9.6 in a game Atlanta lost by 31.\n\nThen there's the quarterback. Caleb Williams was carted off with a hamstring injury \u2014 \"That looked badd,\" Naafay reported, correctly \u2014 and is week-to-week, though the tests came back clean enough that Week 3 isn't ruled out. In the meantime the waiver hunt is on (\"Waiver wire \ud83d\udc40\ud83e\udd23\") and Bilal has already arrived with the Stafford brochure.\n\n0-11 against the field, 0-2 overall, last on the board for the first time. \"My team cooked aF lmao,\" the owner wrote, and the desk, having reviewed all available evidence, concurs with the finding and the lmao both.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Caleb Williams",
+            "position": "QB",
+            "nflTeam": "CHI"
+          },
+          {
+            "slot": "RB",
+            "player": "Bijan Robinson",
+            "position": "RB",
+            "nflTeam": "ATL"
+          },
+          {
+            "slot": "RB",
+            "player": "Javonte Williams",
+            "position": "RB",
+            "nflTeam": "DAL"
+          },
+          {
+            "slot": "WR",
+            "player": "George Pickens",
+            "position": "WR",
+            "nflTeam": "DAL"
+          },
+          {
+            "slot": "WR",
+            "player": "Davante Adams",
+            "position": "WR",
+            "nflTeam": "LAR"
+          },
+          {
+            "slot": "TE",
+            "player": "Kyle Pitts Sr.",
+            "position": "TE",
+            "nflTeam": "ATL"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Jadarian Price",
+            "position": "RB",
+            "nflTeam": "SEA"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Chargers D/ST",
+            "position": "D/ST",
+            "nflTeam": "LAC"
+          },
+          {
+            "slot": "K",
+            "player": "Jake Bates",
+            "position": "K",
+            "nflTeam": "DET"
+          }
+        ],
+        "bench": [
+          {
+            "player": "DK Metcalf",
+            "position": "WR",
+            "nflTeam": "PIT"
+          },
+          {
+            "player": "Jordan Addison",
+            "position": "WR",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "Alvin Kamara",
+            "position": "RB",
+            "nflTeam": "NO"
+          },
+          {
+            "player": "Khalil Shakir",
+            "position": "WR",
+            "nflTeam": "BUF"
+          },
+          {
+            "player": "Jalen Nailor",
+            "position": "WR",
+            "nflTeam": "LV"
+          },
+          {
+            "player": "Mike Gesicki",
+            "position": "TE",
+            "nflTeam": "CIN"
+          },
+          {
+            "player": "DeeJay Dallas",
+            "position": "RB",
+            "nflTeam": "MIN"
+          },
+          {
+            "player": "Jordan Mason (IR)",
+            "position": "RB",
+            "nflTeam": "MIN"
+          }
+        ]
+      }
+    }
+  ]
+}
