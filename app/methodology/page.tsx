@@ -25,12 +25,15 @@ export default function MethodologyPage() {
           standings. A lucky 5–1 team can sit below an unlucky 3–3 team.
         </p>
         <p>
-          In-season, the score weighs current roster strength (35%), season
-          performance (25%), recent performance over roughly three weeks (15%),
-          roster trajectory — trades, waivers, injuries, role changes (15%) —
-          and record/playoff position (10%). The preseason board is the
-          post-draft analysis of roster strength, ceiling, and construction,
-          before any games existed to score.
+          From Week 3 on, the score is about 70% results and 30% structure.
+          Results are what actually happened: the record, the all-play record
+          (every score against all eleven other teams, every week), and points
+          scored. Structure is what the roster looks like going forward:
+          trades, waiver pickups, injuries, role changes, and the schedule
+          ahead. Weeks 1 and 2 leaned the other way, mostly on the preseason
+          analysis, because two games aren&apos;t enough evidence. The
+          preseason board is the post-draft analysis of roster strength,
+          ceiling, and construction, before any games existed to score.
         </p>
         <p>
           The rankings are authored, not just computed. When the columnist

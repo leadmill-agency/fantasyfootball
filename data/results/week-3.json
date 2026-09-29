@@ -1,0 +1,13 @@
+{
+  "week": 3,
+  "finalizedAt": "2026-09-29",
+  "source": "ESPN final box scores + standings, retrieved 2026-09-29",
+  "matchups": [
+    { "awayTeamId": "rambam", "homeTeamId": "hnfnr-aint-busy", "awayScore": 94.68, "homeScore": 109.14 },
+    { "awayTeamId": "bizzy", "homeTeamId": "bazan", "awayScore": 84.7, "homeScore": 100.94 },
+    { "awayTeamId": "i-eat-ass", "homeTeamId": "team-noor", "awayScore": 96.22, "homeScore": 138.48 },
+    { "awayTeamId": "gang-green", "homeTeamId": "deddybaba", "awayScore": 88.54, "homeScore": 84.46 },
+    { "awayTeamId": "mustafas-magnificent-team", "homeTeamId": "ivaafay", "awayScore": 98.74, "homeScore": 110.24 },
+    { "awayTeamId": "chief-sheikh", "homeTeamId": "team-mbk", "awayScore": 106.68, "homeScore": 136.34 }
+  ]
+}

@@ -77,8 +77,8 @@ export default async function ContenderMatrixPage({
             <strong className="text-ink">Vertical — Championship Ceiling
             Rank (1–12).</strong> A separate ranking of each roster&apos;s best
             realistic December outcome. Higher is scarier. It moves with
-            trades, breakouts, injuries, and role changes — never with one
-            loud scoring week.
+            trades, waiver pickups, breakouts, injuries, and role changes —
+            never with one loud scoring week.
           </p>
           <p>
             Both are ranks on purpose. Nobody has to pretend a roster is an
