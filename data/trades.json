@@ -1,0 +1,197 @@
+{
+  "note": "One entry per processed trade. For every received player, `weeks` holds that player's fantasy points for each week he was on the new roster, with `started` marking whether he was in the starting lineup. Points are transcribed from the ESPN box scores. Counting stops if a player is dropped or re-traded (add `endedWeek`). Byes and injuries count as zero — that is the real cost of a trade.",
+  "trades": [
+    {
+      "id": "2026-w3-bazan-gang-green",
+      "processedAt": "2026-09-25",
+      "processedWeek": 3,
+      "firstWeek": 3,
+      "vetoes": null,
+      "upholds": null,
+      "summary": "Bryce Young for Adonai Mitchell. Processed on a Friday with no debate; Mitchell was ruled out almost immediately.",
+      "sides": [
+        {
+          "teamId": "gang-green",
+          "received": [
+            {
+              "player": "Bryce Young",
+              "position": "QB",
+              "nflTeam": "CAR",
+              "weeks": {
+                "3": {
+                  "points": 13.64,
+                  "started": true
+                },
+                "4": {
+                  "points": 21.46,
+                  "started": true
+                }
+              }
+            }
+          ]
+        },
+        {
+          "teamId": "bazan",
+          "received": [
+            {
+              "player": "Adonai Mitchell",
+              "position": "WR",
+              "nflTeam": "NYJ",
+              "weeks": {
+                "3": {
+                  "points": 0.0,
+                  "started": false
+                },
+                "4": {
+                  "points": 0.0,
+                  "started": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-w3-rambam-bizzy",
+      "processedAt": "2026-09-29",
+      "processedWeek": 3,
+      "firstWeek": 4,
+      "vetoes": 5,
+      "upholds": 2,
+      "summary": "The commissioner's trade. Five vetoes, two upholds, two abstentions; eight vetoes were required. Lamb scored 32.8 for Bizzy in the first week and RamBam won anyway.",
+      "sides": [
+        {
+          "teamId": "rambam",
+          "received": [
+            {
+              "player": "Jonathan Taylor",
+              "position": "RB",
+              "nflTeam": "IND",
+              "weeks": {
+                "4": {
+                  "points": 22.2,
+                  "started": true
+                }
+              }
+            },
+            {
+              "player": "TreVeyon Henderson",
+              "position": "RB",
+              "nflTeam": "NE",
+              "weeks": {
+                "4": {
+                  "points": 4.2,
+                  "started": true
+                }
+              }
+            },
+            {
+              "player": "Emanuel Wilson",
+              "position": "RB",
+              "nflTeam": "SEA",
+              "weeks": {
+                "4": {
+                  "points": 25.5,
+                  "started": true
+                }
+              }
+            }
+          ]
+        },
+        {
+          "teamId": "bizzy",
+          "received": [
+            {
+              "player": "CeeDee Lamb",
+              "position": "WR",
+              "nflTeam": "DAL",
+              "weeks": {
+                "4": {
+                  "points": 32.8,
+                  "started": true
+                }
+              }
+            },
+            {
+              "player": "Chase Brown",
+              "position": "RB",
+              "nflTeam": "CIN",
+              "weeks": {
+                "4": {
+                  "points": 13.6,
+                  "started": true
+                }
+              }
+            },
+            {
+              "player": "Emmett Johnson",
+              "position": "RB",
+              "nflTeam": "KC",
+              "weeks": {
+                "4": {
+                  "points": 1.5,
+                  "started": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2026-w4-deddybaba-team-noor",
+      "processedAt": "2026-10-02",
+      "processedWeek": 4,
+      "firstWeek": 4,
+      "vetoes": 7,
+      "upholds": 3,
+      "summary": "Josh Allen for Brock Purdy and Bucky Irving. Seven vetoes, three upholds — one short of the eight required. Haroon lost his first week with Allen.",
+      "sides": [
+        {
+          "teamId": "team-noor",
+          "received": [
+            {
+              "player": "Josh Allen",
+              "position": "QB",
+              "nflTeam": "BUF",
+              "weeks": {
+                "4": {
+                  "points": 18.52,
+                  "started": true
+                }
+              }
+            }
+          ]
+        },
+        {
+          "teamId": "deddybaba",
+          "received": [
+            {
+              "player": "Brock Purdy",
+              "position": "QB",
+              "nflTeam": "SF",
+              "weeks": {
+                "4": {
+                  "points": 19.62,
+                  "started": true
+                }
+              }
+            },
+            {
+              "player": "Bucky Irving",
+              "position": "RB",
+              "nflTeam": "TB",
+              "weeks": {
+                "4": {
+                  "points": 6.1,
+                  "started": true
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

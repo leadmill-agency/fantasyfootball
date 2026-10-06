@@ -9,6 +9,7 @@ const ITEMS = [
   { href: "/contender-matrix", label: "Matrix", short: "Matrix" },
   { href: "/odds", label: "Title Odds", short: "Odds" },
   { href: "/draft-grades", label: "Draft Grades", short: "Draft" },
+  { href: "/trades", label: "Trades", short: "Trades" },
 ];
 
 export default function PrimaryNav() {
