@@ -161,9 +161,15 @@ export default async function TeamPage({
           <h2 className="eyebrow text-ink-soft border-b border-rule pb-2 mb-4">
             Current Roster
           </h2>
+          {!snap.roster && (
+            <p className="font-data text-sm text-ink-soft mb-6">
+              {snap.rosterNote ??
+                "This week's lineup wasn't captured. It will be filled in."}
+            </p>
+          )}
           <div className="eyebrow text-ink-faint mb-2">Starters</div>
           <ul className="mb-6">
-            {snap.roster.starters.map((p, i) => (
+            {(snap.roster?.starters ?? []).map((p, i) => (
               <li
                 key={i}
                 className="flex items-baseline gap-3 py-1.5 border-b border-rule/50 font-data text-sm"
@@ -180,7 +186,7 @@ export default async function TeamPage({
           </ul>
           <div className="eyebrow text-ink-faint mb-2">Bench</div>
           <ul>
-            {snap.roster.bench.map((p, i) => (
+            {(snap.roster?.bench ?? []).map((p, i) => (
               <li
                 key={i}
                 className="flex items-baseline gap-3 py-1.5 border-b border-rule/50 font-data text-sm"

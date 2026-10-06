@@ -34,10 +34,13 @@ export const WeeklyTeamSnapshotSchema = z.object({
   movementReasons: z
     .array(z.object({ delta: z.number(), reason: z.string() }))
     .optional(),
-  roster: z.object({
-    starters: z.array(StarterSchema),
-    bench: z.array(RosterPlayerSchema),
-  }),
+  roster: z
+    .object({
+      starters: z.array(StarterSchema),
+      bench: z.array(RosterPlayerSchema),
+    })
+    .optional(),
+  rosterNote: z.string().optional(),
 });
 
 export const WeeklySnapshotSchema = z.object({
