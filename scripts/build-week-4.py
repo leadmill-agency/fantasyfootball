@@ -6,8 +6,8 @@ results = 20% win% + 40% all-play% + 40% scoring vs league average (scaled from
 the league low to the league high); blend = 0.7 x results + 0.3 x structure.
 Power scores keep the blend's order on the familiar 65-89 scale.
 Rosters: Week 4 lineups as played, transcribed from ESPN box scores
-(final, 2026-10-06). Two captures (HNFNR, IVaafay) dropped their offensive
-rows, so those two rosters are omitted (rosterNote) until re-captured.
+(final, 2026-10-06). IVaafay's capture dropped its offensive rows twice, so that
+roster is omitted (rosterNote) until re-captured. HNFNR was re-shot and added.
 """
 import json, math, os
 
@@ -94,6 +94,9 @@ ROSTERS = {
  "rambam": {
    "starters": [P("C.J. Stroud","QB","HOU"),P("Emanuel Wilson","RB","SEA"),P("Jonathan Taylor","RB","IND"),P("Matthew Golden","WR","GB"),P("Kalif Raymond","WR","CHI"),P("Tyler Warren","TE","IND"),P("TreVeyon Henderson","RB","NE"),P("Packers D/ST","D/ST","GB"),P("Spencer Shrader","K","IND")],
    "bench": [P("Emeka Egbuka","WR","TB"),P("Rome Odunze","WR","CHI"),P("Jayden Daniels","QB","WSH"),P("Xavier Worthy","WR","KC"),P("Kaelon Black","RB","SF"),P("Chris Rodriguez Jr.","RB","JAX"),P("Travis Etienne Jr. (IR)","RB","NO"),P("Jonathon Brooks (IR)","RB","CAR")]},
+ "hnfnr-aint-busy": {
+   "starters": [P("Joe Burrow","QB","CIN"),P("Derrick Henry","RB","BAL"),P("Tony Pollard","RB","TEN"),P("Jaxon Smith-Njigba","WR","SEA"),P("Zay Flowers","WR","BAL"),P("Brock Bowers","TE","LV"),P("Michael Wilson","WR","ARI"),P("Eagles D/ST","D/ST","PHI"),P("Cameron Dicker","K","LAC")],
+   "bench": [P("Rhamondre Stevenson","RB","NE"),P("Brian Thomas Jr.","WR","JAX"),P("Jacory Croskey-Merritt","RB","WSH"),P("Tyler Allgeier","RB","ARI"),P("Dalton Kincaid","TE","BUF"),P("Dalton Schultz","TE","HOU"),P("Denzel Boston","WR","CLE"),P("Jayden Reed (IR)","WR","GB")]},
  "team-noor": {
    "starters": [P("Josh Allen","QB","BUF"),P("Kyren Williams","RB","LAR"),P("Aaron Jones Sr.","RB","MIN"),P("Ja'Marr Chase","WR","CIN"),P("Christian Watson","WR","GB"),P("George Kittle","TE","SF"),P("Jaylen Waddle","WR","DEN"),P("Raiders D/ST","D/ST","LV"),P("Tyler Loop","K","BAL")],
    "bench": [P("Breece Hall","RB","NYJ"),P("J.K. Dobbins","RB","DEN"),P("Mark Andrews","TE","BAL"),P("Jared Goff","QB","DET"),P("Tre Tucker","WR","LV"),P("Patriots D/ST","D/ST","NE"),P("Demarcus Robinson (IR)","WR","SF")]},
@@ -126,8 +129,7 @@ for tid, r in ROSTERS.items():
     slots = [{"slot": s, **p} for s, p in zip(S, r["starters"])]
     ROSTERS[tid] = {"starters": slots, "bench": r["bench"]}
 ROSTER_NOTE = {
-  "hnfnr-aint-busy": "The Week 4 lineup didn't survive the ESPN screenshot. Known: Burrow 23.72, Dicker 12.0, Eagles D/ST −1.0; roster pending re-capture.",
-  "ivaafay": "The Week 4 lineup didn't survive the ESPN screenshot. Known: Watson 12.92, Bates 18.0, Bears D/ST 9.0; roster pending re-capture.",
+  "ivaafay": "The Week 4 lineup didn't survive the ESPN screenshot (twice). Known: Watson 12.92, Bijan Robinson 27.2, Bates 18.0, Bears D/ST 9.0; the rest is pending re-capture.",
 }
 
 # cumulative records + PF from all results through week 4

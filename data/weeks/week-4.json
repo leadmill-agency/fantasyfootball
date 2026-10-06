@@ -40,8 +40,107 @@
       ],
       "headline": "FOUR AND OH",
       "verdict": "127.12, a 54-point win over the team Haroon called a juggernaut, and the only unbeaten record left.",
-      "analysis": "Haroon set the matchup up on Thursday: \"The real 2 juggernauts are playing each other this week,\" tagging Arfan and Kashir. One of them scored 127.12. The other scored 72.82, the lowest total in the league. Joe Burrow threw for 428 yards and 23.72 points, Cameron Dicker added 12.0, and HNFNR won by 54.3 to go 4-0 with a 36-8 all-play record. Nobody else has more than 30 all-play wins. Nobody else has more than three real ones.\n\nArfan's week in the chat was mostly about trades he wasn't in. He vetoed the Allen deal with his signature analysis \u2014 \"I don't know football. But I know that's a bullshit trade\" \u2014 and then, when the commissioner blamed the No. 1 seed for failing to rally the veto, replied: \"I asked AI. And it said that's the comish job.\" He also took a shot at Asim during the game (\"Bucky score 6 points and Purdy 2 points. Let me help you with math\") and withdrew it by 8 PM, after Purdy finished with 19.62.\n\nThe new formula is built for exactly this r\u00e9sum\u00e9. Results are 70 percent of the board now, and no team's results are close: 4-0, the best true-standings record, and the most points in the league. HNFNR stays No. 1 by the widest margin the board has shown. Next is IVaafay, which just scored 128.72 and went 10-1 against the field.",
-      "rosterNote": "The Week 4 lineup didn't survive the ESPN screenshot. Known: Burrow 23.72, Dicker 12.0, Eagles D/ST \u22121.0; roster pending re-capture."
+      "analysis": "Haroon set the matchup up on Thursday: \"The real 2 juggernauts are playing each other this week,\" tagging Arfan and Kashir. One of them scored 127.12. The other scored 72.82, the lowest total in the league. Joe Burrow threw for 428 yards and 23.72 points, Zay Flowers scored 21.8, Brock Bowers scored 17.6 in his first start of the season, and HNFNR won by 54.3 to go 4-0 with a 36-8 all-play record. Nobody else has more than 30 all-play wins. Nobody else has more than three real ones.\n\nArfan's week in the chat was mostly about trades he wasn't in. He vetoed the Allen deal with his signature analysis \u2014 \"I don't know football. But I know that's a bullshit trade\" \u2014 and then, when the commissioner blamed the No. 1 seed for failing to rally the veto, replied: \"I asked AI. And it said that's the comish job.\" He also took a shot at Asim during the game (\"Bucky score 6 points and Purdy 2 points. Let me help you with math\") and withdrew it by 8 PM, after Purdy finished with 19.62.\n\nThe new formula is built for exactly this r\u00e9sum\u00e9. Results are 70 percent of the board now, and no team's results are close: 4-0, the best true-standings record, and the most points in the league. HNFNR stays No. 1 by the widest margin the board has shown. Next is IVaafay, which just scored 128.72 and went 10-1 against the field.",
+      "roster": {
+        "starters": [
+          {
+            "slot": "QB",
+            "player": "Joe Burrow",
+            "position": "QB",
+            "nflTeam": "CIN"
+          },
+          {
+            "slot": "RB",
+            "player": "Derrick Henry",
+            "position": "RB",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "RB",
+            "player": "Tony Pollard",
+            "position": "RB",
+            "nflTeam": "TEN"
+          },
+          {
+            "slot": "WR",
+            "player": "Jaxon Smith-Njigba",
+            "position": "WR",
+            "nflTeam": "SEA"
+          },
+          {
+            "slot": "WR",
+            "player": "Zay Flowers",
+            "position": "WR",
+            "nflTeam": "BAL"
+          },
+          {
+            "slot": "TE",
+            "player": "Brock Bowers",
+            "position": "TE",
+            "nflTeam": "LV"
+          },
+          {
+            "slot": "FLEX",
+            "player": "Michael Wilson",
+            "position": "WR",
+            "nflTeam": "ARI"
+          },
+          {
+            "slot": "D/ST",
+            "player": "Eagles D/ST",
+            "position": "D/ST",
+            "nflTeam": "PHI"
+          },
+          {
+            "slot": "K",
+            "player": "Cameron Dicker",
+            "position": "K",
+            "nflTeam": "LAC"
+          }
+        ],
+        "bench": [
+          {
+            "player": "Rhamondre Stevenson",
+            "position": "RB",
+            "nflTeam": "NE"
+          },
+          {
+            "player": "Brian Thomas Jr.",
+            "position": "WR",
+            "nflTeam": "JAX"
+          },
+          {
+            "player": "Jacory Croskey-Merritt",
+            "position": "RB",
+            "nflTeam": "WSH"
+          },
+          {
+            "player": "Tyler Allgeier",
+            "position": "RB",
+            "nflTeam": "ARI"
+          },
+          {
+            "player": "Dalton Kincaid",
+            "position": "TE",
+            "nflTeam": "BUF"
+          },
+          {
+            "player": "Dalton Schultz",
+            "position": "TE",
+            "nflTeam": "HOU"
+          },
+          {
+            "player": "Denzel Boston",
+            "position": "WR",
+            "nflTeam": "CLE"
+          },
+          {
+            "player": "Jayden Reed (IR)",
+            "position": "WR",
+            "nflTeam": "GB"
+          }
+        ]
+      }
     },
     {
       "teamId": "team-noor",
@@ -632,7 +731,7 @@
       "headline": "IN WATSON WE TRUST",
       "verdict": "128.72 at 10-1 against the field, a second straight win, and the quarterback situation is somehow fine.",
       "analysis": "Naafay scored 128.72, second-best in the league this week, beat Bilal, and is 2-2 after an 0-2 start. Deshaun Watson \u2014 a waiver pickup two weeks ago, started over Penix \u2014 threw for 268 yards and 12.92 points, Jake Bates kicked for 18.0, and the Bears defense added 9.0. Monday night, with the win banked, Naafay dropped Michael Penix Jr. and picked up Joe Mixon. The quarterback the chat laughed at is now the only one on the roster until Caleb Williams returns, which is still one to two weeks away.\n\nThe week's other Naafay position: he is the league's only principled abstainer. \"Sadly I must uphold everything since I been against the veto system since day 1.\" He also tried to pry Denzel Boston from Arfan straight up for Jordan Addison, and spent Thursday night as the chat's moderator (\"Whose left\") while the Allen vote came down to the final ballot.\n\nUp two to No. 6. IVaafay is 23-21 against the field and dead on the league scoring average, which under the new formula is the middle of the board, exactly where it sits. The ceiling moves up to No. 7. Next is HNFNR, undefeated, which is the sort of thing Naafay's team has stopped being afraid of. One editorial note: the full lineup from the ESPN capture didn't survive the screenshot, so this team's roster on the site is pending.",
-      "rosterNote": "The Week 4 lineup didn't survive the ESPN screenshot. Known: Watson 12.92, Bates 18.0, Bears D/ST 9.0; roster pending re-capture."
+      "rosterNote": "The Week 4 lineup didn't survive the ESPN screenshot (twice). Known: Watson 12.92, Bijan Robinson 27.2, Bates 18.0, Bears D/ST 9.0; the rest is pending re-capture."
     },
     {
       "teamId": "chief-sheikh",
