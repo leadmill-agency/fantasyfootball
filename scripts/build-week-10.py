@@ -182,6 +182,8 @@ for rank, tid, score, tier, ceiling in BOARD:
         "roster": ROSTERS[tid],
     })
 
+# Corrections Dept., added 2026-11-24 (Yaseen: the Jets logo was not new)
+out["corrections"] = "The Week 10 Gang Green column said the team's logo \"is the New York Jets now\" and wondered when that happened. Yaseen produced the screenshot: it has been the Jets logo all season. The desk's earlier captures had not loaded the image, and a paragraph was built on a blank square. The desk regrets the error. Yaseen's other complaint that week, about the 0.60, was withdrawn by Yaseen."
 json.dump(out, open(f"{ROOT}/data/weeks/week-10.json", "w"), indent=2)
 print("odds sum:", round(sum(t["titleOdds"] for t in out["teams"]), 1))
 for t in out["teams"]:
